@@ -1,0 +1,4 @@
+pair,recall@90_without_both,dI,dJ,dIJ,dI+dJ,interaction
+DEMO+VAL,0.1203,-0.0127,-0.0253,-0.0127,-0.038,substitutive
+DEMO+GEO,0.1203,-0.0127,-0.038,-0.0127,-0.0507,substitutive
+VAL+GEO,0.1139,-0.0253,-0.038,-0.0063,-0.0633,substitutive

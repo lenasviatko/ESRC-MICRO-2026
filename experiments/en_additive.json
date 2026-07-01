@@ -1,0 +1,55 @@
+{
+  "pool": "POOL-EN",
+  "order": [
+    "GEO",
+    "VAL",
+    "DEMO",
+    "INT",
+    "PROF"
+  ],
+  "rows": [
+    {
+      "step": 1,
+      "profile": "GEO",
+      "recall@90": 0.0316,
+      "rank1_acc": 0.1329,
+      "frac_of_full": 0.7
+    },
+    {
+      "step": 2,
+      "profile": "GEO+VAL",
+      "recall@90": 0.0063,
+      "rank1_acc": 0.1329,
+      "frac_of_full": 0.7
+    },
+    {
+      "step": 3,
+      "profile": "GEO+VAL+DEMO",
+      "recall@90": 0.0063,
+      "rank1_acc": 0.1519,
+      "frac_of_full": 0.8
+    },
+    {
+      "step": 4,
+      "profile": "GEO+VAL+DEMO+INT",
+      "recall@90": 0.0063,
+      "rank1_acc": 0.1456,
+      "frac_of_full": 0.767
+    },
+    {
+      "step": 5,
+      "profile": "GEO+VAL+DEMO+INT+PROF",
+      "recall@90": 0.0,
+      "rank1_acc": 0.1013,
+      "frac_of_full": 0.533
+    },
+    {
+      "step": 6,
+      "profile": "GEO+VAL+DEMO+INT+PROF+STYLE",
+      "recall@90": 0.0,
+      "rank1_acc": 0.1899,
+      "frac_of_full": 1.0
+    }
+  ],
+  "MSSS": "GEO+VAL+DEMO"
+}

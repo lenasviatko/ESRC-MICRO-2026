@@ -1,0 +1,121 @@
+{
+  "pool": "POOL-EN",
+  "n": 158,
+  "model": "gpt-4o",
+  "recall_full@90": 0.0,
+  "recall_full@99": 0.0,
+  "recall_full@90_CI": [
+    0.0,
+    0.013
+  ],
+  "rank1_full": 0.1899,
+  "rows": [
+    {
+      "condition": "FULL",
+      "recall@90": 0.0,
+      "r90_CI": [
+        0.0,
+        0.013
+      ],
+      "recall@99": 0.0,
+      "rank1_acc": 0.1899,
+      "retrieved@15": 0.43
+    },
+    {
+      "condition": "NO_GEO",
+      "recall@90": 0.0127,
+      "r90_CI": [
+        0.0,
+        0.038
+      ],
+      "recall@99": 0.0127,
+      "rank1_acc": 0.1456,
+      "retrieved@15": 0.405,
+      "SIS_recall90": 0.0,
+      "SIS_rank1": 23.3,
+      "t_pvalue": 0.1085,
+      "cohens_d": 0.128,
+      "mcnemar_p": 0.1671
+    },
+    {
+      "condition": "NO_PROF",
+      "recall@90": 0.0063,
+      "r90_CI": [
+        0.0,
+        0.019
+      ],
+      "recall@99": 0.0063,
+      "rank1_acc": 0.2468,
+      "retrieved@15": 0.411,
+      "SIS_recall90": 0.0,
+      "SIS_rank1": -30.0,
+      "t_pvalue": 0.0603,
+      "cohens_d": -0.151,
+      "mcnemar_p": 0.0931
+    },
+    {
+      "condition": "NO_DEMO",
+      "recall@90": 0.0063,
+      "r90_CI": [
+        0.0,
+        0.025
+      ],
+      "recall@99": 0.0063,
+      "rank1_acc": 0.1962,
+      "retrieved@15": 0.424,
+      "SIS_recall90": 0.0,
+      "SIS_rank1": -3.3,
+      "t_pvalue": 0.7641,
+      "cohens_d": -0.024,
+      "mcnemar_p": 1.0
+    },
+    {
+      "condition": "NO_INT",
+      "recall@90": 0.0,
+      "r90_CI": [
+        0.0,
+        0.0
+      ],
+      "recall@99": 0.0,
+      "rank1_acc": 0.2342,
+      "retrieved@15": 0.386,
+      "SIS_recall90": 0.0,
+      "SIS_rank1": -23.3,
+      "t_pvalue": 0.1946,
+      "cohens_d": -0.104,
+      "mcnemar_p": 0.2649
+    },
+    {
+      "condition": "NO_VAL",
+      "recall@90": 0.0063,
+      "r90_CI": [
+        0.0,
+        0.025
+      ],
+      "recall@99": 0.0063,
+      "rank1_acc": 0.1456,
+      "retrieved@15": 0.38,
+      "SIS_recall90": 0.0,
+      "SIS_rank1": 23.3,
+      "t_pvalue": 0.1085,
+      "cohens_d": 0.128,
+      "mcnemar_p": 0.1671
+    },
+    {
+      "condition": "NO_STYLE",
+      "recall@90": 0.0127,
+      "r90_CI": [
+        0.0,
+        0.032
+      ],
+      "recall@99": 0.0127,
+      "rank1_acc": 0.1013,
+      "retrieved@15": 0.418,
+      "SIS_recall90": 0.0,
+      "SIS_rank1": 46.7,
+      "t_pvalue": 0.0004,
+      "cohens_d": 0.289,
+      "mcnemar_p": 0.0005
+    }
+  ]
+}

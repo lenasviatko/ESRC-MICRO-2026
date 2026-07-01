@@ -1,0 +1,60 @@
+{
+  "name": "ESRC-Micro-2026",
+  "version": "1.0",
+  "build_completed_utc": "2026-05-03T21:39:31.581700+00:00",
+  "host": "Tatas-MacBook-Pro-New.local",
+  "python_version": "3.10.10 (v3.10.10:aad5f6a891, Feb  7 2023, 08:47:40) [Clang 13.0.0 (clang-1300.0.29.30)]",
+  "platform": "macOS-14.4-arm64-arm-64bit",
+  "seed": 42,
+  "filters": {
+    "min_total_comments": 1000,
+    "min_activity_days": 1460,
+    "max_mean_per_day": 24,
+    "min_unique_subreddits": 5,
+    "lang_threshold": 0.8
+  },
+  "temporal_split": {
+    "split_gap_days": 182,
+    "min_per_side_after": 500,
+    "comment_cap_per_side": 500
+  },
+  "pools": {
+    "POOL-EN": {
+      "n_matched": 500,
+      "n_distractor": 500,
+      "source": "reddit",
+      "lang": "en"
+    },
+    "POOL-HN": {
+      "n_matched": 300,
+      "n_distractor": 300,
+      "source": "hn",
+      "lang": "en"
+    },
+    "POOL-XLING-ES": {
+      "n_matched": 200,
+      "n_distractor": 0,
+      "source": "stackexchange",
+      "lang": "en|es"
+    },
+    "POOL-XLING-PT": {
+      "n_matched": 200,
+      "n_distractor": 0,
+      "source": "stackexchange",
+      "lang": "en|pt"
+    }
+  },
+  "reddit_months": [
+    "RC_2015-06.zst",
+    "RC_2016-01.zst",
+    "RC_2016-06.zst",
+    "RC_2017-01.zst",
+    "RC_2017-06.zst",
+    "RC_2018-01.zst",
+    "RC_2018-06.zst",
+    "RC_2018-12.zst",
+    "RC_2019-06.zst",
+    "RC_2020-01.zst",
+    "RC_2020-06.zst"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "pool": "POOL-HN",
+  "order": [
+    "GEO",
+    "PROF",
+    "DEMO",
+    "INT",
+    "VAL"
+  ],
+  "rows": [
+    {
+      "step": 1,
+      "profile": "GEO",
+      "recall@90": 0.0,
+      "rank1_acc": 0.0,
+      "frac_of_full": 0.0
+    },
+    {
+      "step": 2,
+      "profile": "GEO+PROF",
+      "recall@90": 0.0,
+      "rank1_acc": 0.0,
+      "frac_of_full": 0.0
+    },
+    {
+      "step": 3,
+      "profile": "GEO+PROF+DEMO",
+      "recall@90": 0.0,
+      "rank1_acc": 0.0,
+      "frac_of_full": 0.0
+    },
+    {
+      "step": 4,
+      "profile": "GEO+PROF+DEMO+INT",
+      "recall@90": 0.0,
+      "rank1_acc": 0.0,
+      "frac_of_full": 0.0
+    },
+    {
+      "step": 5,
+      "profile": "GEO+PROF+DEMO+INT+VAL",
+      "recall@90": 0.0,
+      "rank1_acc": 0.0,
+      "frac_of_full": 0.0
+    },
+    {
+      "step": 6,
+      "profile": "GEO+PROF+DEMO+INT+VAL+STYLE",
+      "recall@90": 0.0,
+      "rank1_acc": 0.0,
+      "frac_of_full": 0.0
+    }
+  ],
+  "MSSS": "GEO+PROF+DEMO+INT+VAL+STYLE"
+}

@@ -1,0 +1,812 @@
+{
+  "pool": "POOL-EN",
+  "n": 158,
+  "n_success": 30,
+  "n_failure": 128,
+  "failure_due_to_retrieval_miss": 90,
+  "failure_due_to_wrong_reason_pick": 38,
+  "success_cases": [
+    {
+      "uid": "user_043ea160",
+      "predicted": "user_043ea160",
+      "correct": true,
+      "confidence": 0.8,
+      "retrieved_true": true,
+      "query_profile": "lives_in_portland, male, has_wife, open_relationship, interested_in_sexuality, enjoys_photography, technology_mod, writes_fantasy_literature, nerdy, interested_in_kinks, focuses_on_communication, has_experience_with_kegels, enjoys_prostate_stimulation, prefers_gentle_touch, values_honesty_in_relationships, believes_in_continuous_learning. writing style: avg sentence length 11.3 words, avg word length 4.28 chars, type-token ratio 0.143, punctuation 12.6 per 100 words, first-person pronouns 4.4 per 100 words",
+      "true_candidate_profile": "lives_in_portland, male, has_children, fitness_enthusiast, sexual_educator, homebrewer, pro-sex, positive_contributor_to_swinging_society, enjoys_documenting_personal_journey, has_dog, enjoys_photography, enjoys_filming, shares_personal_experiences_on_reddit, interested_in_male_phallus_health, promotes_male_sensitivity_training, enjoys_sharing_sexual_knowledge, has_experience_with_kegel_exercises, enjoys_artistic_and_pornographic_cultures. writing style: avg sentence length 13.3 words, avg word length 4.35 chars, type-token ratio 0.128, punctuation 11.1 per 100 words, first-person pronouns 5.0 per 100 words",
+      "predicted_candidate_profile": "lives_in_portland, male, has_children, fitness_enthusiast, sexual_educator, homebrewer, pro-sex, positive_contributor_to_swinging_society, enjoys_documenting_personal_journey, has_dog, enjoys_photography, enjoys_filming, shares_personal_experiences_on_reddit, interested_in_male_phallus_health, promotes_male_sensitivity_training, enjoys_sharing_sexual_knowledge, has_experience_with_kegel_exercises, enjoys_artistic_and_pornographic_cultures. writing style: avg sentence length 13.3 words, avg word length 4.35 chars, type-token ratio 0.128, punctuation 11.1 per 100 words, first-person pronouns 5.0 per 100 words"
+    },
+    {
+      "uid": "user_126670d7",
+      "predicted": "user_126670d7",
+      "correct": true,
+      "confidence": 0.9,
+      "retrieved_true": true,
+      "query_profile": "lives_in_north_dakota, male, has_dog, pro_nuclear, hockey_player, enjoys_burritos, libertarian, enjoys_homebrewing, supports_liverpool_fc, military_veteran. writing style: avg sentence length 23.8 words, avg word length 4.10 chars, type-token ratio 0.185, punctuation 6.0 per 100 words, first-person pronouns 4.0 per 100 words",
+      "true_candidate_profile": "lives_in_portland, male, has_dog, hockey_fan, plays_gears_of_war, pro_nuclear, works_in_retail, has_cat, interested_in_hvac, libertarian. writing style: avg sentence length 27.9 words, avg word length 4.00 chars, type-token ratio 0.183, punctuation 4.7 per 100 words, first-person pronouns 4.6 per 100 words",
+      "predicted_candidate_profile": "lives_in_portland, male, has_dog, hockey_fan, plays_gears_of_war, pro_nuclear, works_in_retail, has_cat, interested_in_hvac, libertarian. writing style: avg sentence length 27.9 words, avg word length 4.00 chars, type-token ratio 0.183, punctuation 4.7 per 100 words, first-person pronouns 4.6 per 100 words"
+    },
+    {
+      "uid": "user_13f8ee07",
+      "predicted": "user_13f8ee07",
+      "correct": true,
+      "confidence": 0.7,
+      "retrieved_true": true,
+      "query_profile": "lives_in_portland, biology_major, has_cat, has_dog, college_student, pro-education, dog_owner, cat_owner, independent, animal_lover, supports_mental_health, values_relationships. writing style: avg sentence length 12.4 words, avg word length 4.11 chars, type-token ratio 0.143, punctuation 11.8 per 100 words, first-person pronouns 2.7 per 100 words",
+      "true_candidate_profile": "lives_in_portland, has_dog, college_student, pro-education, outdoor_enthusiast, dog_owner, supports_animal_welfare, enjoys_band_music. writing style: avg sentence length 11.0 words, avg word length 4.10 chars, type-token ratio 0.213, punctuation 11.5 per 100 words, first-person pronouns 3.5 per 100 words",
+      "predicted_candidate_profile": "lives_in_portland, has_dog, college_student, pro-education, outdoor_enthusiast, dog_owner, supports_animal_welfare, enjoys_band_music. writing style: avg sentence length 11.0 words, avg word length 4.10 chars, type-token ratio 0.213, punctuation 11.5 per 100 words, first-person pronouns 3.5 per 100 words"
+    },
+    {
+      "uid": "user_1a4bec69",
+      "predicted": "user_1a4bec69",
+      "correct": true,
+      "confidence": 0.8,
+      "retrieved_true": true,
+      "query_profile": "lives_in_scotland, pro_independence, left_of_centre, cities_skylines_player, has_cat, supports_scottish_lib_dems, woodworking, has_children, military_veteran. writing style: avg sentence length 14.5 words, avg word length 4.48 chars, type-token ratio 0.196, punctuation 10.2 per 100 words, first-person pronouns 1.7 per 100 words",
+      "true_candidate_profile": "lives_in_scotland, pro_independence, has_dog, leftist, scottish_national_party_supporter, critical_of_boris_johnson, interested_in_politics, anti_brexit, supports_devolution, environmentally_conscious, enjoys_city_building_games, knowledgeable_about_scottish_history, critical_of_media_bias, skeptical_of_conservatives, supports_nuclear_energy, interested_in_automotive_reliability, engaged_in_local_issues. writing style: avg sentence length 14.2 words, avg word length 4.45 chars, type-token ratio 0.214, punctuation 10.1 per 100 words, first-person pronouns 1.5 per 100 words",
+      "predicted_candidate_profile": "lives_in_scotland, pro_independence, has_dog, leftist, scottish_national_party_supporter, critical_of_boris_johnson, interested_in_politics, anti_brexit, supports_devolution, environmentally_conscious, enjoys_city_building_games, knowledgeable_about_scottish_history, critical_of_media_bias, skeptical_of_conservatives, supports_nuclear_energy, interested_in_automotive_reliability, engaged_in_local_issues. writing style: avg sentence length 14.2 words, avg word length 4.45 chars, type-token ratio 0.214, punctuation 10.1 per 100 words, first-person pronouns 1.5 per 100 words"
+    },
+    {
+      "uid": "user_1e302679",
+      "predicted": "user_1e302679",
+      "correct": true,
+      "confidence": 0.8,
+      "retrieved_true": true,
+      "query_profile": "lives_in_toronto, male, has_cat, pro_nuclear, traffic_safety_advocate, public_transport_enthusiast, automotive_enthusiast, environmental_concerned, university_student, critical_of_government, enjoys_seafood, supports_urban_planning. writing style: avg sentence length 15.6 words, avg word length 4.32 chars, type-token ratio 0.182, punctuation 12.2 per 100 words, first-person pronouns 2.7 per 100 words",
+      "true_candidate_profile": "lives_in_toronto, pro_nuclear, has_dog, automotive_enthusiast, supports_public_transit, environmentalist, critical_of_tipping_culture, interested_in_urban_planning, enjoys_toy_story_fandom, keeps_reptiles. writing style: avg sentence length 15.5 words, avg word length 4.27 chars, type-token ratio 0.188, punctuation 10.0 per 100 words, first-person pronouns 2.8 per 100 words",
+      "predicted_candidate_profile": "lives_in_toronto, pro_nuclear, has_dog, automotive_enthusiast, supports_public_transit, environmentalist, critical_of_tipping_culture, interested_in_urban_planning, enjoys_toy_story_fandom, keeps_reptiles. writing style: avg sentence length 15.5 words, avg word length 4.27 chars, type-token ratio 0.188, punctuation 10.0 per 100 words, first-person pronouns 2.8 per 100 words"
+    },
+    {
+      "uid": "user_21b4fa31",
+      "predicted": "user_21b4fa31",
+      "correct": true,
+      "confidence": 0.7,
+      "retrieved_true": true,
+      "query_profile": "lives_in_morocco, male, muslim, has_beard, speaks_arabic, pro_islam, has_fiancée, expat, supports_reverts_to_islam, interested_in_arab_culture, has_experience_with_visas, has_experience_with_internships, engaged_in_religious_discourse. writing style: avg sentence length 11.1 words, avg word length 4.39 chars, type-token ratio 0.203, punctuation 11.5 per 100 words, first-person pronouns 2.2 per 100 words",
+      "true_candidate_profile": "lives_in_morocco, male, programmer, has_dog, pro_palestine, couchsurfing_user, aerospace_engineer, libertarian, keeps_reptiles. writing style: avg sentence length 12.3 words, avg word length 4.39 chars, type-token ratio 0.204, punctuation 10.4 per 100 words, first-person pronouns 1.7 per 100 words",
+      "predicted_candidate_profile": "lives_in_morocco, male, programmer, has_dog, pro_palestine, couchsurfing_user, aerospace_engineer, libertarian, keeps_reptiles. writing style: avg sentence length 12.3 words, avg word length 4.39 chars, type-token ratio 0.204, punctuation 10.4 per 100 words, first-person pronouns 1.7 per 100 words"
+    },
+    {
+      "uid": "user_2373103d",
+      "predicted": "user_2373103d",
+      "correct": true,
+      "confidence": 0.8,
+      "retrieved_true": true,
+      "query_profile": "lives_in_little_rock, libertarian, has_children, doctor_who_fan, 70s_rock_listener, homebrewing, pro_nuclear, woodworking, military_veteran. writing style: avg sentence length 9.1 words, avg word length 4.39 chars, type-token ratio 0.305, punctuation 13.7 per 100 words, first-person pronouns 2.7 per 100 words",
+      "true_candidate_profile": "lives_in_little_rock, has_dog, libertarian, pokemon_go_player, pro_nuclear, military_veteran. writing style: avg sentence length 8.5 words, avg word length 4.33 chars, type-token ratio 0.320, punctuation 14.9 per 100 words, first-person pronouns 2.5 per 100 words",
+      "predicted_candidate_profile": "lives_in_little_rock, has_dog, libertarian, pokemon_go_player, pro_nuclear, military_veteran. writing style: avg sentence length 8.5 words, avg word length 4.33 chars, type-token ratio 0.320, punctuation 14.9 per 100 words, first-person pronouns 2.5 per 100 words"
+    },
+    {
+      "uid": "user_245fd42f",
+      "predicted": "user_245fd42f",
+      "correct": true,
+      "confidence": 0.8,
+      "retrieved_true": true,
+      "query_profile": "lives_in_philadelphia, male, has_cat, pro_nuclear, high_school_teacher, woodworking, avid_biker, community_engagement. writing style: avg sentence length 12.3 words, avg word length 4.63 chars, type-token ratio 0.186, punctuation 13.4 per 100 words, first-person pronouns 1.6 per 100 words",
+      "true_candidate_profile": "lives_in_philadelphia, male, has_dog, homebrewer, pro_nuclear, woodworking, liberal, recovering_alcoholic, formula1_fan, engaged_in_local_politics. writing style: avg sentence length 13.7 words, avg word length 4.65 chars, type-token ratio 0.208, punctuation 11.9 per 100 words, first-person pronouns 2.1 per 100 words",
+      "predicted_candidate_profile": "lives_in_philadelphia, male, has_dog, homebrewer, pro_nuclear, woodworking, liberal, recovering_alcoholic, formula1_fan, engaged_in_local_politics. writing style: avg sentence length 13.7 words, avg word length 4.65 chars, type-token ratio 0.208, punctuation 11.9 per 100 words, first-person pronouns 2.1 per 100 words"
+    },
+    {
+      "uid": "user_27a3fa64",
+      "predicted": "user_27a3fa64",
+      "correct": true,
+      "confidence": 0.9,
+      "retrieved_true": true,
+      "query_profile": "lives_in_portland, 34_year_old_man, has_dog, has_cat, therapist_user, emotionally_aware, dog_owner, enjoys_music, values_therapy, homebrewing, recovering_alcoholic, engaged_in_relationship_advice, critical_thinker, values_empathy, enjoys_outdoor_activities. writing style: avg sentence length 13.8 words, avg word length 4.22 chars, type-token ratio 0.119, punctuation 12.8 per 100 words, first-person pronouns 3.0 per 100 words",
+      "true_candidate_profile": "lives_in_portland, male, dink, has_dog, pro-nuclear, enjoys_country_music, technology_enthusiast, values_independence, recovering_alcoholic, has_brothers, has_sister, enjoys_woodworking, enjoys_homebrewing, interested_in_therapy, values_family_boundaries, enjoys_traveling, enjoys_running, enjoys_skiing, enjoys_swimming, enjoys_football, enjoys_hockey, enjoys_canoeing, enjoys_writing, enjoys_reading. writing style: avg sentence length 15.6 words, avg word length 4.20 chars, type-token ratio 0.136, punctuation 10.8 per 100 words, first-person pronouns 3.5 per 100 words",
+      "predicted_candidate_profile": "lives_in_portland, male, dink, has_dog, pro-nuclear, enjoys_country_music, technology_enthusiast, values_independence, recovering_alcoholic, has_brothers, has_sister, enjoys_woodworking, enjoys_homebrewing, interested_in_therapy, values_family_boundaries, enjoys_traveling, enjoys_running, enjoys_skiing, enjoys_swimming, enjoys_football, enjoys_hockey, enjoys_canoeing, enjoys_writing, enjoys_reading. writing style: avg sentence length 15.6 words, avg word length 4.20 chars, type-token ratio 0.136, punctuation 10.8 per 100 words, first-person pronouns 3.5 per 100 words"
+    },
+    {
+      "uid": "user_29cd4556",
+      "predicted": "user_29cd4556",
+      "correct": true,
+      "confidence": 0.9,
+      "retrieved_true": true,
+      "query_profile": "lives_in_portland, male, has_cat, aerospace_engineer, pro_nuclear, game_of_thrones_fan, xcom_player, woodworking, homebrewing. writing style: avg sentence length 14.5 words, avg word length 4.29 chars, type-token ratio 0.161, punctuation 11.0 per 100 words, first-person pronouns 1.3 per 100 words",
+      "true_candidate_profile": "lives_in_portland, aerospace_engineer, has_cat, pro_nuclear, xcom2_player, deep_star_wars_fan, libertarian, homebrewing. writing style: avg sentence length 14.4 words, avg word length 4.41 chars, type-token ratio 0.189, punctuation 11.0 per 100 words, first-person pronouns 1.2 per 100 words",
+      "predicted_candidate_profile": "lives_in_portland, aerospace_engineer, has_cat, pro_nuclear, xcom2_player, deep_star_wars_fan, libertarian, homebrewing. writing style: avg sentence length 14.4 words, avg word length 4.41 chars, type-token ratio 0.189, punctuation 11.0 per 100 words, first-person pronouns 1.2 per 100 words"
+    },
+    {
+      "uid": "user_2dd189e3",
+      "predicted": "user_2dd189e3",
+      "correct": true,
+      "confidence": 0.9,
+      "retrieved_true": true,
+      "query_profile": "lives_in_cincinnati, pediatric_nurse, has_children, pro_nuclear, plays_guitar, bernie_sanders_supporter, homebrewing, military_veteran. writing style: avg sentence length 10.0 words, avg word length 4.18 chars, type-token ratio 0.264, punctuation 15.1 per 100 words, first-person pronouns 3.2 per 100 words",
+      "true_candidate_profile": "lives_in_cincinnati, has_dog, pediatric_nurse, pro_nuclear, skyline_chili_fan, cornhole_player, homebrewing. writing style: avg sentence length 12.0 words, avg word length 4.23 chars, type-token ratio 0.241, punctuation 13.0 per 100 words, first-person pronouns 2.1 per 100 words",
+      "predicted_candidate_profile": "lives_in_cincinnati, has_dog, pediatric_nurse, pro_nuclear, skyline_chili_fan, cornhole_player, homebrewing. writing style: avg sentence length 12.0 words, avg word length 4.23 chars, type-token ratio 0.241, punctuation 13.0 per 100 words, first-person pronouns 2.1 per 100 words"
+    },
+    {
+      "uid": "user_3e284ba5",
+      "predicted": "user_3e284ba5",
+      "correct": true,
+      "confidence": 0.9,
+      "retrieved_true": true,
+      "query_profile": "lives_in_portland, aerospace_engineer, has_cat, pro_nuclear, planetside_2_player, enjoys_naruto_fandom, tall_dude, homebrewing. writing style: avg sentence length 16.1 words, avg word length 4.53 chars, type-token ratio 0.158, punctuation 12.3 per 100 words, first-person pronouns 1.9 per 100 words",
+      "true_candidate_profile": "lives_in_portland, male, aerospace_engineer, has_cat, pro_nuclear, libertarian, deep_fandoms, homebrewing, recovering_alcoholic. writing style: avg sentence length 17.0 words, avg word length 4.75 chars, type-token ratio 0.176, punctuation 11.9 per 100 words, first-person pronouns 1.6 per 100 words",
+      "predicted_candidate_profile": "lives_in_portland, male, aerospace_engineer, has_cat, pro_nuclear, libertarian, deep_fandoms, homebrewing, recovering_alcoholic. writing style: avg sentence length 17.0 words, avg word length 4.75 chars, type-token ratio 0.176, punctuation 11.9 per 100 words, first-person pronouns 1.6 per 100 words"
+    },
+    {
+      "uid": "user_454733da",
+      "predicted": "user_454733da",
+      "correct": true,
+      "confidence": 0.8,
+      "retrieved_true": true,
+      "query_profile": "lives_in_pennsylvania, male, college_football_fan, penn_state_supporter, has_dog, enjoys_archery, works_in_college_sports, follows_nhl, follows_nfl, enjoys_woodworking, values_college_athletics, has_children. writing style: avg sentence length 12.6 words, avg word length 4.31 chars, type-token ratio 0.214, punctuation 11.7 per 100 words, first-person pronouns 3.0 per 100 words",
+      "true_candidate_profile": "lives_in_dc, male, has_children, penn_state_supporter, college_football_fan, steelers_fan, enjoys_wrestling, enjoys_hockey, follows_nhl, enjoys_college_hockey, enjoys_appalachian_state_football, enjoys_homebrewing. writing style: avg sentence length 11.7 words, avg word length 4.37 chars, type-token ratio 0.220, punctuation 12.6 per 100 words, first-person pronouns 3.1 per 100 words",
+      "predicted_candidate_profile": "lives_in_dc, male, has_children, penn_state_supporter, college_football_fan, steelers_fan, enjoys_wrestling, enjoys_hockey, follows_nhl, enjoys_college_hockey, enjoys_appalachian_state_football, enjoys_homebrewing. writing style: avg sentence length 11.7 words, avg word length 4.37 chars, type-token ratio 0.220, punctuation 12.6 per 100 words, first-person pronouns 3.1 per 100 words"
+    },
+    {
+      "uid": "user_56980aa9",
+      "predicted": "user_56980aa9",
+      "correct": true,
+      "confidence": 0.9,
+      "retrieved_true": true,
+      "query_profile": "lives_in_st_louis, male, hockey_fan, blues_supporter, enjoys_nature_documentaries, has_dog, woodworking_interest, pro_free_speech, enjoys_rap_music, military_veteran. writing style: avg sentence length 10.8 words, avg word length 4.12 chars, type-token ratio 0.214, punctuation 13.2 per 100 words, first-person pronouns 4.5 per 100 words",
+      "true_candidate_profile": "lives_in_st_louis, male, hockey_fan, blues_supporter, fiscally_conservative, socially_moderate, has_dog, homebrewing, woodworking. writing style: avg sentence length 11.0 words, avg word length 4.16 chars, type-token ratio 0.227, punctuation 15.4 per 100 words, first-person pronouns 4.1 per 100 words",
+      "predicted_candidate_profile": "lives_in_st_louis, male, hockey_fan, blues_supporter, fiscally_conservative, socially_moderate, has_dog, homebrewing, woodworking. writing style: avg sentence length 11.0 words, avg word length 4.16 chars, type-token ratio 0.227, punctuation 15.4 per 100 words, first-person pronouns 4.1 per 100 words"
+    },
+    {
+      "uid": "user_723406a0",
+      "predicted": "user_723406a0",
+      "correct": true,
+      "confidence": 0.8,
+      "retrieved_true": true,
+      "query_profile": "lives_in_philadelphia, has_dog, pit_bull_owner, pro_nuclear, soccer_fan, mls_fan, marketing_professional, strong_opinion_on_charities, engaged_in_political_discourse, critical_thinker. writing style: avg sentence length 13.0 words, avg word length 4.40 chars, type-token ratio 0.169, punctuation 11.7 per 100 words, first-person pronouns 1.7 per 100 words",
+      "true_candidate_profile": "lives_in_philadelphia, sports_fanatic, pro_nuclear, penn_state_alumni, passionate_about_journalism, embraces_hate, fantasy_football_player, has_dog, libertarian, enjoys_tomato_pie, follows_formula1, supports_liverpool_fc. writing style: avg sentence length 14.6 words, avg word length 4.51 chars, type-token ratio 0.176, punctuation 10.9 per 100 words, first-person pronouns 1.5 per 100 words",
+      "predicted_candidate_profile": "lives_in_philadelphia, sports_fanatic, pro_nuclear, penn_state_alumni, passionate_about_journalism, embraces_hate, fantasy_football_player, has_dog, libertarian, enjoys_tomato_pie, follows_formula1, supports_liverpool_fc. writing style: avg sentence length 14.6 words, avg word length 4.51 chars, type-token ratio 0.176, punctuation 10.9 per 100 words, first-person pronouns 1.5 per 100 words"
+    },
+    {
+      "uid": "user_79f04645",
+      "predicted": "user_79f04645",
+      "correct": true,
+      "confidence": 0.9,
+      "retrieved_true": true,
+      "query_profile": "lives_in_texas, former_military_member, has_children, pro_nuclear, addiction_researcher_spouse, supports_mental_health_services, interested_in_hvac, woodworking, has_dog, skeptical_of_gmo_research. writing style: avg sentence length 14.3 words, avg word length 4.48 chars, type-token ratio 0.179, punctuation 10.2 per 100 words, first-person pronouns 1.8 per 100 words",
+      "true_candidate_profile": "lives_in_texas, progressive, supports_oil_and_gas, has_dog, military_veteran, follows_nfl, eagles_fan, enjoys_sci_fi, interested_in_politics, engages_in_deep_discussion. writing style: avg sentence length 13.5 words, avg word length 4.41 chars, type-token ratio 0.211, punctuation 10.2 per 100 words, first-person pronouns 2.1 per 100 words",
+      "predicted_candidate_profile": "lives_in_texas, progressive, supports_oil_and_gas, has_dog, military_veteran, follows_nfl, eagles_fan, enjoys_sci_fi, interested_in_politics, engages_in_deep_discussion. writing style: avg sentence length 13.5 words, avg word length 4.41 chars, type-token ratio 0.211, punctuation 10.2 per 100 words, first-person pronouns 2.1 per 100 words"
+    },
+    {
+      "uid": "user_84fe1a7a",
+      "predicted": "user_84fe1a7a",
+      "correct": true,
+      "confidence": 0.9,
+      "retrieved_true": true,
+      "query_profile": "lives_in_vietnam, female, teacher, has_children, pro_environment, enjoys_cooking, supports_local_produce, loves_bagels, enjoys_pancake_art, has_dog, values_gratitude, military_veteran. writing style: avg sentence length 7.1 words, avg word length 4.22 chars, type-token ratio 0.250, punctuation 20.1 per 100 words, first-person pronouns 6.1 per 100 words",
+      "true_candidate_profile": "lives_in_vietnam, originally_canadian, teacher, has_children, baking_enthusiast, introvert, sensitive_person, pro_volunteering, has_dog, enjoys_traveling, experiences_anxiety, enjoys_cooking, values_empathy, enjoys_nail_art, has_high_metabolism. writing style: avg sentence length 7.5 words, avg word length 4.02 chars, type-token ratio 0.242, punctuation 17.6 per 100 words, first-person pronouns 7.9 per 100 words",
+      "predicted_candidate_profile": "lives_in_vietnam, originally_canadian, teacher, has_children, baking_enthusiast, introvert, sensitive_person, pro_volunteering, has_dog, enjoys_traveling, experiences_anxiety, enjoys_cooking, values_empathy, enjoys_nail_art, has_high_metabolism. writing style: avg sentence length 7.5 words, avg word length 4.02 chars, type-token ratio 0.242, punctuation 17.6 per 100 words, first-person pronouns 7.9 per 100 words"
+    },
+    {
+      "uid": "user_9991e1d8",
+      "predicted": "user_9991e1d8",
+      "correct": true,
+      "confidence": 0.9,
+      "retrieved_true": true,
+      "query_profile": "lives_in_portland, aerospace_engineer, has_dog, woodworking, pro_nuclear, compulsive_exerciser, marathon_runner, frequent_flyer, homebrewing, avid_tinkerer. writing style: avg sentence length 11.4 words, avg word length 4.19 chars, type-token ratio 0.144, punctuation 11.0 per 100 words, first-person pronouns 2.2 per 100 words",
+      "true_candidate_profile": "lives_in_portland, has_dog, aerospace_engineer, homebrewing, pro_nuclear, recovering_alcoholic, woodworking, formula1_fan. writing style: avg sentence length 10.0 words, avg word length 4.14 chars, type-token ratio 0.225, punctuation 12.3 per 100 words, first-person pronouns 2.5 per 100 words",
+      "predicted_candidate_profile": "lives_in_portland, has_dog, aerospace_engineer, homebrewing, pro_nuclear, recovering_alcoholic, woodworking, formula1_fan. writing style: avg sentence length 10.0 words, avg word length 4.14 chars, type-token ratio 0.225, punctuation 12.3 per 100 words, first-person pronouns 2.5 per 100 words"
+    },
+    {
+      "uid": "user_a2825b06",
+      "predicted": "user_a2825b06",
+      "correct": true,
+      "confidence": 0.9,
+      "retrieved_true": true,
+      "query_profile": "lives_in_columbus, has_dog, corgi_owner, pro_nuclear, tabletop_gamer, formula1_fan, aerospace_engineer, recovering_alcoholic. writing style: avg sentence length 11.2 words, avg word length 4.08 chars, type-token ratio 0.176, punctuation 12.1 per 100 words, first-person pronouns 2.7 per 100 words",
+      "true_candidate_profile": "lives_in_columbus, male, ohio_state_university_alumnus, college_football_fan, tosu_supporter, has_dog, enjoys_homebrewing, pro_nuclear, tabletop_gamer, enjoys_comic_books. writing style: avg sentence length 9.8 words, avg word length 4.15 chars, type-token ratio 0.220, punctuation 14.3 per 100 words, first-person pronouns 2.7 per 100 words",
+      "predicted_candidate_profile": "lives_in_columbus, male, ohio_state_university_alumnus, college_football_fan, tosu_supporter, has_dog, enjoys_homebrewing, pro_nuclear, tabletop_gamer, enjoys_comic_books. writing style: avg sentence length 9.8 words, avg word length 4.15 chars, type-token ratio 0.220, punctuation 14.3 per 100 words, first-person pronouns 2.7 per 100 words"
+    },
+    {
+      "uid": "user_b23aa915",
+      "predicted": "user_b23aa915",
+      "correct": true,
+      "confidence": 0.9,
+      "retrieved_true": true,
+      "query_profile": "lives_in_little_rock, female, teacher, has_cat, trying_to_conceive, iui_baby, prefers_female_doctors, long_term_sub, has_dog, takes_prenatals. writing style: avg sentence length 10.2 words, avg word length 4.10 chars, type-token ratio 0.198, punctuation 15.2 per 100 words, first-person pronouns 6.4 per 100 words",
+      "true_candidate_profile": "lives_in_ar, female, substitute_teacher, has_dog, has_cat, pro_gun, strong_interest_in_adoption, experiences_mental_health_issues, enjoys_playing_world_of_warcraft, has_experience_with_rental_properties, has_experience_with_pediatric_healthcare. writing style: avg sentence length 10.3 words, avg word length 4.17 chars, type-token ratio 0.204, punctuation 14.9 per 100 words, first-person pronouns 3.3 per 100 words",
+      "predicted_candidate_profile": "lives_in_ar, female, substitute_teacher, has_dog, has_cat, pro_gun, strong_interest_in_adoption, experiences_mental_health_issues, enjoys_playing_world_of_warcraft, has_experience_with_rental_properties, has_experience_with_pediatric_healthcare. writing style: avg sentence length 10.3 words, avg word length 4.17 chars, type-token ratio 0.204, punctuation 14.9 per 100 words, first-person pronouns 3.3 per 100 words"
+    },
+    {
+      "uid": "user_b49274ca",
+      "predicted": "user_b49274ca",
+      "correct": true,
+      "confidence": 0.9,
+      "retrieved_true": true,
+      "query_profile": "lives_in_portland, ex_navy_nuke, power_grid_dispatcher, has_children, financial_independence_enthusiast, disciplined, home_improvement_hobbyist, enjoys_working_on_cars, pro_spending_on_experience, supports_cloth_diapers, values_family_time, prefers_rotating_shifts, enjoys_camping. writing style: avg sentence length 12.6 words, avg word length 4.15 chars, type-token ratio 0.138, punctuation 13.4 per 100 words, first-person pronouns 3.1 per 100 words",
+      "true_candidate_profile": "lives_in_portland, male, shift_worker, has_children, former_military, nuclear_engineer, pro_nuclear, homebrewing, beer_enthusiast, diy_enthusiast. writing style: avg sentence length 12.6 words, avg word length 4.20 chars, type-token ratio 0.149, punctuation 12.5 per 100 words, first-person pronouns 3.6 per 100 words",
+      "predicted_candidate_profile": "lives_in_portland, male, shift_worker, has_children, former_military, nuclear_engineer, pro_nuclear, homebrewing, beer_enthusiast, diy_enthusiast. writing style: avg sentence length 12.6 words, avg word length 4.20 chars, type-token ratio 0.149, punctuation 12.5 per 100 words, first-person pronouns 3.6 per 100 words"
+    },
+    {
+      "uid": "user_ba463257",
+      "predicted": "user_ba463257",
+      "correct": true,
+      "confidence": 0.9,
+      "retrieved_true": true,
+      "query_profile": "lives_in_maine, permaculture_enthusiast, pro_nuclear, has_dog, trades_garden_produce, doomer_realist, supports_anarchism, homebrewer, rural_living_advocate, anti_austerity, self-sufficient, supports_local_business, has_children, keeps_reptiles. writing style: avg sentence length 19.3 words, avg word length 4.54 chars, type-token ratio 0.213, punctuation 7.1 per 100 words, first-person pronouns 2.7 per 100 words",
+      "true_candidate_profile": "lives_in_portland, male, has_dog, pro_nuclear, libertarian, interested_in_agorism, keeps_reptiles, deep_hobbyist_in_gardening, has_experience_in_hawaii, military_veteran, critical_of_elites, interested_in_economics, supports_localism, engaged_in_homebrewing, interested_in_sociopolitical_complexity, views_on_population_growth. writing style: avg sentence length 18.7 words, avg word length 4.73 chars, type-token ratio 0.205, punctuation 8.5 per 100 words, first-person pronouns 1.5 per 100 words",
+      "predicted_candidate_profile": "lives_in_portland, male, has_dog, pro_nuclear, libertarian, interested_in_agorism, keeps_reptiles, deep_hobbyist_in_gardening, has_experience_in_hawaii, military_veteran, critical_of_elites, interested_in_economics, supports_localism, engaged_in_homebrewing, interested_in_sociopolitical_complexity, views_on_population_growth. writing style: avg sentence length 18.7 words, avg word length 4.73 chars, type-token ratio 0.205, punctuation 8.5 per 100 words, first-person pronouns 1.5 per 100 words"
+    },
+    {
+      "uid": "user_beca29a3",
+      "predicted": "user_beca29a3",
+      "correct": true,
+      "confidence": 0.8,
+      "retrieved_true": true,
+      "query_profile": "lives_in_canada, female, has_dog, weight_loss_enthusiast, food_scale_user, triathlon_participant, calorie_counter, pro_nutrition, home_cook, fitness_advisor, morning_workout_routine, enjoys_baking, enjoys_running, uses_mfp, enjoys_multisport_events. writing style: avg sentence length 13.6 words, avg word length 4.35 chars, type-token ratio 0.112, punctuation 13.4 per 100 words, first-person pronouns 3.1 per 100 words",
+      "true_candidate_profile": "lives_in_calgary, female, has_dog, home_cook, fitness_enthusiast, calorie_counter, sous_vide_cook, vegetarian, pro_health, meal_prepper, weight_loss_supporter. writing style: avg sentence length 12.8 words, avg word length 4.34 chars, type-token ratio 0.096, punctuation 13.9 per 100 words, first-person pronouns 2.8 per 100 words",
+      "predicted_candidate_profile": "lives_in_calgary, female, has_dog, home_cook, fitness_enthusiast, calorie_counter, sous_vide_cook, vegetarian, pro_health, meal_prepper, weight_loss_supporter. writing style: avg sentence length 12.8 words, avg word length 4.34 chars, type-token ratio 0.096, punctuation 13.9 per 100 words, first-person pronouns 2.8 per 100 words"
+    },
+    {
+      "uid": "user_c41de62b",
+      "predicted": "user_c41de62b",
+      "correct": true,
+      "confidence": 0.85,
+      "retrieved_true": true,
+      "query_profile": "lives_in_vancouver, male, has_dog, canucks_fan, logging_professional, pro_nuclear, woodworking, hockey_enthusiast. writing style: avg sentence length 12.6 words, avg word length 4.42 chars, type-token ratio 0.202, punctuation 11.0 per 100 words, first-person pronouns 1.3 per 100 words",
+      "true_candidate_profile": "lives_in_vancouver, male, has_dog, hockey_fan, canucks_supporter, mma_fan, libertarian, keeps_reptiles, woodworking. writing style: avg sentence length 14.2 words, avg word length 4.27 chars, type-token ratio 0.228, punctuation 9.9 per 100 words, first-person pronouns 1.7 per 100 words",
+      "predicted_candidate_profile": "lives_in_vancouver, male, has_dog, hockey_fan, canucks_supporter, mma_fan, libertarian, keeps_reptiles, woodworking. writing style: avg sentence length 14.2 words, avg word length 4.27 chars, type-token ratio 0.228, punctuation 9.9 per 100 words, first-person pronouns 1.7 per 100 words"
+    },
+    {
+      "uid": "user_c67f26cc",
+      "predicted": "user_c67f26cc",
+      "correct": true,
+      "confidence": 0.9,
+      "retrieved_true": true,
+      "query_profile": "lives_in_cincinnati, male, musician, has_cat, pro_nuclear, drumline_member, enjoys_classical_music, highschool_graduate, has_children. writing style: avg sentence length 22.6 words, avg word length 4.30 chars, type-token ratio 0.205, punctuation 9.5 per 100 words, first-person pronouns 4.0 per 100 words",
+      "true_candidate_profile": "lives_in_cincinnati, has_cats, percussion_performance_major, music_major, ohio_state_university_student, baseball_fan, reds_fan, soccer_fan, chelsea_fc_supporter, fccincinnati_supporter, pro_lgbtq, enjoys_homebrewing, enjoys_woodworking. writing style: avg sentence length 27.3 words, avg word length 4.17 chars, type-token ratio 0.206, punctuation 6.7 per 100 words, first-person pronouns 4.5 per 100 words",
+      "predicted_candidate_profile": "lives_in_cincinnati, has_cats, percussion_performance_major, music_major, ohio_state_university_student, baseball_fan, reds_fan, soccer_fan, chelsea_fc_supporter, fccincinnati_supporter, pro_lgbtq, enjoys_homebrewing, enjoys_woodworking. writing style: avg sentence length 27.3 words, avg word length 4.17 chars, type-token ratio 0.206, punctuation 6.7 per 100 words, first-person pronouns 4.5 per 100 words"
+    },
+    {
+      "uid": "user_d10d1f24",
+      "predicted": "user_d10d1f24",
+      "correct": true,
+      "confidence": 0.8,
+      "retrieved_true": true,
+      "query_profile": "lives_in_vancouver_bc, male, has_dog, craft_beer_enthusiast, canucks_fan, pro_nuclear, woodworking, military_veteran. writing style: avg sentence length 8.9 words, avg word length 4.28 chars, type-token ratio 0.300, punctuation 16.7 per 100 words, first-person pronouns 3.9 per 100 words",
+      "true_candidate_profile": "lives_in_vancouver, canadian_expat, nhl_fan, montreal_canadiens_supporter, has_dog, carpenter, pro_tanking. writing style: avg sentence length 9.4 words, avg word length 4.40 chars, type-token ratio 0.273, punctuation 15.2 per 100 words, first-person pronouns 3.1 per 100 words",
+      "predicted_candidate_profile": "lives_in_vancouver, canadian_expat, nhl_fan, montreal_canadiens_supporter, has_dog, carpenter, pro_tanking. writing style: avg sentence length 9.4 words, avg word length 4.40 chars, type-token ratio 0.273, punctuation 15.2 per 100 words, first-person pronouns 3.1 per 100 words"
+    },
+    {
+      "uid": "user_d1d16d30",
+      "predicted": "user_d1d16d30",
+      "correct": true,
+      "confidence": 0.7,
+      "retrieved_true": true,
+      "query_profile": "lives_in_boulder, male, cyclist, bicycle_racer, has_dog, pro_nuclear, cu_boulder_alum, financial_advisor, keeps_reptiles, homebrewer. writing style: avg sentence length 13.0 words, avg word length 4.32 chars, type-token ratio 0.100, punctuation 13.4 per 100 words, first-person pronouns 1.7 per 100 words",
+      "true_candidate_profile": "lives_in_boulder_co, aerospace_engineer, has_dog, pro_nuclear, performance_pinewood_derby_racer, mandolin_orange_fan, home_office_setup, cycling_enthusiast. writing style: avg sentence length 13.1 words, avg word length 4.39 chars, type-token ratio 0.158, punctuation 12.8 per 100 words, first-person pronouns 2.0 per 100 words",
+      "predicted_candidate_profile": "lives_in_boulder_co, aerospace_engineer, has_dog, pro_nuclear, performance_pinewood_derby_racer, mandolin_orange_fan, home_office_setup, cycling_enthusiast. writing style: avg sentence length 13.1 words, avg word length 4.39 chars, type-token ratio 0.158, punctuation 12.8 per 100 words, first-person pronouns 2.0 per 100 words"
+    },
+    {
+      "uid": "user_dffc0da5",
+      "predicted": "user_dffc0da5",
+      "correct": true,
+      "confidence": 0.8,
+      "retrieved_true": true,
+      "query_profile": "lives_in_rochester_ny, male, air_force_veteran, corvette_owner, hockey_player, csgo_player, has_dog, pro_nuclear, woodworking, homebrewing. writing style: avg sentence length 29.4 words, avg word length 4.01 chars, type-token ratio 0.264, punctuation 7.0 per 100 words, first-person pronouns 3.7 per 100 words",
+      "true_candidate_profile": "lives_in_rochester, military_veteran, has_cat, gun_owner, enjoys_shooting, interested_in_firearms, pro_second_amendment, keeps_reptiles, woodworking. writing style: avg sentence length 39.2 words, avg word length 3.96 chars, type-token ratio 0.237, punctuation 5.2 per 100 words, first-person pronouns 3.6 per 100 words",
+      "predicted_candidate_profile": "lives_in_rochester, military_veteran, has_cat, gun_owner, enjoys_shooting, interested_in_firearms, pro_second_amendment, keeps_reptiles, woodworking. writing style: avg sentence length 39.2 words, avg word length 3.96 chars, type-token ratio 0.237, punctuation 5.2 per 100 words, first-person pronouns 3.6 per 100 words"
+    },
+    {
+      "uid": "user_e14b88a8",
+      "predicted": "user_e14b88a8",
+      "correct": true,
+      "confidence": 0.8,
+      "retrieved_true": true,
+      "query_profile": "lives_in_portland, male, judo_black_belt, bjj_practitioner, has_dog, martial_arts_coach, pro_bjj, weightlifting_enthusiast, keeps_reptiles, vegan, writes_bjj_blog. writing style: avg sentence length 15.7 words, avg word length 4.27 chars, type-token ratio 0.134, punctuation 9.8 per 100 words, first-person pronouns 2.7 per 100 words",
+      "true_candidate_profile": "lives_in_portland, male, has_children, bjj_practitioner, pro_martial_arts, strong_values_evidence_based, military_veteran, homebrewing, woodworking, libertarian. writing style: avg sentence length 15.2 words, avg word length 4.33 chars, type-token ratio 0.145, punctuation 9.5 per 100 words, first-person pronouns 1.9 per 100 words",
+      "predicted_candidate_profile": "lives_in_portland, male, has_children, bjj_practitioner, pro_martial_arts, strong_values_evidence_based, military_veteran, homebrewing, woodworking, libertarian. writing style: avg sentence length 15.2 words, avg word length 4.33 chars, type-token ratio 0.145, punctuation 9.5 per 100 words, first-person pronouns 1.9 per 100 words"
+    },
+    {
+      "uid": "user_f0b144fc",
+      "predicted": "user_f0b144fc",
+      "correct": true,
+      "confidence": 0.8,
+      "retrieved_true": true,
+      "query_profile": "lives_in_portland, baseball_fan, texas_rangers_supporter, has_children, recovering_alcoholic, pro_nuclear, former_moderator, uses_rss_feeds, has_bum_leg, interested_in_sabermetrics. writing style: avg sentence length 11.2 words, avg word length 4.23 chars, type-token ratio 0.141, punctuation 12.1 per 100 words, first-person pronouns 2.7 per 100 words",
+      "true_candidate_profile": "lives_in_portland, baseball_fan, texas_rangers_supporter, has_dog, recovering_alcoholic, married_to_medical_professional, enjoys_photography, pro_nuclear, has_children. writing style: avg sentence length 10.6 words, avg word length 4.28 chars, type-token ratio 0.183, punctuation 13.0 per 100 words, first-person pronouns 2.5 per 100 words",
+      "predicted_candidate_profile": "lives_in_portland, baseball_fan, texas_rangers_supporter, has_dog, recovering_alcoholic, married_to_medical_professional, enjoys_photography, pro_nuclear, has_children. writing style: avg sentence length 10.6 words, avg word length 4.28 chars, type-token ratio 0.183, punctuation 13.0 per 100 words, first-person pronouns 2.5 per 100 words"
+    }
+  ],
+  "failure_cases": [
+    {
+      "uid": "user_0168255c",
+      "predicted": "user_65d73ac1",
+      "correct": false,
+      "confidence": 0.9,
+      "retrieved_true": false,
+      "query_profile": "lives_in_portland, male, has_children, aerospace_engineer, pro_nuclear, keeps_reptiles, nascar_fan, homebrewing. writing style: avg sentence length 10.7 words, avg word length 4.29 chars, type-token ratio 0.207, punctuation 13.3 per 100 words, first-person pronouns 2.6 per 100 words",
+      "true_candidate_profile": "lives_in_indiana, pro_single_payer, anti_interventionist_foreign_policy, has_dog, dog_owner_critic, bio_major, supports_climate_change, libertarian, woodworking_hobbyist. writing style: avg sentence length 10.6 words, avg word length 4.29 chars, type-token ratio 0.222, punctuation 12.1 per 100 words, first-person pronouns 3.1 per 100 words",
+      "predicted_candidate_profile": "lives_in_portland, aerospace_engineer, has_children, pro_nuclear, spacex_fan, homebrewing, recovering_alcoholic. writing style: avg sentence length 11.9 words, avg word length 4.32 chars, type-token ratio 0.194, punctuation 13.6 per 100 words, first-person pronouns 1.9 per 100 words"
+    },
+    {
+      "uid": "user_04d8419e",
+      "predicted": "user_27a3fa64",
+      "correct": false,
+      "confidence": 0.9,
+      "retrieved_true": false,
+      "query_profile": "lives_in_ny_pa_area, works_in_it, has_dog, enjoys_pvp_in_gaming, plays_star_wars_the_old_republic, experienced_driver_in_snow, enjoys_woodworking, pro_nuclear, has_high_blood_pressure, enjoys_homebrewing. writing style: avg sentence length 13.4 words, avg word length 4.11 chars, type-token ratio 0.145, punctuation 11.8 per 100 words, first-person pronouns 2.6 per 100 words",
+      "true_candidate_profile": "lives_in_portland, baseball_analyst, libertarian, tech_guy, has_dog, enjoys_star_trek, enjoys_firefox, follows_pirates_baseball, homebrewing, keeps_reptiles. writing style: avg sentence length 12.2 words, avg word length 4.17 chars, type-token ratio 0.138, punctuation 12.9 per 100 words, first-person pronouns 2.3 per 100 words",
+      "predicted_candidate_profile": "lives_in_portland, male, dink, has_dog, pro-nuclear, enjoys_country_music, technology_enthusiast, values_independence, recovering_alcoholic, has_brothers, has_sister, enjoys_woodworking, enjoys_homebrewing, interested_in_therapy, values_family_boundaries, enjoys_traveling, enjoys_running, enjoys_skiing, enjoys_swimming, enjoys_football, enjoys_hockey, enjoys_canoeing, enjoys_writing, enjoys_reading. writing style: avg sentence length 15.6 words, avg word length 4.20 chars, type-token ratio 0.136, punctuation 10.8 per 100 words, first-person pronouns 3.5 per 100 words"
+    },
+    {
+      "uid": "user_058c1800",
+      "predicted": "user_5a6c91dd",
+      "correct": false,
+      "confidence": 0.8,
+      "retrieved_true": false,
+      "query_profile": "lives_in_portland, male, has_children, dark_humor, pro_nuclear, woodworking, loves_nature, clutches_fan, third_shift_worker, southern_values. writing style: avg sentence length 10.9 words, avg word length 4.20 chars, type-token ratio 0.236, punctuation 15.0 per 100 words, first-person pronouns 3.6 per 100 words",
+      "true_candidate_profile": "lives_in_kentucky, has_children, pro_nuclear, woodworking, military_veteran, formula1_fan, recovering_alcoholic. writing style: avg sentence length 12.1 words, avg word length 4.34 chars, type-token ratio 0.232, punctuation 14.3 per 100 words, first-person pronouns 2.7 per 100 words",
+      "predicted_candidate_profile": "lives_in_portland, male, has_cat, pro_nuclear, libertarian, rock_climber, black_mirror_fan, starship_troopers_fan, keeps_reptiles, woodworking_hobbyist. writing style: avg sentence length 12.3 words, avg word length 4.30 chars, type-token ratio 0.282, punctuation 12.5 per 100 words, first-person pronouns 2.3 per 100 words"
+    },
+    {
+      "uid": "user_0697c470",
+      "predicted": "user_80dc757f",
+      "correct": false,
+      "confidence": 0.9,
+      "retrieved_true": false,
+      "query_profile": "lives_in_detroit, male, has_children, gun_owner, vegan, enjoys_homebrewing, enjoys_woodworking, military_veteran, formula1_fan, keeps_reptiles. writing style: avg sentence length 8.8 words, avg word length 4.31 chars, type-token ratio 0.224, punctuation 17.3 per 100 words, first-person pronouns 3.0 per 100 words",
+      "true_candidate_profile": "lives_in_new_york, has_cat, woodworking, pro_nuclear, libertarian, enjoys_good_omens, enjoys_hitchhikers_guide, enjoys_tom_clancy, enjoys_historical_warfare. writing style: avg sentence length 8.2 words, avg word length 4.37 chars, type-token ratio 0.231, punctuation 17.5 per 100 words, first-person pronouns 2.4 per 100 words",
+      "predicted_candidate_profile": "lives_in_new_hampshire, military_veteran, single_dad, has_children, car_enthusiast, diy_mechanic, drives_nissan_armada, enjoys_homebrewing, woodworking_hobbyist, pro_nuclear, supports_second_amendment. writing style: avg sentence length 8.9 words, avg word length 4.21 chars, type-token ratio 0.271, punctuation 16.5 per 100 words, first-person pronouns 3.2 per 100 words"
+    },
+    {
+      "uid": "user_07cb458d",
+      "predicted": "user_f030b951",
+      "correct": false,
+      "confidence": 0.9,
+      "retrieved_true": false,
+      "query_profile": "lives_in_portland, male, aerospace_engineer, has_cat, libertarian, mass_effect_fan, enjoys_storytelling, critical_thinker, pro_nuclear, video_game_writer. writing style: avg sentence length 13.1 words, avg word length 4.60 chars, type-token ratio 0.150, punctuation 12.7 per 100 words, first-person pronouns 1.8 per 100 words",
+      "true_candidate_profile": "lives_in_portland, male, aerospace_engineer, has_cat, pro_nuclear, libertarian, science_fiction_fan, mass_effect_player, dragon_age_player, keeps_reptiles, strong_values_on_policing, critical_of_excessive_vehicle_size, supports_gun_rights, interested_in_statistics, engaged_in_political_discourse. writing style: avg sentence length 11.9 words, avg word length 4.61 chars, type-token ratio 0.149, punctuation 13.6 per 100 words, first-person pronouns 1.5 per 100 words",
+      "predicted_candidate_profile": "lives_in_portland, male, aerospace_engineer, has_cat, star_trek_fan, pro_nuclear, recovering_alcoholic, homebrewing, deep_fandoms. writing style: avg sentence length 17.5 words, avg word length 4.64 chars, type-token ratio 0.167, punctuation 10.4 per 100 words, first-person pronouns 1.2 per 100 words"
+    },
+    {
+      "uid": "user_08c32973",
+      "predicted": null,
+      "correct": false,
+      "confidence": 0.0,
+      "retrieved_true": false,
+      "query_profile": "lives_in_northern_ireland, accountant, late_30s, pro_eu, has_cat, enjoys_vintage_bicycles, supports_liverpool_fc, values_charity, interested_in_economics, enjoys_detailed_discussions. writing style: avg sentence length 20.3 words, avg word length 4.44 chars, type-token ratio 0.232, punctuation 8.9 per 100 words, first-person pronouns 2.3 per 100 words",
+      "true_candidate_profile": "lives_in_portland, male, aerospace_engineer, has_dog, pro_nuclear, formula1_fan, homebrewing, vintage_bicycle_enthusiast, libertarian, recovering_alcoholic. writing style: avg sentence length 17.6 words, avg word length 4.41 chars, type-token ratio 0.215, punctuation 9.8 per 100 words, first-person pronouns 2.0 per 100 words",
+      "predicted_candidate_profile": ""
+    },
+    {
+      "uid": "user_08e9ce6e",
+      "predicted": "user_da51dede",
+      "correct": false,
+      "confidence": 0.8,
+      "retrieved_true": false,
+      "query_profile": "lives_in_portland, male, has_children, relief_chef, liverpool_fc_supporter, pro_eu, avid_runner, woodworking_hobbyist. writing style: avg sentence length 11.4 words, avg word length 4.20 chars, type-token ratio 0.233, punctuation 11.9 per 100 words, first-person pronouns 2.7 per 100 words",
+      "true_candidate_profile": "lives_in_liverpool, football_fan, has_cat, plays_fifa, enjoys_home_cooking, pro_liverpool, enjoys_pasta_making, follows_premier_league, enjoys_fantasy_football, has_dog. writing style: avg sentence length 14.4 words, avg word length 4.16 chars, type-token ratio 0.219, punctuation 9.6 per 100 words, first-person pronouns 2.8 per 100 words",
+      "predicted_candidate_profile": "lives_in_portland, male, has_children, runescape_player, pro_meat, libertarian, zen_buddhism_influenced, woodworking_hobbyist. writing style: avg sentence length 16.5 words, avg word length 4.54 chars, type-token ratio 0.246, punctuation 8.4 per 100 words, first-person pronouns 1.3 per 100 words"
+    },
+    {
+      "uid": "user_0a0bcaa6",
+      "predicted": "user_08c32973",
+      "correct": false,
+      "confidence": 0.9,
+      "retrieved_true": false,
+      "query_profile": "lives_in_portland, male, has_dog, aerospace_engineer, pro_nuclear, csgo_betting_enthusiast, homebrewing, recovering_alcoholic, keeps_reptiles, libertarian. writing style: avg sentence length 11.4 words, avg word length 4.33 chars, type-token ratio 0.188, punctuation 11.7 per 100 words, first-person pronouns 2.6 per 100 words",
+      "true_candidate_profile": "lives_in_portland, pro_nuclear, gun_owner, aerospace_engineer, has_dog, formula1_fan, homebrewing, libertarian. writing style: avg sentence length 11.9 words, avg word length 4.55 chars, type-token ratio 0.209, punctuation 11.0 per 100 words, first-person pronouns 1.9 per 100 words",
+      "predicted_candidate_profile": "lives_in_portland, male, aerospace_engineer, has_dog, pro_nuclear, formula1_fan, homebrewing, vintage_bicycle_enthusiast, libertarian, recovering_alcoholic. writing style: avg sentence length 17.6 words, avg word length 4.41 chars, type-token ratio 0.215, punctuation 9.8 per 100 words, first-person pronouns 2.0 per 100 words"
+    },
+    {
+      "uid": "user_0a245f61",
+      "predicted": "user_98f18241",
+      "correct": false,
+      "confidence": 0.9,
+      "retrieved_true": false,
+      "query_profile": "lives_in_portland, male, gun_owner, has_cat, aerospace_engineer, supports_spca, enjoys_homebrewing, military_veteran, pro_nuclear, enjoys_softball, interested_in_planes, interested_in_helicopters, skeptical_of_polling, critical_of_censorship, values_independence. writing style: avg sentence length 16.1 words, avg word length 4.41 chars, type-token ratio 0.217, punctuation 12.5 per 100 words, first-person pronouns 2.6 per 100 words",
+      "true_candidate_profile": "lives_in_new_jersey, military_veteran, gun_owner, pro-gun, has_children, supports_small_breweries, enjoys_homebrewing, follows_formula1, has_dog, engaged_in_political_discourse. writing style: avg sentence length 15.7 words, avg word length 4.50 chars, type-token ratio 0.215, punctuation 11.8 per 100 words, first-person pronouns 1.9 per 100 words",
+      "predicted_candidate_profile": "lives_in_portland, aerospace_engineer, has_cat, pro_nuclear, vegan, tabletop_rpg_player, enjoys_homebrewing, military_veteran, intersex_ally, does_not_want_children. writing style: avg sentence length 13.7 words, avg word length 4.51 chars, type-token ratio 0.245, punctuation 12.3 per 100 words, first-person pronouns 2.8 per 100 words"
+    },
+    {
+      "uid": "user_0c578ab5",
+      "predicted": "user_f7bb8af1",
+      "correct": false,
+      "confidence": 0.8,
+      "retrieved_true": true,
+      "query_profile": "lives_in_chicago, male, asexual, enjoys_seinfeld, counter_strike_player, pro_lgbtq, has_cat, interested_in_philosophy, enjoys_coffee_with_cream_and_sugar, military_veteran. writing style: avg sentence length 24.7 words, avg word length 4.27 chars, type-token ratio 0.255, punctuation 9.3 per 100 words, first-person pronouns 3.2 per 100 words",
+      "true_candidate_profile": "lives_in_portland, has_cat, pro_vegetarian, strategy_game_player, left_4_dead_2_fan, enjoys_platformers, enjoys_co_op_games, has_dog, enjoys_humor, interested_in_history. writing style: avg sentence length 35.0 words, avg word length 4.31 chars, type-token ratio 0.277, punctuation 7.3 per 100 words, first-person pronouns 3.2 per 100 words",
+      "predicted_candidate_profile": "lives_in_portland, male, has_children, woodworking, pro-nuclear, high_school_teacher, plays_dwarf_fortress, enjoys_lewd_science_fiction, skilled_in_explosives, master_of_the_forge, enjoys_shipgirl_fandom, has_cat, military_veteran, enjoys_time_travel_themes, enjoys_roleplaying_games, enjoys_martial_arts, enjoys_videogame_design, enjoys_combat_drills. writing style: avg sentence length 13.8 words, avg word length 4.94 chars, type-token ratio 0.188, punctuation 13.2 per 100 words, first-person pronouns 0.4 per 100 words"
+    },
+    {
+      "uid": "user_0cc626ee",
+      "predicted": "user_c154e834",
+      "correct": false,
+      "confidence": 0.8,
+      "retrieved_true": false,
+      "query_profile": "lives_in_portland, female, has_children, pearl_jam_fan, pro_nuclear, keeps_reptiles, libertarian, military_veteran. writing style: avg sentence length 12.5 words, avg word length 4.44 chars, type-token ratio 0.260, punctuation 11.3 per 100 words, first-person pronouns 2.2 per 100 words",
+      "true_candidate_profile": "lives_in_portland, aerospace_engineer, has_dog, pro_nuclear, tabletop_rpg_player, dungeons_and_dragons_player, critical_of_republicans, enjoys_fable_games, supports_lgbt_rights, enjoys_drinking_games. writing style: avg sentence length 15.9 words, avg word length 4.46 chars, type-token ratio 0.252, punctuation 8.8 per 100 words, first-person pronouns 2.0 per 100 words",
+      "predicted_candidate_profile": "lives_in_portland, us_navy_veteran, has_children, photographer, pro_nuclear, completionist, homebrewer, libertarian. writing style: avg sentence length 13.6 words, avg word length 4.11 chars, type-token ratio 0.202, punctuation 12.8 per 100 words, first-person pronouns 3.2 per 100 words"
+    },
+    {
+      "uid": "user_0cd29f02",
+      "predicted": "user_efcacf59",
+      "correct": false,
+      "confidence": 0.9,
+      "retrieved_true": false,
+      "query_profile": "lives_in_portland, female, has_children, pediatric_nurse, pro_nuclear, keeps_reptiles, enjoys_baking, strong_family_values, outspoken_about_boundaries, supports_women's_rights, enjoys_wedding_planning. writing style: avg sentence length 13.3 words, avg word length 4.24 chars, type-token ratio 0.154, punctuation 12.3 per 100 words, first-person pronouns 2.9 per 100 words",
+      "true_candidate_profile": "lives_in_portland, female, has_children, military_veteran, strong_boundaries, pro-therapy, homebrewing, twin_parent, outspoken_about_parenting, critical_of_entitled_behavior, values_family_time, enjoys_home_improvement, supports_child_safety_guidelines, advocates_for_personal_boundaries, knowledgeable_about_medical_guidelines. writing style: avg sentence length 14.3 words, avg word length 4.24 chars, type-token ratio 0.120, punctuation 11.5 per 100 words, first-person pronouns 3.0 per 100 words",
+      "predicted_candidate_profile": "lives_in_portland, female, has_children, pro_nuclear, mental_health_advocate, supports_domestic_violence_survivors, involved_in_parenting_discussions, emphasizes_positive_parenting, has_dog, interested_in_child_development, values_radical_honesty, advocates_for_boundaries_in_relationships, supports_mental_health_resources. writing style: avg sentence length 14.3 words, avg word length 4.26 chars, type-token ratio 0.089, punctuation 12.7 per 100 words, first-person pronouns 1.4 per 100 words"
+    },
+    {
+      "uid": "user_164057cc",
+      "predicted": null,
+      "correct": false,
+      "confidence": 0.0,
+      "retrieved_true": false,
+      "query_profile": "lives_in_waterloo, male, university_student, co_op_student, has_cat, pro_tenant, libertarian, enjoys_home_cooking, supports_feminism, interested_in_israel, has_experience_in_factory_work, engaged_in_university_culture, follows_formula1. writing style: avg sentence length 47.8 words, avg word length 4.21 chars, type-token ratio 0.278, punctuation 5.9 per 100 words, first-person pronouns 4.3 per 100 words",
+      "true_candidate_profile": "lives_in_canada, speaks_mandarin, has_cat, aerospace_engineer, pro_nuclear, recovering_alcoholic, enjoys_homebrewing, critical_of_hygiene, has_children, supports_liverpool_fc. writing style: avg sentence length 55.4 words, avg word length 4.32 chars, type-token ratio 0.277, punctuation 6.6 per 100 words, first-person pronouns 3.8 per 100 words",
+      "predicted_candidate_profile": ""
+    },
+    {
+      "uid": "user_164fe4b8",
+      "predicted": "user_a8dc91a3",
+      "correct": false,
+      "confidence": 0.9,
+      "retrieved_true": false,
+      "query_profile": "lives_in_portland, male, has_dog, payday_2_player, pro_nuclear, woodworking, military_veteran, homebrewing. writing style: avg sentence length 14.1 words, avg word length 4.51 chars, type-token ratio 0.187, punctuation 10.8 per 100 words, first-person pronouns 1.4 per 100 words",
+      "true_candidate_profile": "lives_in_aus, av_tech, has_dog, pro_nuclear, plays_the_division, woodworking, has_cat. writing style: avg sentence length 13.4 words, avg word length 4.62 chars, type-token ratio 0.226, punctuation 11.4 per 100 words, first-person pronouns 2.1 per 100 words",
+      "predicted_candidate_profile": "lives_in_portland, aerospace_engineer, has_dog, pro_nuclear, woodworking, homebrewing, military_veteran. writing style: avg sentence length 8.5 words, avg word length 4.50 chars, type-token ratio 0.263, punctuation 19.9 per 100 words, first-person pronouns 2.4 per 100 words"
+    },
+    {
+      "uid": "user_17607ebc",
+      "predicted": "user_08c32973",
+      "correct": false,
+      "confidence": 0.9,
+      "retrieved_true": true,
+      "query_profile": "lives_in_portland, male, gun_owner, libertarian, enjoys_bad_movies, has_cat, woodworking, aerospace_engineer, pro_nuclear, collects_smushed_pennies, enjoys_homebrewing, military_veteran. writing style: avg sentence length 9.8 words, avg word length 4.44 chars, type-token ratio 0.220, punctuation 17.5 per 100 words, first-person pronouns 2.3 per 100 words",
+      "true_candidate_profile": "lives_in_portland, republican, gun_owner, has_dog, military_veteran, pro_nuclear, libertarian, homebrewing, enjoys_political_discussion, supports_trump, critical_of_media, interested_in_aerospace. writing style: avg sentence length 11.4 words, avg word length 4.51 chars, type-token ratio 0.183, punctuation 13.0 per 100 words, first-person pronouns 2.6 per 100 words",
+      "predicted_candidate_profile": "lives_in_portland, male, aerospace_engineer, has_dog, pro_nuclear, formula1_fan, homebrewing, vintage_bicycle_enthusiast, libertarian, recovering_alcoholic. writing style: avg sentence length 17.6 words, avg word length 4.41 chars, type-token ratio 0.215, punctuation 9.8 per 100 words, first-person pronouns 2.0 per 100 words"
+    },
+    {
+      "uid": "user_183b3783",
+      "predicted": "user_65d73ac1",
+      "correct": false,
+      "confidence": 0.85,
+      "retrieved_true": false,
+      "query_profile": "lives_in_colorado, male, has_children, aerospace_engineer, pro_nuclear, formula1_fan, recovering_alcoholic, keeps_reptiles, homebrewing. writing style: avg sentence length 12.7 words, avg word length 4.22 chars, type-token ratio 0.212, punctuation 9.1 per 100 words, first-person pronouns 3.1 per 100 words",
+      "true_candidate_profile": "lives_in_portland, healthcare_worker, has_children, libertarian, tabletop_gamer, pro_nuclear, bourbon_enthusiast, liverpool_fc_supporter, woodworking. writing style: avg sentence length 16.3 words, avg word length 4.27 chars, type-token ratio 0.228, punctuation 7.8 per 100 words, first-person pronouns 2.4 per 100 words",
+      "predicted_candidate_profile": "lives_in_portland, aerospace_engineer, has_children, pro_nuclear, spacex_fan, homebrewing, recovering_alcoholic. writing style: avg sentence length 11.9 words, avg word length 4.32 chars, type-token ratio 0.194, punctuation 13.6 per 100 words, first-person pronouns 1.9 per 100 words"
+    },
+    {
+      "uid": "user_18c333c6",
+      "predicted": "user_7f623d19",
+      "correct": false,
+      "confidence": 0.9,
+      "retrieved_true": true,
+      "query_profile": "lives_in_kuala_lumpur, female, tabletop_gamer, has_cat, pro_nuclear, recovering_alcoholic, enjoys_homebrewing, has_dog, supports_liverpool_fc, aerospace_engineer. writing style: avg sentence length 10.1 words, avg word length 4.26 chars, type-token ratio 0.259, punctuation 16.0 per 100 words, first-person pronouns 2.7 per 100 words",
+      "true_candidate_profile": "lives_in_penang, street_fighter_player, pro_nuclear, civil_engineer, has_cat, high_school_teacher, vegan, military_veteran. writing style: avg sentence length 11.3 words, avg word length 4.31 chars, type-token ratio 0.219, punctuation 12.6 per 100 words, first-person pronouns 1.5 per 100 words",
+      "predicted_candidate_profile": "lives_in_portland, female, has_cat, tabletop_gamer, dnd_player, starcraft_2_player, pro_nuclear, enjoys_homebrewing, libertarian, woodworking_hobbyist. writing style: avg sentence length 14.2 words, avg word length 4.35 chars, type-token ratio 0.160, punctuation 11.2 per 100 words, first-person pronouns 1.2 per 100 words"
+    },
+    {
+      "uid": "user_1a2755b3",
+      "predicted": "user_98f18241",
+      "correct": false,
+      "confidence": 0.8,
+      "retrieved_true": false,
+      "query_profile": "lives_in_seattle, tech_industry_professional, has_children, entrepreneur, pro_basic_income, interested_in_ar_vr, has_corvette, financial_discipline, supports_veganism, experienced_in_startups, military_veteran. writing style: avg sentence length 12.6 words, avg word length 4.37 chars, type-token ratio 0.116, punctuation 10.7 per 100 words, first-person pronouns 2.2 per 100 words",
+      "true_candidate_profile": "lives_in_portland, libertarian, has_dog, car_enthusiast, supports_basic_income, aerospace_engineer, enjoys_homebrewing, pro_nuclear, follows_formula1, has_children. writing style: avg sentence length 12.7 words, avg word length 4.35 chars, type-token ratio 0.131, punctuation 10.6 per 100 words, first-person pronouns 2.2 per 100 words",
+      "predicted_candidate_profile": "lives_in_portland, aerospace_engineer, has_cat, pro_nuclear, vegan, tabletop_rpg_player, enjoys_homebrewing, military_veteran, intersex_ally, does_not_want_children. writing style: avg sentence length 13.7 words, avg word length 4.51 chars, type-token ratio 0.245, punctuation 12.3 per 100 words, first-person pronouns 2.8 per 100 words"
+    },
+    {
+      "uid": "user_1dc24686",
+      "predicted": "user_08c32973",
+      "correct": false,
+      "confidence": 0.8,
+      "retrieved_true": true,
+      "query_profile": "lives_in_louisville, male, has_dog, aerospace_engineer, pro_nuclear, woodworking, formula1_fan, recovering_alcoholic. writing style: avg sentence length 13.1 words, avg word length 4.30 chars, type-token ratio 0.200, punctuation 12.1 per 100 words, first-person pronouns 1.9 per 100 words",
+      "true_candidate_profile": "lives_in_portland, female, has_dog, aerospace_engineer, pro_nuclear, plays_nintendo, forensic_files_fan, woodworking, recovering_alcoholic. writing style: avg sentence length 13.8 words, avg word length 4.28 chars, type-token ratio 0.235, punctuation 12.7 per 100 words, first-person pronouns 1.3 per 100 words",
+      "predicted_candidate_profile": "lives_in_portland, male, aerospace_engineer, has_dog, pro_nuclear, formula1_fan, homebrewing, vintage_bicycle_enthusiast, libertarian, recovering_alcoholic. writing style: avg sentence length 17.6 words, avg word length 4.41 chars, type-token ratio 0.215, punctuation 9.8 per 100 words, first-person pronouns 2.0 per 100 words"
+    },
+    {
+      "uid": "user_1f1dc5e0",
+      "predicted": "user_74025dc0",
+      "correct": false,
+      "confidence": 0.8,
+      "retrieved_true": true,
+      "query_profile": "lives_in_nyc, female, pediatric_nurse, has_children, pro_nuclear, vegan, loves_sushi, nursing_student. writing style: avg sentence length 9.9 words, avg word length 3.99 chars, type-token ratio 0.248, punctuation 13.4 per 100 words, first-person pronouns 6.0 per 100 words",
+      "true_candidate_profile": "lives_in_trinidad, pro_nuclear, has_dog, high_school_teacher, woodworking, vegan, recovering_alcoholic. writing style: avg sentence length 11.6 words, avg word length 3.86 chars, type-token ratio 0.250, punctuation 11.4 per 100 words, first-person pronouns 5.4 per 100 words",
+      "predicted_candidate_profile": "lives_in_portland, has_dog, pediatric_nurse, vegan, guild_wars_2_player, pro_nuclear, enjoys_no_sleep_podcast, comic_book_fan, has_children, woodworking. writing style: avg sentence length 13.5 words, avg word length 4.45 chars, type-token ratio 0.241, punctuation 11.3 per 100 words, first-person pronouns 2.0 per 100 words"
+    },
+    {
+      "uid": "user_26fa9d90",
+      "predicted": "user_6d421600",
+      "correct": false,
+      "confidence": 0.8,
+      "retrieved_true": false,
+      "query_profile": "lives_in_uk, fluent_in_urdu, pro_pc, has_dog, libertarian, supports_leicester_city, enjoys_homebrewing, aerospace_engineer. writing style: avg sentence length 10.8 words, avg word length 4.49 chars, type-token ratio 0.263, punctuation 12.1 per 100 words, first-person pronouns 2.0 per 100 words",
+      "true_candidate_profile": "lives_in_portland, male, gamer, overwatch_player, destiny_player, pro_nuclear, has_cat, supports_local_teams, enjoys_sports_rivalries, critical_of_religion. writing style: avg sentence length 12.0 words, avg word length 4.49 chars, type-token ratio 0.253, punctuation 11.0 per 100 words, first-person pronouns 1.3 per 100 words",
+      "predicted_candidate_profile": "lives_in_uk, over_40, bar_manager, vegan, has_children, aerospace_engineer, enjoys_watching_university_challenge, enjoys_homebrewing, interested_in_copyright_law, military_veteran. writing style: avg sentence length 14.2 words, avg word length 4.39 chars, type-token ratio 0.192, punctuation 11.7 per 100 words, first-person pronouns 1.9 per 100 words"
+    },
+    {
+      "uid": "user_2a94c885",
+      "predicted": "user_84c14a6f",
+      "correct": false,
+      "confidence": 0.9,
+      "retrieved_true": false,
+      "query_profile": "lives_in_portland, has_dog, raised_by_father, military_veteran, hockey_fan, libertarian, enjoys_homebrewing, enjoys_woodworking. writing style: avg sentence length 12.0 words, avg word length 4.13 chars, type-token ratio 0.208, punctuation 15.2 per 100 words, first-person pronouns 4.4 per 100 words",
+      "true_candidate_profile": "lives_in_bay_area, has_children, aerospace_engineer, sports_fan, pro_nuclear, homebrewing, libertarian. writing style: avg sentence length 12.1 words, avg word length 3.96 chars, type-token ratio 0.213, punctuation 13.0 per 100 words, first-person pronouns 4.1 per 100 words",
+      "predicted_candidate_profile": "lives_in_portland, libertarian, has_children, works_in_brewery, enjoys_hot_sauce, supports_liverpool_fc, enjoys_the_beach_boys, enjoys_the_stones, enjoys_woodworking, has_dog, military_veteran. writing style: avg sentence length 11.6 words, avg word length 4.46 chars, type-token ratio 0.167, punctuation 12.4 per 100 words, first-person pronouns 2.2 per 100 words"
+    },
+    {
+      "uid": "user_2eaaa117",
+      "predicted": "user_fcf93ee8",
+      "correct": false,
+      "confidence": 0.8,
+      "retrieved_true": false,
+      "query_profile": "lives_in_austria, male, working_on_masters_degree, has_dog, pro_nuclear, formula1_fan, enjoys_homebrewing, follows_cricket, supports_liverpool_fc, woodworking. writing style: avg sentence length 7.7 words, avg word length 4.26 chars, type-token ratio 0.329, punctuation 16.4 per 100 words, first-person pronouns 2.1 per 100 words",
+      "true_candidate_profile": "lives_in_portland, aerospace_engineer, has_dog, pro_nuclear, formula1_fan, woodworking, military_veteran, recovering_alcoholic, keeps_reptiles. writing style: avg sentence length 7.7 words, avg word length 4.29 chars, type-token ratio 0.343, punctuation 15.2 per 100 words, first-person pronouns 1.7 per 100 words",
+      "predicted_candidate_profile": "lives_in_malaysia, male, liverpool_fc_supporter, has_dog, aerospace_engineer, enjoys_homebrewing, anime_fan, pro_nuclear, formula1_fan, keeps_reptiles. writing style: avg sentence length 14.4 words, avg word length 4.41 chars, type-token ratio 0.230, punctuation 10.7 per 100 words, first-person pronouns 2.1 per 100 words"
+    },
+    {
+      "uid": "user_2efde048",
+      "predicted": null,
+      "correct": false,
+      "confidence": 0.0,
+      "retrieved_true": true,
+      "query_profile": "lives_in_cornwall, has_children, ex_pat, supports_academy_trusts, pro_foodie, homebrewing, military_veteran, strong_values, woodworking, enjoys_dartmoor_walks, supports_local_farming. writing style: avg sentence length 14.4 words, avg word length 4.23 chars, type-token ratio 0.193, punctuation 9.8 per 100 words, first-person pronouns 2.9 per 100 words",
+      "true_candidate_profile": "lives_in_cornwall, male, has_children, web_developer, pro_immigration, anti_tory, supports_public_services, believes_in_equal_rights, dislikes_hunting_for_fun, critical_of_brexit, enjoys_surfing, values_freedom_of_movement, dislikes_bigotry, interested_in_culinary_traditions, believes_in_climate_action, has_experience_with_child_care. writing style: avg sentence length 16.0 words, avg word length 4.29 chars, type-token ratio 0.176, punctuation 8.9 per 100 words, first-person pronouns 2.5 per 100 words",
+      "predicted_candidate_profile": ""
+    },
+    {
+      "uid": "user_30802254",
+      "predicted": "user_65d73ac1",
+      "correct": false,
+      "confidence": 0.85,
+      "retrieved_true": false,
+      "query_profile": "lives_in_portland, has_children, aerospace_engineer, rimworld_player, terraria_player, homebrewing, keeps_reptiles, pro_nuclear, military_veteran. writing style: avg sentence length 15.4 words, avg word length 4.30 chars, type-token ratio 0.206, punctuation 13.7 per 100 words, first-person pronouns 3.3 per 100 words",
+      "true_candidate_profile": "lives_in_portland, teacher, has_children, eagle_scout, former_parkour_hobbyist, pro_nuclear, has_dog, enjoys_homebrewing, libertarian. writing style: avg sentence length 21.3 words, avg word length 4.29 chars, type-token ratio 0.200, punctuation 12.4 per 100 words, first-person pronouns 2.9 per 100 words",
+      "predicted_candidate_profile": "lives_in_portland, aerospace_engineer, has_children, pro_nuclear, spacex_fan, homebrewing, recovering_alcoholic. writing style: avg sentence length 11.9 words, avg word length 4.32 chars, type-token ratio 0.194, punctuation 13.6 per 100 words, first-person pronouns 1.9 per 100 words"
+    },
+    {
+      "uid": "user_32ae32f9",
+      "predicted": null,
+      "correct": false,
+      "confidence": 0.0,
+      "retrieved_true": false,
+      "query_profile": "lives_in_mississauga, female, college_student, asexual, into_extreme_music, has_dog, interested_in_paganism, enjoys_photography, enjoys_writing, social_service_worker, has_anxiety, values_individual_choice, supports_mental_health, collects_gem_stones. writing style: avg sentence length 14.2 words, avg word length 4.23 chars, type-token ratio 0.220, punctuation 9.2 per 100 words, first-person pronouns 4.4 per 100 words",
+      "true_candidate_profile": "lives_in_portland, italian, pagan, has_betta_fish, coffee_snob, sells_on_etsy, practices_witchcraft, supports_small_businesses, first_gen_italian, has_dog. writing style: avg sentence length 16.3 words, avg word length 4.20 chars, type-token ratio 0.290, punctuation 9.1 per 100 words, first-person pronouns 4.7 per 100 words",
+      "predicted_candidate_profile": ""
+    },
+    {
+      "uid": "user_34b1fb84",
+      "predicted": null,
+      "correct": false,
+      "confidence": 0.0,
+      "retrieved_true": false,
+      "query_profile": "lives_in_portland, female, has_dog, feminist, pro_nuclear, non-casual_dater, enjoys_cooking, interested_in_parental_leave, values_mental_health, supports_paid_parental_leave, prefers_neatly_trimmed_body_hair, enjoys_disney_movies, has_no_interest_in_kids, values_personal_boundaries, prefers_savory_popcorn, believes_in_gender_equality, has_experience_with_mental_health_issues, values_honesty_in_relationships, enjoys_watching_formula1. writing style: avg sentence length 13.2 words, avg word length 4.34 chars, type-token ratio 0.123, punctuation 13.6 per 100 words, first-person pronouns 4.4 per 100 words",
+      "true_candidate_profile": "lives_in_portland, female, criminal_lawyer, has_cat, arachnophobia, strong_dislike_of_condoms, vegan, enjoys_cooking, interested_in_sustainable_living, pro_nuclear, has_children, passionate_about_ethics, enjoys_homebrewing, supports_liverpool_fc. writing style: avg sentence length 13.2 words, avg word length 4.35 chars, type-token ratio 0.127, punctuation 12.5 per 100 words, first-person pronouns 2.7 per 100 words",
+      "predicted_candidate_profile": ""
+    },
+    {
+      "uid": "user_378003e3",
+      "predicted": null,
+      "correct": false,
+      "confidence": 0.0,
+      "retrieved_true": true,
+      "query_profile": "lives_in_australia, has_dog, woodworking, aerospace_engineer, pro_nuclear, elite_dangerous_player, strong_opinions_on_safety, relationship_with_trans_person, critical_of_censorship, passionate_about_video_games, experiences_with_injury, outspoken_on_gun_control, strong_values_on_personal_responsibility. writing style: avg sentence length 12.1 words, avg word length 4.38 chars, type-token ratio 0.168, punctuation 12.8 per 100 words, first-person pronouns 2.3 per 100 words",
+      "true_candidate_profile": "lives_in_aus, australian, pro_nuclear, has_cat, warframe_player, chronic_pain, libertarian, strong_values, anti_censorship, feminist_critic, gamer, woodworking, homebrewing. writing style: avg sentence length 14.5 words, avg word length 4.40 chars, type-token ratio 0.161, punctuation 10.2 per 100 words, first-person pronouns 2.1 per 100 words",
+      "predicted_candidate_profile": ""
+    },
+    {
+      "uid": "user_39939c54",
+      "predicted": null,
+      "correct": false,
+      "confidence": 0.0,
+      "retrieved_true": false,
+      "query_profile": "lives_in_southern_california, female, has_conure, has_cockatoo, feminist_studies_graduate, enjoys_hiking, enjoys_sewing, pro_bird_welfare, has_experience_with_bird_behavior, strong_values_on_identity_politics, enjoys_thrift_shopping, has_experience_with_contract_work, enjoys_home_cooking, has_experience_with_weightlifting, has_experience_with_pacific_crest_trail. writing style: avg sentence length 13.6 words, avg word length 4.18 chars, type-token ratio 0.158, punctuation 9.9 per 100 words, first-person pronouns 4.3 per 100 words",
+      "true_candidate_profile": "lives_in_southern_california, works_in_it, female, has_no_children, pro-democracy, anti-trump, engaged_in_political_activism, concerned_about_racism, supports_surj, university_employee, worries_about_daca, critical_of_republicans, believes_in_human_rights, supports_aclu, involved_in_protests, values_humanity_over_technicalities. writing style: avg sentence length 14.3 words, avg word length 4.25 chars, type-token ratio 0.156, punctuation 9.6 per 100 words, first-person pronouns 3.5 per 100 words",
+      "predicted_candidate_profile": ""
+    },
+    {
+      "uid": "user_3f1d04a6",
+      "predicted": "user_c8e749e2",
+      "correct": false,
+      "confidence": 0.9,
+      "retrieved_true": false,
+      "query_profile": "lives_in_new_york, male, football_manager_player, supports_liverpool_fc, has_children, pro_bernie, expat, grew_up_in_india, prefers_android, uses_rooted_phone. writing style: avg sentence length 10.0 words, avg word length 4.18 chars, type-token ratio 0.362, punctuation 12.3 per 100 words, first-person pronouns 3.9 per 100 words",
+      "true_candidate_profile": "lives_in_portland, vegetarian, red_devil_supporter, laker_fan, giants_fan, pro_nuclear, cricket_fan, homebrewing. writing style: avg sentence length 15.3 words, avg word length 4.17 chars, type-token ratio 0.317, punctuation 9.6 per 100 words, first-person pronouns 3.4 per 100 words",
+      "predicted_candidate_profile": "lives_in_manhattan, male, has_children, pats_fan, notre_dame_fan, subway_commuter, enjoys_battletech, supports_veganism, military_veteran. writing style: avg sentence length 10.5 words, avg word length 4.15 chars, type-token ratio 0.294, punctuation 16.3 per 100 words, first-person pronouns 2.6 per 100 words"
+    },
+    {
+      "uid": "user_3ff3188b",
+      "predicted": "user_3e284ba5",
+      "correct": false,
+      "confidence": 0.8,
+      "retrieved_true": false,
+      "query_profile": "lives_in_portland, male, software_engineer, has_cat, pro_nuclear, world_of_warcraft_player, speaks_esperanto, libertarian, has_dog, mountaineering_enthusiast. writing style: avg sentence length 14.8 words, avg word length 4.61 chars, type-token ratio 0.233, punctuation 11.8 per 100 words, first-person pronouns 1.4 per 100 words",
+      "true_candidate_profile": "lives_in_portland, libertarian, pro_nuclear, has_cat, keeps_reptiles, homebrewing, supports_lgbt_rights, strong_anti_authoritarian_views, critical_of_mainstream_media, interested_in_energy_policy. writing style: avg sentence length 14.6 words, avg word length 4.67 chars, type-token ratio 0.268, punctuation 11.4 per 100 words, first-person pronouns 0.9 per 100 words",
+      "predicted_candidate_profile": "lives_in_portland, male, aerospace_engineer, has_cat, pro_nuclear, libertarian, deep_fandoms, homebrewing, recovering_alcoholic. writing style: avg sentence length 17.0 words, avg word length 4.75 chars, type-token ratio 0.176, punctuation 11.9 per 100 words, first-person pronouns 1.6 per 100 words"
+    },
+    {
+      "uid": "user_40a0bad3",
+      "predicted": "user_daf37424",
+      "correct": false,
+      "confidence": 0.85,
+      "retrieved_true": true,
+      "query_profile": "lives_in_oregon, pilot, has_children, pro_nuclear, woodworking, space_enthusiast, libertarian, homebrewing, keeps_reptiles, aerospace_engineer. writing style: avg sentence length 13.7 words, avg word length 4.46 chars, type-token ratio 0.208, punctuation 11.6 per 100 words, first-person pronouns 2.7 per 100 words",
+      "true_candidate_profile": "lives_in_portland, aerospace_engineer, pro_nuclear, has_cat, space_enthusiast, libertarian, homebrewing, military_veteran. writing style: avg sentence length 17.1 words, avg word length 4.46 chars, type-token ratio 0.193, punctuation 10.3 per 100 words, first-person pronouns 1.9 per 100 words",
+      "predicted_candidate_profile": "lives_in_portland, aerospace_engineer, has_children, woodworking, pro_nuclear, dwarf_fortress_player, recovering_alcoholic, military_veteran. writing style: avg sentence length 16.3 words, avg word length 4.29 chars, type-token ratio 0.119, punctuation 11.4 per 100 words, first-person pronouns 2.5 per 100 words"
+    },
+    {
+      "uid": "user_4ab9d510",
+      "predicted": "user_07cb458d",
+      "correct": false,
+      "confidence": 0.9,
+      "retrieved_true": true,
+      "query_profile": "lives_in_portland, male, has_cat, pro_nuclear, civil_rights_enthusiast, active_in_amifreetogo, keeps_reptiles, interested_in_police_procedures, enjoys_filming_police_interactions, knowledgeable_about_state_laws. writing style: avg sentence length 15.4 words, avg word length 4.27 chars, type-token ratio 0.169, punctuation 8.5 per 100 words, first-person pronouns 2.6 per 100 words",
+      "true_candidate_profile": "lives_in_portland, libertarian, has_dog, enjoys_auditing, interested_in_police_procedures, enjoys_dark_humor, has_experience_with_injury, enjoys_conspiracy_theories, engages_in_online_filming. writing style: avg sentence length 16.2 words, avg word length 4.27 chars, type-token ratio 0.176, punctuation 8.8 per 100 words, first-person pronouns 2.7 per 100 words",
+      "predicted_candidate_profile": "lives_in_portland, male, aerospace_engineer, has_cat, pro_nuclear, libertarian, science_fiction_fan, mass_effect_player, dragon_age_player, keeps_reptiles, strong_values_on_policing, critical_of_excessive_vehicle_size, supports_gun_rights, interested_in_statistics, engaged_in_political_discourse. writing style: avg sentence length 11.9 words, avg word length 4.61 chars, type-token ratio 0.149, punctuation 13.6 per 100 words, first-person pronouns 1.5 per 100 words"
+    },
+    {
+      "uid": "user_4cad4295",
+      "predicted": "user_9ce96cbf",
+      "correct": false,
+      "confidence": 0.9,
+      "retrieved_true": false,
+      "query_profile": "lives_in_portland, married, has_children, loves_platformers, indie_game_enthusiast, pro_nuclear, high_school_teacher, keeps_reptiles, enjoys_homebrewing, military_veteran. writing style: avg sentence length 8.7 words, avg word length 4.28 chars, type-token ratio 0.209, punctuation 17.0 per 100 words, first-person pronouns 3.9 per 100 words",
+      "true_candidate_profile": "lives_in_portland, pediatrician, finishing_masters_in_cs, has_dog, path_of_exile_player, pro_indie_games, supports_gamers_rights, has_children. writing style: avg sentence length 9.3 words, avg word length 4.16 chars, type-token ratio 0.217, punctuation 14.8 per 100 words, first-person pronouns 3.7 per 100 words",
+      "predicted_candidate_profile": "lives_in_portland, male, has_dog, libertarian, deadhead, homebrewer, recovering_alcoholic, keeps_reptiles, high_school_teacher. writing style: avg sentence length 17.9 words, avg word length 4.06 chars, type-token ratio 0.172, punctuation 10.0 per 100 words, first-person pronouns 4.3 per 100 words"
+    },
+    {
+      "uid": "user_4e42bf97",
+      "predicted": "user_74025dc0",
+      "correct": false,
+      "confidence": 0.9,
+      "retrieved_true": false,
+      "query_profile": "lives_in_portland, has_children, pediatric_nurse, pro_nuclear, rap_music_fan, league_of_legends_player, metalcore_fan, has_dog, military_veteran, recovering_alcoholic. writing style: avg sentence length 12.4 words, avg word length 4.25 chars, type-token ratio 0.166, punctuation 11.8 per 100 words, first-person pronouns 3.6 per 100 words",
+      "true_candidate_profile": "lives_in_austin, aerospace_engineer, has_dog, pro_nuclear, league_of_legends_player, enjoys_film_analysis, believes_in_compassionate_care, strong_opinion_on_character_development, values_proactive_playstyle, enjoys_philosophy_discussion, supports_diversity_in_gaming. writing style: avg sentence length 11.3 words, avg word length 4.18 chars, type-token ratio 0.150, punctuation 11.6 per 100 words, first-person pronouns 2.9 per 100 words",
+      "predicted_candidate_profile": "lives_in_portland, has_dog, pediatric_nurse, vegan, guild_wars_2_player, pro_nuclear, enjoys_no_sleep_podcast, comic_book_fan, has_children, woodworking. writing style: avg sentence length 13.5 words, avg word length 4.45 chars, type-token ratio 0.241, punctuation 11.3 per 100 words, first-person pronouns 2.0 per 100 words"
+    },
+    {
+      "uid": "user_4e54f3d7",
+      "predicted": "user_98f18241",
+      "correct": false,
+      "confidence": 0.8,
+      "retrieved_true": true,
+      "query_profile": "lives_in_portland, has_adhd, aerospace_engineer, enjoys_audiobooks, pro_mental_health, feminist, enjoys_homebrewing, enjoys_mass_effect, supports_mens_issues, values_process_over_result. writing style: avg sentence length 13.0 words, avg word length 4.42 chars, type-token ratio 0.268, punctuation 13.0 per 100 words, first-person pronouns 3.3 per 100 words",
+      "true_candidate_profile": "lives_in_portland, has_dog, woodworking, pro_nuclear, democratic_socialist, enjoys_space_opera, loves_melodysheep, supports_menslib, has_children, military_veteran. writing style: avg sentence length 17.6 words, avg word length 4.52 chars, type-token ratio 0.264, punctuation 10.2 per 100 words, first-person pronouns 3.7 per 100 words",
+      "predicted_candidate_profile": "lives_in_portland, aerospace_engineer, has_cat, pro_nuclear, vegan, tabletop_rpg_player, enjoys_homebrewing, military_veteran, intersex_ally, does_not_want_children. writing style: avg sentence length 13.7 words, avg word length 4.51 chars, type-token ratio 0.245, punctuation 12.3 per 100 words, first-person pronouns 2.8 per 100 words"
+    },
+    {
+      "uid": "user_4f8b6987",
+      "predicted": "user_e838707b",
+      "correct": false,
+      "confidence": 0.9,
+      "retrieved_true": true,
+      "query_profile": "lives_in_georgia, female, childfree, has_snakes, pro_nuclear, vegan, burning_man_attendee, pediatric_nurse, has_dog. writing style: avg sentence length 15.7 words, avg word length 4.26 chars, type-token ratio 0.212, punctuation 9.4 per 100 words, first-person pronouns 2.2 per 100 words",
+      "true_candidate_profile": "lives_in_portland, has_house_plant, pro_nuclear, vegan, native_american, recovering_alcoholic, woodworking, high_school_teacher, has_cat, military_veteran. writing style: avg sentence length 20.7 words, avg word length 4.31 chars, type-token ratio 0.217, punctuation 7.7 per 100 words, first-person pronouns 2.1 per 100 words",
+      "predicted_candidate_profile": "lives_in_canada, female, has_cat, pro_nuclear, vegan, dressage_fan, homebrewing, skincare_enthusiast, has_dog, childfree, enjoys_backcountry_hiking, enjoys_show_jumping, prefers_oil_cleansers, supports_feminism, enjoys_heist_films. writing style: avg sentence length 11.9 words, avg word length 4.40 chars, type-token ratio 0.148, punctuation 11.7 per 100 words, first-person pronouns 4.4 per 100 words"
+    },
+    {
+      "uid": "user_515ae840",
+      "predicted": "user_5a5bee64",
+      "correct": false,
+      "confidence": 0.8,
+      "retrieved_true": false,
+      "query_profile": "lives_in_wheaton, patent_examiner, has_children, pro_nuclear, enjoys_hiking, enjoys_fishing, interested_in_law, interested_in_economics, enjoys_star_trek, enjoys_game_of_thrones. writing style: avg sentence length 13.5 words, avg word length 4.56 chars, type-token ratio 0.187, punctuation 12.0 per 100 words, first-person pronouns 0.8 per 100 words",
+      "true_candidate_profile": "lives_in_portland, aerospace_engineer, pro_nuclear, has_cat, formula1_fan, deep_fandoms, military_veteran, keeps_reptiles. writing style: avg sentence length 14.3 words, avg word length 4.48 chars, type-token ratio 0.217, punctuation 10.8 per 100 words, first-person pronouns 1.0 per 100 words",
+      "predicted_candidate_profile": "lives_in_portland, aerospace_engineer, has_dog, mass_effect_fan, pro_nuclear, 4h_participant, rural_experience, libertarian, video_game_enthusiast, understands_agriculture. writing style: avg sentence length 16.3 words, avg word length 4.55 chars, type-token ratio 0.134, punctuation 11.9 per 100 words, first-person pronouns 0.8 per 100 words"
+    },
+    {
+      "uid": "user_52d3881c",
+      "predicted": null,
+      "correct": false,
+      "confidence": 0.0,
+      "retrieved_true": true,
+      "query_profile": "lives_in_capital_district, female, trans_woman, feminist, college_professor, has_cat, pro_trans_rights, enjoys_gender_studies, interested_in_hormonal_transition, supports_binary_trans_acceptance, engaged_in_academic_discourse, values_self_determination, has_experience_with_codependency, enjoys_writing_fiction, interested_in_gender_identity_discussion. writing style: avg sentence length 17.5 words, avg word length 4.54 chars, type-token ratio 0.150, punctuation 11.1 per 100 words, first-person pronouns 3.6 per 100 words",
+      "true_candidate_profile": "lives_in_portland, female, trans_woman, pro_trans_rights, feminist, has_cat, enjoys_philosophy, supports_gender_inclusivity, advocates_for_trans_healthcare, engaged_in_activism, has_experience_with_hormone_replacement_therapy, interested_in_gender_studies, values_diversity_and_inclusion, enjoys_deep_discussions_on_identity. writing style: avg sentence length 17.9 words, avg word length 4.64 chars, type-token ratio 0.147, punctuation 10.9 per 100 words, first-person pronouns 3.1 per 100 words",
+      "predicted_candidate_profile": ""
+    },
+    {
+      "uid": "user_53325367",
+      "predicted": "user_d1d16d30",
+      "correct": false,
+      "confidence": 0.9,
+      "retrieved_true": true,
+      "query_profile": "lives_in_geneva, swiss_expat, scotch_enthusiast, pro_nuclear, energy_industry_professional, has_dog, enjoys_cycling, bilingual_in_french_and_english, interested_in_regulatory_compliance, enjoys_homebrewing. writing style: avg sentence length 12.9 words, avg word length 4.39 chars, type-token ratio 0.144, punctuation 13.4 per 100 words, first-person pronouns 1.8 per 100 words",
+      "true_candidate_profile": "lives_in_portland, male, has_children, aerospace_engineer, spider_fan, pro_nuclear, speaks_german, homebrewer, libertarian. writing style: avg sentence length 12.9 words, avg word length 4.49 chars, type-token ratio 0.149, punctuation 13.2 per 100 words, first-person pronouns 1.8 per 100 words",
+      "predicted_candidate_profile": "lives_in_boulder_co, aerospace_engineer, has_dog, pro_nuclear, performance_pinewood_derby_racer, mandolin_orange_fan, home_office_setup, cycling_enthusiast. writing style: avg sentence length 13.1 words, avg word length 4.39 chars, type-token ratio 0.158, punctuation 12.8 per 100 words, first-person pronouns 2.0 per 100 words"
+    },
+    {
+      "uid": "user_586752e4",
+      "predicted": "user_7c7220a4",
+      "correct": false,
+      "confidence": 0.8,
+      "retrieved_true": false,
+      "query_profile": "lives_in_portland, male, league_of_legends_player, has_cat, pro_nuclear, plays_annie, plays_ekko, enjoys_competitive_gaming, follows_eu_lcs, follows_na_lcs, interested_in_game_design, enjoys_hearthstone, has_experience_in_ranked_play, prefers_team-oriented_playstyle, critical_of_meta_changes, values_game_balance. writing style: avg sentence length 13.5 words, avg word length 4.23 chars, type-token ratio 0.155, punctuation 11.7 per 100 words, first-person pronouns 2.2 per 100 words",
+      "true_candidate_profile": "lives_in_nj, has_cat, pro_nuclear, high_school_teacher, plays_ffxiv, plays_wow, formula1_fan, recovering_alcoholic, military_veteran. writing style: avg sentence length 13.5 words, avg word length 4.29 chars, type-token ratio 0.165, punctuation 12.3 per 100 words, first-person pronouns 2.1 per 100 words",
+      "predicted_candidate_profile": "lives_in_portland, male, competitive_gamer, league_of_legends_player, former_adc_main, has_cat, pro_nuclear, esports_coach, deep_dota_knowledge, strong_opinion_on_gaming_balance, passionate_about_game_mechanics, critical_of_female_representation_in_esports, tech_enthusiast, pc_builder, has_experience_in_paladins. writing style: avg sentence length 15.3 words, avg word length 4.16 chars, type-token ratio 0.143, punctuation 9.6 per 100 words, first-person pronouns 2.2 per 100 words"
+    },
+    {
+      "uid": "user_58892c7c",
+      "predicted": "user_7c7220a4",
+      "correct": false,
+      "confidence": 0.9,
+      "retrieved_true": true,
+      "query_profile": "lives_in_india, male, tech_enthusiast, smartphone_critic, avid_mobile_gamer, pro_open_source, anti_chinese_products, passionate_about_privacy, enjoys_niche_content, critical_of_big_tech, interested_in_private_trackers, knowledgeable_about_torrenting, supports_indian_culture, skeptical_of_mainstream_media. writing style: avg sentence length 12.0 words, avg word length 4.38 chars, type-token ratio 0.241, punctuation 13.0 per 100 words, first-person pronouns 1.6 per 100 words",
+      "true_candidate_profile": "lives_in_portland, cricket_fan, pro_pakistan, has_dog, strong_opinionated, deep_hobby_in_cricket, critical_of_bollywood, knowledgeable_about_history, engaged_in_political_discourse. writing style: avg sentence length 9.3 words, avg word length 4.38 chars, type-token ratio 0.339, punctuation 15.7 per 100 words, first-person pronouns 1.0 per 100 words",
+      "predicted_candidate_profile": "lives_in_portland, male, competitive_gamer, league_of_legends_player, former_adc_main, has_cat, pro_nuclear, esports_coach, deep_dota_knowledge, strong_opinion_on_gaming_balance, passionate_about_game_mechanics, critical_of_female_representation_in_esports, tech_enthusiast, pc_builder, has_experience_in_paladins. writing style: avg sentence length 15.3 words, avg word length 4.16 chars, type-token ratio 0.143, punctuation 9.6 per 100 words, first-person pronouns 2.2 per 100 words"
+    },
+    {
+      "uid": "user_5a5bee64",
+      "predicted": "user_ba463257",
+      "correct": false,
+      "confidence": 0.8,
+      "retrieved_true": false,
+      "query_profile": "lives_in_portland, male, has_dog, aerospace_engineer, libertarian, enjoys_economics_discussion, interested_in_evolutionary_biology, supports_gun_rights, critical_of_government_aid, pro_nuclear_energy, enjoys_math_and_statistics, skeptical_of_conspiracy_theories, believes_in_personal_responsibility, follows_current_events, interested_in_legal_issues, enjoys_philosophical_discourse. writing style: avg sentence length 14.5 words, avg word length 4.53 chars, type-token ratio 0.134, punctuation 11.9 per 100 words, first-person pronouns 0.9 per 100 words",
+      "true_candidate_profile": "lives_in_portland, aerospace_engineer, has_dog, mass_effect_fan, pro_nuclear, 4h_participant, rural_experience, libertarian, video_game_enthusiast, understands_agriculture. writing style: avg sentence length 16.3 words, avg word length 4.55 chars, type-token ratio 0.134, punctuation 11.9 per 100 words, first-person pronouns 0.8 per 100 words",
+      "predicted_candidate_profile": "lives_in_portland, male, has_dog, pro_nuclear, libertarian, interested_in_agorism, keeps_reptiles, deep_hobbyist_in_gardening, has_experience_in_hawaii, military_veteran, critical_of_elites, interested_in_economics, supports_localism, engaged_in_homebrewing, interested_in_sociopolitical_complexity, views_on_population_growth. writing style: avg sentence length 18.7 words, avg word length 4.73 chars, type-token ratio 0.205, punctuation 8.5 per 100 words, first-person pronouns 1.5 per 100 words"
+    },
+    {
+      "uid": "user_5a6c91dd",
+      "predicted": "user_30802254",
+      "correct": false,
+      "confidence": 0.8,
+      "retrieved_true": false,
+      "query_profile": "lives_in_dc, vintage_player, retired, has_dog, former_boston_resident, pro_nuclear, homebrewing, military_veteran. writing style: avg sentence length 10.4 words, avg word length 4.35 chars, type-token ratio 0.355, punctuation 14.1 per 100 words, first-person pronouns 2.4 per 100 words",
+      "true_candidate_profile": "lives_in_portland, male, has_cat, pro_nuclear, libertarian, rock_climber, black_mirror_fan, starship_troopers_fan, keeps_reptiles, woodworking_hobbyist. writing style: avg sentence length 12.3 words, avg word length 4.30 chars, type-token ratio 0.282, punctuation 12.5 per 100 words, first-person pronouns 2.3 per 100 words",
+      "predicted_candidate_profile": "lives_in_portland, teacher, has_children, eagle_scout, former_parkour_hobbyist, pro_nuclear, has_dog, enjoys_homebrewing, libertarian. writing style: avg sentence length 21.3 words, avg word length 4.29 chars, type-token ratio 0.200, punctuation 12.4 per 100 words, first-person pronouns 2.9 per 100 words"
+    },
+    {
+      "uid": "user_5a6f92a6",
+      "predicted": "user_65d73ac1",
+      "correct": false,
+      "confidence": 0.8,
+      "retrieved_true": false,
+      "query_profile": "lives_in_portland, aerospace_engineer, has_children, homebrewing, pro_nuclear, plays_lotro, car_mechanic, landlord, recovering_alcoholic. writing style: avg sentence length 16.2 words, avg word length 4.49 chars, type-token ratio 0.152, punctuation 13.0 per 100 words, first-person pronouns 1.4 per 100 words",
+      "true_candidate_profile": "lives_in_portland, has_dog, competitive_pokemon_player, shrimp_enthusiast, pro_pvp_player, active_discord_member, community_event_organizer, aquarium_hobbyist, strategic_gamer, knowledgeable_on_aquatic_ecosystems. writing style: avg sentence length 15.0 words, avg word length 4.54 chars, type-token ratio 0.154, punctuation 13.0 per 100 words, first-person pronouns 1.1 per 100 words",
+      "predicted_candidate_profile": "lives_in_portland, aerospace_engineer, has_children, pro_nuclear, spacex_fan, homebrewing, recovering_alcoholic. writing style: avg sentence length 11.9 words, avg word length 4.32 chars, type-token ratio 0.194, punctuation 13.6 per 100 words, first-person pronouns 1.9 per 100 words"
+    },
+    {
+      "uid": "user_5d1b0daf",
+      "predicted": "user_3ff3188b",
+      "correct": false,
+      "confidence": 0.9,
+      "retrieved_true": true,
+      "query_profile": "lives_in_portland, has_husband, has_elk_meat, libertarian, minimalist_wedding, keeps_reptiles, pro_nuclear, supports_lgbt_rights, knowledgeable_about_taxation, knowledgeable_about_economics. writing style: avg sentence length 14.5 words, avg word length 4.49 chars, type-token ratio 0.247, punctuation 9.4 per 100 words, first-person pronouns 1.8 per 100 words",
+      "true_candidate_profile": "lives_in_portland, married_native_american, libertarian, has_children, tax_enthusiast, military_veteran, homebrewing, supports_civil_liberties, interested_in_healthcare_policy, keeps_reptiles. writing style: avg sentence length 16.9 words, avg word length 4.72 chars, type-token ratio 0.285, punctuation 8.3 per 100 words, first-person pronouns 1.3 per 100 words",
+      "predicted_candidate_profile": "lives_in_portland, libertarian, pro_nuclear, has_cat, keeps_reptiles, homebrewing, supports_lgbt_rights, strong_anti_authoritarian_views, critical_of_mainstream_media, interested_in_energy_policy. writing style: avg sentence length 14.6 words, avg word length 4.67 chars, type-token ratio 0.268, punctuation 11.4 per 100 words, first-person pronouns 0.9 per 100 words"
+    },
+    {
+      "uid": "user_63110023",
+      "predicted": "user_53325367",
+      "correct": false,
+      "confidence": 0.8,
+      "retrieved_true": true,
+      "query_profile": "lives_in_portland, male, has_children, pro_nuclear, evangelical_christian, community_oriented, financial_independence_advocate, non_paid_church_leader, climate_change_activist, promotes_open_dialogue. writing style: avg sentence length 14.1 words, avg word length 4.54 chars, type-token ratio 0.136, punctuation 10.8 per 100 words, first-person pronouns 2.8 per 100 words",
+      "true_candidate_profile": "lives_in_portland, male, pro_nuclear, has_dog, high_school_teacher, keeps_reptiles, evangelical_christian, effective_altruism_supporter, concealed_handgun_license_holder, values_diversity_of_views, critical_of_bible_translations. writing style: avg sentence length 13.3 words, avg word length 4.52 chars, type-token ratio 0.113, punctuation 11.4 per 100 words, first-person pronouns 2.5 per 100 words",
+      "predicted_candidate_profile": "lives_in_portland, male, has_children, aerospace_engineer, spider_fan, pro_nuclear, speaks_german, homebrewer, libertarian. writing style: avg sentence length 12.9 words, avg word length 4.49 chars, type-token ratio 0.149, punctuation 13.2 per 100 words, first-person pronouns 1.8 per 100 words"
+    },
+    {
+      "uid": "user_6476648d",
+      "predicted": "user_7c7220a4",
+      "correct": false,
+      "confidence": 0.9,
+      "retrieved_true": false,
+      "query_profile": "lives_in_portland, male, support_main, league_of_legends_player, enjoys_roleplaying, has_cat, pro_nuclear, enjoys_homebrewing, interested_in_gaming_economics, enjoys_minecraft, enjoys_path_of_exile, enjoys_darkest_dungeon, enjoys_bioshock, enjoys_undertale, has_experience_with_github. writing style: avg sentence length 10.1 words, avg word length 4.24 chars, type-token ratio 0.198, punctuation 14.0 per 100 words, first-person pronouns 2.1 per 100 words",
+      "true_candidate_profile": "lives_in_portland, aerospace_engineer, has_cat, pro_nuclear, path_of_exile_player, libertarian, recovering_alcoholic, woodworking, speaks_romanian, military_veteran. writing style: avg sentence length 10.0 words, avg word length 4.22 chars, type-token ratio 0.282, punctuation 14.2 per 100 words, first-person pronouns 1.3 per 100 words",
+      "predicted_candidate_profile": "lives_in_portland, male, competitive_gamer, league_of_legends_player, former_adc_main, has_cat, pro_nuclear, esports_coach, deep_dota_knowledge, strong_opinion_on_gaming_balance, passionate_about_game_mechanics, critical_of_female_representation_in_esports, tech_enthusiast, pc_builder, has_experience_in_paladins. writing style: avg sentence length 15.3 words, avg word length 4.16 chars, type-token ratio 0.143, punctuation 9.6 per 100 words, first-person pronouns 2.2 per 100 words"
+    },
+    {
+      "uid": "user_649f4327",
+      "predicted": "user_95d648bc",
+      "correct": false,
+      "confidence": 0.8,
+      "retrieved_true": false,
+      "query_profile": "lives_in_portland, male, has_cat, pro_nuclear, libertarian, pediatric_nurse, fan_of_fallout, keeps_reptiles, recovering_alcoholic, strong_values_on_religion. writing style: avg sentence length 9.2 words, avg word length 4.40 chars, type-token ratio 0.237, punctuation 16.2 per 100 words, first-person pronouns 2.6 per 100 words",
+      "true_candidate_profile": "lives_in_nanaimo, canadian, pro_nuclear, has_cat, enjoys_dnd, libertarian, woodworking, recovering_alcoholic, formula1_fan, has_dog. writing style: avg sentence length 10.0 words, avg word length 4.43 chars, type-token ratio 0.257, punctuation 14.2 per 100 words, first-person pronouns 2.8 per 100 words",
+      "predicted_candidate_profile": "lives_in_portland, libertarian, has_cat, woodworking, pro_nuclear, recovering_alcoholic, formula1_fan. writing style: avg sentence length 13.4 words, avg word length 4.51 chars, type-token ratio 0.260, punctuation 12.4 per 100 words, first-person pronouns 2.4 per 100 words"
+    },
+    {
+      "uid": "user_657c72ca",
+      "predicted": "user_245fd42f",
+      "correct": false,
+      "confidence": 0.9,
+      "retrieved_true": false,
+      "query_profile": "lives_in_southern_california, male, teacher, pro_nuclear, anti_gun, progressive, has_cat, homebrewing, supports_liverpool_fc, enjoys_woodworking. writing style: avg sentence length 14.6 words, avg word length 4.60 chars, type-token ratio 0.198, punctuation 11.7 per 100 words, first-person pronouns 1.2 per 100 words",
+      "true_candidate_profile": "lives_in_southern_california, colts_fan, libertarian, has_cat, plays_fsx, drum_corps_enthusiast, anti-evangelical, pro-socialism, political_theorist, anti-capitalist, universalist. writing style: avg sentence length 16.1 words, avg word length 4.66 chars, type-token ratio 0.223, punctuation 10.8 per 100 words, first-person pronouns 1.5 per 100 words",
+      "predicted_candidate_profile": "lives_in_philadelphia, male, has_dog, homebrewer, pro_nuclear, woodworking, liberal, recovering_alcoholic, formula1_fan, engaged_in_local_politics. writing style: avg sentence length 13.7 words, avg word length 4.65 chars, type-token ratio 0.208, punctuation 11.9 per 100 words, first-person pronouns 2.1 per 100 words"
+    }
+  ]
+}

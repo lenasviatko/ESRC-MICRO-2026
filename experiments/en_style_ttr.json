@@ -1,0 +1,35 @@
+{
+  "pool": "POOL-EN",
+  "rows": [
+    {
+      "group": "low_TTR",
+      "n": 52,
+      "ttr_range": [
+        0.096,
+        0.178
+      ],
+      "recall@90": 0.0769,
+      "rank1_acc": 0.1731
+    },
+    {
+      "group": "mid_TTR",
+      "n": 53,
+      "ttr_range": [
+        0.179,
+        0.218
+      ],
+      "recall@90": 0.0,
+      "rank1_acc": 0.1132
+    },
+    {
+      "group": "high_TTR",
+      "n": 53,
+      "ttr_range": [
+        0.22,
+        0.362
+      ],
+      "recall@90": 0.0,
+      "rank1_acc": 0.1132
+    }
+  ]
+}

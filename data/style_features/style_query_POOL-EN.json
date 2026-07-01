@@ -1,0 +1,3502 @@
+{
+  "user_0168255c": {
+    "avg_sentence_length": 10.669097538742024,
+    "avg_word_length": 4.28785030758715,
+    "ttr": 0.20685235816814765,
+    "punctuation_frequency": 13.277511961722489,
+    "first_person_frequency": 2.6486671223513327
+  },
+  "user_02016939": {
+    "avg_sentence_length": 12.730120481927711,
+    "avg_word_length": 4.292636759416998,
+    "ttr": 0.24465265947378384,
+    "punctuation_frequency": 11.962899867499527,
+    "first_person_frequency": 3.8235850842324433
+  },
+  "user_0285dee3": {
+    "avg_sentence_length": 10.17617237008872,
+    "avg_word_length": 4.290571677668452,
+    "ttr": 0.29343629343629346,
+    "punctuation_frequency": 12.056295927263669,
+    "first_person_frequency": 2.2294183584506166
+  },
+  "user_02d03e8a": {
+    "avg_sentence_length": 11.699376947040498,
+    "avg_word_length": 4.139928105445347,
+    "ttr": 0.2022367194780988,
+    "punctuation_frequency": 14.791638929569965,
+    "first_person_frequency": 3.0621754759685795
+  },
+  "user_02d8a1f8": {
+    "avg_sentence_length": 11.134351145038169,
+    "avg_word_length": 4.223227752639517,
+    "ttr": 0.2812285753462224,
+    "punctuation_frequency": 11.408199643493761,
+    "first_person_frequency": 3.044014808720691
+  },
+  "user_02fecea2": {
+    "avg_sentence_length": 9.162162162162161,
+    "avg_word_length": 4.31905604719764,
+    "ttr": 0.2606489675516224,
+    "punctuation_frequency": 13.746312684365783,
+    "first_person_frequency": 2.8790560471976403
+  },
+  "user_03410579": {
+    "avg_sentence_length": 11.19633630812588,
+    "avg_word_length": 4.398036665687797,
+    "ttr": 0.19486512564500566,
+    "punctuation_frequency": 15.148718378990644,
+    "first_person_frequency": 2.168897092754961
+  },
+  "user_043ea160": {
+    "avg_sentence_length": 11.33206288708909,
+    "avg_word_length": 4.282393004288237,
+    "ttr": 0.14285714285714285,
+    "punctuation_frequency": 12.620869418985958,
+    "first_person_frequency": 4.3933406205330865
+  },
+  "user_04d29f9c": {
+    "avg_sentence_length": 14.763990267639903,
+    "avg_word_length": 4.487640079103493,
+    "ttr": 0.2574159525379038,
+    "punctuation_frequency": 10.588332234673697,
+    "first_person_frequency": 1.5491100856954514
+  },
+  "user_04d8419e": {
+    "avg_sentence_length": 13.366629464285714,
+    "avg_word_length": 4.111134304679998,
+    "ttr": 0.14549325762952448,
+    "punctuation_frequency": 11.760531039953241,
+    "first_person_frequency": 2.617626184611531
+  },
+  "user_0521a7ac": {
+    "avg_sentence_length": 13.46551724137931,
+    "avg_word_length": 4.075401906387822,
+    "ttr": 0.2516716460378432,
+    "punctuation_frequency": 9.916062028738084,
+    "first_person_frequency": 5.463081519419548
+  },
+  "user_058c1800": {
+    "avg_sentence_length": 10.942922374429223,
+    "avg_word_length": 4.198831629459629,
+    "ttr": 0.23596912163571876,
+    "punctuation_frequency": 15.049725293831282,
+    "first_person_frequency": 3.5677029000625913
+  },
+  "user_0697c470": {
+    "avg_sentence_length": 8.808510638297872,
+    "avg_word_length": 4.306142167011732,
+    "ttr": 0.22443064182194616,
+    "punctuation_frequency": 17.33609385783299,
+    "first_person_frequency": 2.995169082125604
+  },
+  "user_07cb458d": {
+    "avg_sentence_length": 13.120734908136482,
+    "avg_word_length": 4.597719543908782,
+    "ttr": 0.15029672601186905,
+    "punctuation_frequency": 12.735880509435221,
+    "first_person_frequency": 1.8370340734813628
+  },
+  "user_07db2c6a": {
+    "avg_sentence_length": 8.372812920592194,
+    "avg_word_length": 4.208005143867545,
+    "ttr": 0.2917537373412635,
+    "punctuation_frequency": 21.620318276804372,
+    "first_person_frequency": 3.279215560199325
+  },
+  "user_07faa0fc": {
+    "avg_sentence_length": 15.77207062600321,
+    "avg_word_length": 4.260736820679829,
+    "ttr": 0.25422348870343986,
+    "punctuation_frequency": 9.769997964583757,
+    "first_person_frequency": 2.2084266232444536
+  },
+  "user_08aa624b": {
+    "avg_sentence_length": 11.823688969258589,
+    "avg_word_length": 4.500038235069206,
+    "ttr": 0.2404985853024394,
+    "punctuation_frequency": 11.906400550584996,
+    "first_person_frequency": 1.460579643649155
+  },
+  "user_08c32973": {
+    "avg_sentence_length": 20.347156398104264,
+    "avg_word_length": 4.43580038432423,
+    "ttr": 0.2322832353112444,
+    "punctuation_frequency": 8.851103476387353,
+    "first_person_frequency": 2.3059453793745996
+  },
+  "user_08e9ce6e": {
+    "avg_sentence_length": 11.35579196217494,
+    "avg_word_length": 4.202352451337567,
+    "ttr": 0.2331633184136567,
+    "punctuation_frequency": 11.866347454980742,
+    "first_person_frequency": 2.68554179244301
+  },
+  "user_092e219d": {
+    "avg_sentence_length": 14.431472081218274,
+    "avg_word_length": 4.498651659045609,
+    "ttr": 0.2756477898933052,
+    "punctuation_frequency": 11.103294641810296,
+    "first_person_frequency": 2.1925196388791184
+  },
+  "user_0a0bcaa6": {
+    "avg_sentence_length": 11.363250883392226,
+    "avg_word_length": 4.330057839417874,
+    "ttr": 0.1881335903974128,
+    "punctuation_frequency": 11.654953666272778,
+    "first_person_frequency": 2.556129112506997
+  },
+  "user_0a245f61": {
+    "avg_sentence_length": 16.069900142653353,
+    "avg_word_length": 4.409054593874833,
+    "ttr": 0.21735463826009765,
+    "punctuation_frequency": 12.45450510430537,
+    "first_person_frequency": 2.6098535286284954
+  },
+  "user_0b5c256a": {
+    "avg_sentence_length": 15.692784667418264,
+    "avg_word_length": 4.309924925464276,
+    "ttr": 0.15481877941017996,
+    "punctuation_frequency": 11.034879126405404,
+    "first_person_frequency": 3.1969539135744816
+  },
+  "user_0b64b183": {
+    "avg_sentence_length": 10.849936948297604,
+    "avg_word_length": 4.2114132961413295,
+    "ttr": 0.26534170153417014,
+    "punctuation_frequency": 10.657833565783356,
+    "first_person_frequency": 2.9521152952115295
+  },
+  "user_0c578ab5": {
+    "avg_sentence_length": 24.698170731707318,
+    "avg_word_length": 4.268485372176275,
+    "ttr": 0.25540056783113196,
+    "punctuation_frequency": 9.270460436983088,
+    "first_person_frequency": 3.234168621157882
+  },
+  "user_0c8c48ac": {
+    "avg_sentence_length": 14.357859531772576,
+    "avg_word_length": 3.848590729093874,
+    "ttr": 0.2730025623107384,
+    "punctuation_frequency": 12.368972746331238,
+    "first_person_frequency": 1.7703237829023992
+  },
+  "user_0cc626ee": {
+    "avg_sentence_length": 12.49691738594328,
+    "avg_word_length": 4.43739516526887,
+    "ttr": 0.26018746916625557,
+    "punctuation_frequency": 11.327084361124815,
+    "first_person_frequency": 2.1706956092747904
+  },
+  "user_0cd29f02": {
+    "avg_sentence_length": 13.256704980842912,
+    "avg_word_length": 4.236445086705202,
+    "ttr": 0.15447976878612718,
+    "punctuation_frequency": 12.309248554913294,
+    "first_person_frequency": 2.8728323699421967
+  },
+  "user_0f0ad720": {
+    "avg_sentence_length": 8.912839737582006,
+    "avg_word_length": 4.324079915878023,
+    "ttr": 0.2807570977917981,
+    "punctuation_frequency": 14.994742376445846,
+    "first_person_frequency": 2.386961093585699
+  },
+  "user_107259c3": {
+    "avg_sentence_length": 14.329411764705883,
+    "avg_word_length": 4.246633825944171,
+    "ttr": 0.18735632183908046,
+    "punctuation_frequency": 9.589490968801313,
+    "first_person_frequency": 1.8062397372742198
+  },
+  "user_10e64e28": {
+    "avg_sentence_length": 15.450800915331808,
+    "avg_word_length": 4.203199052132701,
+    "ttr": 0.220156990521327,
+    "punctuation_frequency": 12.470379146919433,
+    "first_person_frequency": 4.391291469194313
+  },
+  "user_111cfe7d": {
+    "avg_sentence_length": 14.067370537958773,
+    "avg_word_length": 4.294960686204432,
+    "ttr": 0.1615796997855611,
+    "punctuation_frequency": 11.229449606862044,
+    "first_person_frequency": 1.876340243030736
+  },
+  "user_11e8421f": {
+    "avg_sentence_length": 17.98284734133791,
+    "avg_word_length": 4.405379626096909,
+    "ttr": 0.12883123489762177,
+    "punctuation_frequency": 10.632074271906397,
+    "first_person_frequency": 1.1795752257408114
+  },
+  "user_1230e05a": {
+    "avg_sentence_length": 11.793095349929544,
+    "avg_word_length": 4.478860898138007,
+    "ttr": 0.08911679776959076,
+    "punctuation_frequency": 16.684257691924724,
+    "first_person_frequency": 1.7106442298118092
+  },
+  "user_126670d7": {
+    "avg_sentence_length": 23.79042904290429,
+    "avg_word_length": 4.100575709232157,
+    "ttr": 0.1848512173128945,
+    "punctuation_frequency": 6.048415065547617,
+    "first_person_frequency": 3.9744745786224596
+  },
+  "user_1302cb61": {
+    "avg_sentence_length": 14.083263246425568,
+    "avg_word_length": 4.511376530307555,
+    "ttr": 0.16392953120334428,
+    "punctuation_frequency": 12.851597491788594,
+    "first_person_frequency": 2.6813974320692746
+  },
+  "user_13f8ee07": {
+    "avg_sentence_length": 12.35513078470825,
+    "avg_word_length": 4.108867356078496,
+    "ttr": 0.14314795212116277,
+    "punctuation_frequency": 11.798713459815977,
+    "first_person_frequency": 2.6952202589365686
+  },
+  "user_13fb2e34": {
+    "avg_sentence_length": 9.954242135367016,
+    "avg_word_length": 4.246887569431143,
+    "ttr": 0.2459298984868799,
+    "punctuation_frequency": 12.813637234246315,
+    "first_person_frequency": 3.1411606971844472
+  },
+  "user_147d1bbb": {
+    "avg_sentence_length": 14.265168539325842,
+    "avg_word_length": 4.376496534341525,
+    "ttr": 0.23700378071833647,
+    "punctuation_frequency": 10.33396345305608,
+    "first_person_frequency": 3.016698172652804
+  },
+  "user_14a2d3c6": {
+    "avg_sentence_length": 15.007731958762887,
+    "avg_word_length": 4.231324059763009,
+    "ttr": 0.30963420917053064,
+    "punctuation_frequency": 9.823115232697923,
+    "first_person_frequency": 3.1598832217070236
+  },
+  "user_159646d5": {
+    "avg_sentence_length": 13.387096774193548,
+    "avg_word_length": 4.314614981665794,
+    "ttr": 0.24986904138292299,
+    "punctuation_frequency": 8.150864326872709,
+    "first_person_frequency": 3.0277632268203245
+  },
+  "user_164057cc": {
+    "avg_sentence_length": 47.81720430107527,
+    "avg_word_length": 4.211490892736676,
+    "ttr": 0.27794018439397344,
+    "punctuation_frequency": 5.914099392849112,
+    "first_person_frequency": 4.3287609624465935
+  },
+  "user_164fe4b8": {
+    "avg_sentence_length": 14.122044241037376,
+    "avg_word_length": 4.506643621043534,
+    "ttr": 0.18666954736955818,
+    "punctuation_frequency": 10.775629253537863,
+    "first_person_frequency": 1.420546613373663
+  },
+  "user_165a2706": {
+    "avg_sentence_length": 8.430127041742287,
+    "avg_word_length": 4.285683530678148,
+    "ttr": 0.2510226049515608,
+    "punctuation_frequency": 16.027987082884824,
+    "first_person_frequency": 3.013993541442411
+  },
+  "user_16b87e34": {
+    "avg_sentence_length": 19.776931447225245,
+    "avg_word_length": 4.439449793672627,
+    "ttr": 0.21166437414030262,
+    "punctuation_frequency": 7.020632737276479,
+    "first_person_frequency": 1.5350756533700138
+  },
+  "user_17355c30": {
+    "avg_sentence_length": 10.407676348547717,
+    "avg_word_length": 4.170836240406658,
+    "ttr": 0.22635303498455098,
+    "punctuation_frequency": 14.013754609787702,
+    "first_person_frequency": 2.501744243994817
+  },
+  "user_17607ebc": {
+    "avg_sentence_length": 9.81578947368421,
+    "avg_word_length": 4.4419599566482235,
+    "ttr": 0.21955393303291312,
+    "punctuation_frequency": 17.48901945125777,
+    "first_person_frequency": 2.327305915235868
+  },
+  "user_183b3783": {
+    "avg_sentence_length": 12.713572023313905,
+    "avg_word_length": 4.22228043748772,
+    "ttr": 0.2116707053507106,
+    "punctuation_frequency": 9.1296090117231,
+    "first_person_frequency": 3.1370751195232174
+  },
+  "user_18522854": {
+    "avg_sentence_length": 12.80537634408602,
+    "avg_word_length": 4.225165840960618,
+    "ttr": 0.17377613569569234,
+    "punctuation_frequency": 13.212696280124275,
+    "first_person_frequency": 3.241246116382568
+  },
+  "user_18892460": {
+    "avg_sentence_length": 11.103163686382393,
+    "avg_word_length": 4.382309217046581,
+    "ttr": 0.30686323092170464,
+    "punctuation_frequency": 11.756689791873141,
+    "first_person_frequency": 2.55203171456888
+  },
+  "user_18c333c6": {
+    "avg_sentence_length": 10.111328125,
+    "avg_word_length": 4.256036314467838,
+    "ttr": 0.2588371643809156,
+    "punctuation_frequency": 15.955186401390767,
+    "first_person_frequency": 2.6559783658489473
+  },
+  "user_192a215d": {
+    "avg_sentence_length": 8.466666666666667,
+    "avg_word_length": 4.245496710171502,
+    "ttr": 0.2861611476647611,
+    "punctuation_frequency": 15.920612663143135,
+    "first_person_frequency": 2.35141840146694
+  },
+  "user_194b92fc": {
+    "avg_sentence_length": 11.963734567901234,
+    "avg_word_length": 4.17542728152209,
+    "ttr": 0.20503063527894227,
+    "punctuation_frequency": 12.976459206707514,
+    "first_person_frequency": 2.54756530151564
+  },
+  "user_19641691": {
+    "avg_sentence_length": 7.370197904540163,
+    "avg_word_length": 4.171378929079134,
+    "ttr": 0.2606223345443058,
+    "punctuation_frequency": 17.485389353972515,
+    "first_person_frequency": 3.964618543673985
+  },
+  "user_19952166": {
+    "avg_sentence_length": 11.180121089808274,
+    "avg_word_length": 4.234622501015389,
+    "ttr": 0.19509003113858928,
+    "punctuation_frequency": 15.29852430163816,
+    "first_person_frequency": 3.637348255787716
+  },
+  "user_1a2755b3": {
+    "avg_sentence_length": 12.626685101970272,
+    "avg_word_length": 4.367844726108023,
+    "ttr": 0.11623641490322757,
+    "punctuation_frequency": 10.720249664650003,
+    "first_person_frequency": 2.2064660954310273
+  },
+  "user_1a4bec69": {
+    "avg_sentence_length": 14.456800684345595,
+    "avg_word_length": 4.48301775147929,
+    "ttr": 0.19609467455621302,
+    "punctuation_frequency": 10.236686390532544,
+    "first_person_frequency": 1.698224852071006
+  },
+  "user_1a7d6cd5": {
+    "avg_sentence_length": 12.176390154968095,
+    "avg_word_length": 4.415459479693056,
+    "ttr": 0.1709526483249111,
+    "punctuation_frequency": 12.225341568407263,
+    "first_person_frequency": 2.081227774658432
+  },
+  "user_1b2d69c1": {
+    "avg_sentence_length": 17.165289256198346,
+    "avg_word_length": 4.408418735814018,
+    "ttr": 0.2397001169268863,
+    "punctuation_frequency": 9.31976064378568,
+    "first_person_frequency": 2.0015131714698398
+  },
+  "user_1b7f8c56": {
+    "avg_sentence_length": 14.235590778097983,
+    "avg_word_length": 4.348853686927476,
+    "ttr": 0.20188268637076776,
+    "punctuation_frequency": 10.987398147679539,
+    "first_person_frequency": 1.8573814464294753
+  },
+  "user_1b89f77a": {
+    "avg_sentence_length": 13.508327299058653,
+    "avg_word_length": 4.381774323237738,
+    "ttr": 0.1859555079067274,
+    "punctuation_frequency": 10.436880192977755,
+    "first_person_frequency": 1.8332886625569553
+  },
+  "user_1d775dd8": {
+    "avg_sentence_length": 8.834160873882821,
+    "avg_word_length": 4.041928956834532,
+    "ttr": 0.2462904676258993,
+    "punctuation_frequency": 13.500449640287771,
+    "first_person_frequency": 3.585881294964029
+  },
+  "user_1dc24686": {
+    "avg_sentence_length": 13.1151339608979,
+    "avg_word_length": 4.302451413427562,
+    "ttr": 0.2001987632508834,
+    "punctuation_frequency": 12.080388692579506,
+    "first_person_frequency": 1.8606448763250885
+  },
+  "user_1df51301": {
+    "avg_sentence_length": 13.189640768588138,
+    "avg_word_length": 4.620977957942741,
+    "ttr": 0.22504433747149735,
+    "punctuation_frequency": 11.914111983785153,
+    "first_person_frequency": 1.6658221434000506
+  },
+  "user_1e302679": {
+    "avg_sentence_length": 15.569337442218798,
+    "avg_word_length": 4.323271809589786,
+    "ttr": 0.18209708545697462,
+    "punctuation_frequency": 12.247018655054678,
+    "first_person_frequency": 2.6968182492948687
+  },
+  "user_1f1dc5e0": {
+    "avg_sentence_length": 9.896921017402946,
+    "avg_word_length": 3.9943189503584473,
+    "ttr": 0.24753144866765858,
+    "punctuation_frequency": 13.391045583660219,
+    "first_person_frequency": 6.046259975652644
+  },
+  "user_1f636ddc": {
+    "avg_sentence_length": 9.359673024523161,
+    "avg_word_length": 4.17117903930131,
+    "ttr": 0.2710334788937409,
+    "punctuation_frequency": 16.73944687045124,
+    "first_person_frequency": 3.726346433770015
+  },
+  "user_205d25f3": {
+    "avg_sentence_length": 13.319230769230769,
+    "avg_word_length": 4.262248532101261,
+    "ttr": 0.17749542785638656,
+    "punctuation_frequency": 8.451246510732506,
+    "first_person_frequency": 3.248628356915969
+  },
+  "user_20e741d0": {
+    "avg_sentence_length": 10.63130659767141,
+    "avg_word_length": 4.234120223898759,
+    "ttr": 0.23971769286931127,
+    "punctuation_frequency": 12.363105378437576,
+    "first_person_frequency": 1.8739352640545146
+  },
+  "user_2142b6e1": {
+    "avg_sentence_length": 14.742975587286965,
+    "avg_word_length": 4.212578498453463,
+    "ttr": 0.12469147374011935,
+    "punctuation_frequency": 10.029056143968507,
+    "first_person_frequency": 1.9120817321210986
+  },
+  "user_21b4fa31": {
+    "avg_sentence_length": 11.100578871201158,
+    "avg_word_length": 4.392738413401995,
+    "ttr": 0.20278990939312952,
+    "punctuation_frequency": 11.544227886056973,
+    "first_person_frequency": 2.170653803533016
+  },
+  "user_226be32f": {
+    "avg_sentence_length": 17.252847380410024,
+    "avg_word_length": 4.481647742276208,
+    "ttr": 0.32717190388170053,
+    "punctuation_frequency": 12.66173752310536,
+    "first_person_frequency": 1.2278848692896753
+  },
+  "user_2373103d": {
+    "avg_sentence_length": 9.120805369127517,
+    "avg_word_length": 4.39354917831739,
+    "ttr": 0.30500367917586463,
+    "punctuation_frequency": 13.723325974981604,
+    "first_person_frequency": 2.661270542065244
+  },
+  "user_23e46560": {
+    "avg_sentence_length": 10.682613768961494,
+    "avg_word_length": 4.464991807755325,
+    "ttr": 0.24063353358820316,
+    "punctuation_frequency": 12.965592572364828,
+    "first_person_frequency": 1.0922992900054616
+  },
+  "user_245fd42f": {
+    "avg_sentence_length": 12.348267898383371,
+    "avg_word_length": 4.63140570060597,
+    "ttr": 0.18639186055210594,
+    "punctuation_frequency": 13.40614947258173,
+    "first_person_frequency": 1.6121792474003143
+  },
+  "user_25652863": {
+    "avg_sentence_length": 15.516129032258064,
+    "avg_word_length": 4.32070532070532,
+    "ttr": 0.1673211673211673,
+    "punctuation_frequency": 9.59035959035959,
+    "first_person_frequency": 2.6026026026026026
+  },
+  "user_25798310": {
+    "avg_sentence_length": 12.087552742616033,
+    "avg_word_length": 4.3673095383541325,
+    "ttr": 0.24478575791953922,
+    "punctuation_frequency": 14.128632515926345,
+    "first_person_frequency": 2.3300462518544376
+  },
+  "user_25b48a9a": {
+    "avg_sentence_length": 20.320049813200498,
+    "avg_word_length": 4.440706012134584,
+    "ttr": 0.23257951829380402,
+    "punctuation_frequency": 8.537108537108537,
+    "first_person_frequency": 1.5260158117300975
+  },
+  "user_26565155": {
+    "avg_sentence_length": 9.858455882352942,
+    "avg_word_length": 4.277643110199516,
+    "ttr": 0.24790229349244824,
+    "punctuation_frequency": 14.777176953197838,
+    "first_person_frequency": 2.5172478090620922
+  },
+  "user_26fa9d90": {
+    "avg_sentence_length": 10.784796573875804,
+    "avg_word_length": 4.489129355703366,
+    "ttr": 0.2631787947979748,
+    "punctuation_frequency": 12.06194778119726,
+    "first_person_frequency": 1.9954333366425097
+  },
+  "user_27a3fa64": {
+    "avg_sentence_length": 13.77514563106796,
+    "avg_word_length": 4.221279354966029,
+    "ttr": 0.11857573792675707,
+    "punctuation_frequency": 12.813284091229454,
+    "first_person_frequency": 2.9629838459586706
+  },
+  "user_2920b35e": {
+    "avg_sentence_length": 11.05843439911797,
+    "avg_word_length": 4.541425722831505,
+    "ttr": 0.21784646061814555,
+    "punctuation_frequency": 13.798604187437688,
+    "first_person_frequency": 1.6201395812562314
+  },
+  "user_29cd4556": {
+    "avg_sentence_length": 14.520074119827054,
+    "avg_word_length": 4.291560319891101,
+    "ttr": 0.1613067891781521,
+    "punctuation_frequency": 10.96647949634167,
+    "first_person_frequency": 1.3016845329249618
+  },
+  "user_2a704b9c": {
+    "avg_sentence_length": 10.021052631578947,
+    "avg_word_length": 4.2698704481792715,
+    "ttr": 0.24308473389355742,
+    "punctuation_frequency": 14.02310924369748,
+    "first_person_frequency": 2.4422268907563027
+  },
+  "user_2a94c885": {
+    "avg_sentence_length": 11.978615071283096,
+    "avg_word_length": 4.12998384765791,
+    "ttr": 0.20828020062909122,
+    "punctuation_frequency": 15.200204029584292,
+    "first_person_frequency": 4.412139760265239
+  },
+  "user_2b271761": {
+    "avg_sentence_length": 10.260778859527122,
+    "avg_word_length": 4.3510674347678755,
+    "ttr": 0.17743137919349372,
+    "punctuation_frequency": 13.70382921043714,
+    "first_person_frequency": 2.297526262283972
+  },
+  "user_2b750e1c": {
+    "avg_sentence_length": 12.270882491741387,
+    "avg_word_length": 4.358433966617953,
+    "ttr": 0.18440889162372126,
+    "punctuation_frequency": 13.32205214983463,
+    "first_person_frequency": 0.730713022075225
+  },
+  "user_2b79ef0b": {
+    "avg_sentence_length": 13.366167023554604,
+    "avg_word_length": 4.318808074335149,
+    "ttr": 0.2973405959628324,
+    "punctuation_frequency": 11.262415892342197,
+    "first_person_frequency": 2.7074655559115666
+  },
+  "user_2c3eb234": {
+    "avg_sentence_length": 11.002772643253234,
+    "avg_word_length": 4.26232675346493,
+    "ttr": 0.22217555648887022,
+    "punctuation_frequency": 12.759344813103738,
+    "first_person_frequency": 1.5875682486350275
+  },
+  "user_2c69b83e": {
+    "avg_sentence_length": 11.012277470841006,
+    "avg_word_length": 4.3545348124198675,
+    "ttr": 0.2111600423657952,
+    "punctuation_frequency": 11.221361279892971,
+    "first_person_frequency": 2.0513963989074084
+  },
+  "user_2c940ff8": {
+    "avg_sentence_length": 15.97088122605364,
+    "avg_word_length": 4.492946934075425,
+    "ttr": 0.20300355052298244,
+    "punctuation_frequency": 11.48162364456386,
+    "first_person_frequency": 1.4394012090970156
+  },
+  "user_2d74cd4c": {
+    "avg_sentence_length": 11.504820333041192,
+    "avg_word_length": 4.476879713567456,
+    "ttr": 0.2189380665803306,
+    "punctuation_frequency": 14.672049973337394,
+    "first_person_frequency": 1.196008227317742
+  },
+  "user_2dc10d2d": {
+    "avg_sentence_length": 15.493188010899182,
+    "avg_word_length": 4.226169539219135,
+    "ttr": 0.20682377769961308,
+    "punctuation_frequency": 9.285965529370383,
+    "first_person_frequency": 2.725993668659866
+  },
+  "user_2dd189e3": {
+    "avg_sentence_length": 9.965153115100318,
+    "avg_word_length": 4.177492847303168,
+    "ttr": 0.26385503867754584,
+    "punctuation_frequency": 15.11073434354138,
+    "first_person_frequency": 3.2425558970011656
+  },
+  "user_2eaaa117": {
+    "avg_sentence_length": 7.7289972899729,
+    "avg_word_length": 4.262622720897616,
+    "ttr": 0.3288920056100982,
+    "punctuation_frequency": 16.427068723702664,
+    "first_person_frequency": 2.0862552594670407
+  },
+  "user_2eb5d860": {
+    "avg_sentence_length": 16.469202898550726,
+    "avg_word_length": 4.388791112088879,
+    "ttr": 0.2025629743702563,
+    "punctuation_frequency": 9.89990100098999,
+    "first_person_frequency": 2.656473435265647
+  },
+  "user_2efde048": {
+    "avg_sentence_length": 14.360917941585535,
+    "avg_word_length": 4.234758607331364,
+    "ttr": 0.19330783012929156,
+    "punctuation_frequency": 9.820347682920923,
+    "first_person_frequency": 2.944167352670573
+  },
+  "user_2f1085dd": {
+    "avg_sentence_length": 19.345921450151057,
+    "avg_word_length": 4.249668150230343,
+    "ttr": 0.18111189193409855,
+    "punctuation_frequency": 11.946591707659874,
+    "first_person_frequency": 1.7178105723432497
+  },
+  "user_2f766c23": {
+    "avg_sentence_length": 14.352754237288135,
+    "avg_word_length": 4.24090338770389,
+    "ttr": 0.1924865303712451,
+    "punctuation_frequency": 8.207247767362905,
+    "first_person_frequency": 2.826776883902871
+  },
+  "user_3049510b": {
+    "avg_sentence_length": 10.451219512195122,
+    "avg_word_length": 3.9387397899649943,
+    "ttr": 0.30960715674834693,
+    "punctuation_frequency": 11.124076234928044,
+    "first_person_frequency": 4.939712174251264
+  },
+  "user_30802254": {
+    "avg_sentence_length": 15.44112627986348,
+    "avg_word_length": 4.300049731999779,
+    "ttr": 0.2059457368624634,
+    "punctuation_frequency": 13.659722605956789,
+    "first_person_frequency": 3.254683096645853
+  },
+  "user_3121653d": {
+    "avg_sentence_length": 11.195141700404859,
+    "avg_word_length": 4.2549544336756835,
+    "ttr": 0.24265875886011862,
+    "punctuation_frequency": 13.655431795168523,
+    "first_person_frequency": 2.097497468537538
+  },
+  "user_32934d38": {
+    "avg_sentence_length": 10.690677966101696,
+    "avg_word_length": 4.271105826397147,
+    "ttr": 0.2976615140705509,
+    "punctuation_frequency": 13.13251420266878,
+    "first_person_frequency": 2.9858633901440084
+  },
+  "user_32ae32f9": {
+    "avg_sentence_length": 14.241997439180539,
+    "avg_word_length": 4.227546525218017,
+    "ttr": 0.2196349905601007,
+    "punctuation_frequency": 9.179178279241212,
+    "first_person_frequency": 4.351344061853816
+  },
+  "user_32f31383": {
+    "avg_sentence_length": 11.530826410144293,
+    "avg_word_length": 4.240756892040499,
+    "ttr": 0.16787380076599295,
+    "punctuation_frequency": 13.230442531568768,
+    "first_person_frequency": 2.9274581927116907
+  },
+  "user_3353b96b": {
+    "avg_sentence_length": 18.65159574468085,
+    "avg_word_length": 4.178026522173107,
+    "ttr": 0.1956366747468986,
+    "punctuation_frequency": 9.11877940966776,
+    "first_person_frequency": 2.973050049907315
+  },
+  "user_338e1332": {
+    "avg_sentence_length": 13.988900100908173,
+    "avg_word_length": 4.334631753588689,
+    "ttr": 0.22087571232777897,
+    "punctuation_frequency": 11.541513380942076,
+    "first_person_frequency": 2.3515833513669477
+  },
+  "user_34b1fb84": {
+    "avg_sentence_length": 13.248757866843325,
+    "avg_word_length": 4.340817040852043,
+    "ttr": 0.12293114655732787,
+    "punctuation_frequency": 13.633181659082954,
+    "first_person_frequency": 4.355217760888045
+  },
+  "user_364bb955": {
+    "avg_sentence_length": 9.186538461538461,
+    "avg_word_length": 4.340590328658154,
+    "ttr": 0.3259367804061126,
+    "punctuation_frequency": 15.86769939292443,
+    "first_person_frequency": 3.830856185890726
+  },
+  "user_36dd1253": {
+    "avg_sentence_length": 12.459944751381215,
+    "avg_word_length": 4.195100321472121,
+    "ttr": 0.26028156523667,
+    "punctuation_frequency": 12.50415696707682,
+    "first_person_frequency": 3.846580201751469
+  },
+  "user_372c2b3e": {
+    "avg_sentence_length": 11.683834048640916,
+    "avg_word_length": 4.377005020203257,
+    "ttr": 0.3034161870944043,
+    "punctuation_frequency": 12.85661809722052,
+    "first_person_frequency": 1.97134810824048
+  },
+  "user_378003e3": {
+    "avg_sentence_length": 12.115012106537531,
+    "avg_word_length": 4.379800806102395,
+    "ttr": 0.1678824822624163,
+    "punctuation_frequency": 12.777722261083907,
+    "first_person_frequency": 2.3250391392691783
+  },
+  "user_37be663c": {
+    "avg_sentence_length": 14.212677231025856,
+    "avg_word_length": 4.3306730825655775,
+    "ttr": 0.1495217416818262,
+    "punctuation_frequency": 12.235197464937505,
+    "first_person_frequency": 1.7898010680124408
+  },
+  "user_38390331": {
+    "avg_sentence_length": 14.170713201820941,
+    "avg_word_length": 4.354607270974996,
+    "ttr": 0.20929485463404188,
+    "punctuation_frequency": 12.234298870268244,
+    "first_person_frequency": 3.249986614552659
+  },
+  "user_3850eb9e": {
+    "avg_sentence_length": 10.899363057324841,
+    "avg_word_length": 4.308321645628799,
+    "ttr": 0.19535998129967275,
+    "punctuation_frequency": 11.30201028517999,
+    "first_person_frequency": 3.3543712014960256
+  },
+  "user_38ab51d4": {
+    "avg_sentence_length": 14.180147058823529,
+    "avg_word_length": 4.484054964998704,
+    "ttr": 0.331604874254602,
+    "punctuation_frequency": 8.52994555353902,
+    "first_person_frequency": 1.322271195229453
+  },
+  "user_3971c3e6": {
+    "avg_sentence_length": 9.55518018018018,
+    "avg_word_length": 4.264348850913376,
+    "ttr": 0.2545668827342369,
+    "punctuation_frequency": 14.437242192103714,
+    "first_person_frequency": 3.948143783146729
+  },
+  "user_39939c54": {
+    "avg_sentence_length": 13.560538116591928,
+    "avg_word_length": 4.181464947089947,
+    "ttr": 0.15811011904761904,
+    "punctuation_frequency": 9.937169312169312,
+    "first_person_frequency": 4.33614417989418
+  },
+  "user_39aad1a2": {
+    "avg_sentence_length": 13.935153583617748,
+    "avg_word_length": 4.316556453588048,
+    "ttr": 0.25312270389419544,
+    "punctuation_frequency": 9.502816556453588,
+    "first_person_frequency": 3.930933137398971
+  },
+  "user_39f8897b": {
+    "avg_sentence_length": 12.890415335463258,
+    "avg_word_length": 4.435249213076561,
+    "ttr": 0.11884402805660892,
+    "punctuation_frequency": 14.36538032567477,
+    "first_person_frequency": 1.643244850918284
+  },
+  "user_3a55606c": {
+    "avg_sentence_length": 16.622489959839356,
+    "avg_word_length": 4.101473785938633,
+    "ttr": 0.21551099299347667,
+    "punctuation_frequency": 12.46677941531771,
+    "first_person_frequency": 3.587823145687364
+  },
+  "user_3b1da5d9": {
+    "avg_sentence_length": 13.832310838445808,
+    "avg_word_length": 4.25051744529864,
+    "ttr": 0.21133944411590774,
+    "punctuation_frequency": 11.90863394441159,
+    "first_person_frequency": 2.047604967474867
+  },
+  "user_3b90fb53": {
+    "avg_sentence_length": 9.48086866597725,
+    "avg_word_length": 4.228512216404886,
+    "ttr": 0.2579624781849913,
+    "punctuation_frequency": 15.81588132635253,
+    "first_person_frequency": 2.9013961605584644
+  },
+  "user_3bb7992e": {
+    "avg_sentence_length": 9.322157434402332,
+    "avg_word_length": 4.2270523846755275,
+    "ttr": 0.2770914777169664,
+    "punctuation_frequency": 14.980453479280689,
+    "first_person_frequency": 2.064112587959343
+  },
+  "user_3ce4c1f8": {
+    "avg_sentence_length": 14.473908413205537,
+    "avg_word_length": 4.571481127216541,
+    "ttr": 0.24273416231329556,
+    "punctuation_frequency": 14.553748804355823,
+    "first_person_frequency": 1.9056728717533662
+  },
+  "user_3e284ba5": {
+    "avg_sentence_length": 16.09729187562688,
+    "avg_word_length": 4.532836936880803,
+    "ttr": 0.1579226120007477,
+    "punctuation_frequency": 12.346563648825471,
+    "first_person_frequency": 1.9004299333291792
+  },
+  "user_3eb49f37": {
+    "avg_sentence_length": 9.632406287787182,
+    "avg_word_length": 4.231734873211147,
+    "ttr": 0.25194576952046194,
+    "punctuation_frequency": 13.620386643233742,
+    "first_person_frequency": 3.201104694953553
+  },
+  "user_3f1d04a6": {
+    "avg_sentence_length": 10.04601226993865,
+    "avg_word_length": 4.178015267175573,
+    "ttr": 0.36213740458015264,
+    "punctuation_frequency": 12.305343511450381,
+    "first_person_frequency": 3.8778625954198476
+  },
+  "user_3f2894b5": {
+    "avg_sentence_length": 12.3812375249501,
+    "avg_word_length": 4.328711913590198,
+    "ttr": 0.23786877317427052,
+    "punctuation_frequency": 13.775592455263583,
+    "first_person_frequency": 1.8136385619861357
+  },
+  "user_3f798a8b": {
+    "avg_sentence_length": 18.29032258064516,
+    "avg_word_length": 4.528935185185185,
+    "ttr": 0.21318342151675485,
+    "punctuation_frequency": 8.972663139329807,
+    "first_person_frequency": 2.1108906525573192
+  },
+  "user_3ff3188b": {
+    "avg_sentence_length": 14.829909613804437,
+    "avg_word_length": 4.612256205673759,
+    "ttr": 0.2327127659574468,
+    "punctuation_frequency": 11.768617021276597,
+    "first_person_frequency": 1.4184397163120568
+  },
+  "user_3ff88cf0": {
+    "avg_sentence_length": 11.874883286647993,
+    "avg_word_length": 4.47719767259003,
+    "ttr": 0.23211196729045447,
+    "punctuation_frequency": 11.306809246736908,
+    "first_person_frequency": 1.7219688630287782
+  },
+  "user_40a0bad3": {
+    "avg_sentence_length": 13.740094022834118,
+    "avg_word_length": 4.462046043306125,
+    "ttr": 0.20841683366733466,
+    "punctuation_frequency": 11.647685615132703,
+    "first_person_frequency": 2.6638643139938414
+  },
+  "user_40efa894": {
+    "avg_sentence_length": 17.769592476489027,
+    "avg_word_length": 4.375055129222899,
+    "ttr": 0.2538590456028932,
+    "punctuation_frequency": 9.623357149157625,
+    "first_person_frequency": 2.2316309429302286
+  },
+  "user_41b20ee4": {
+    "avg_sentence_length": 13.412760416666666,
+    "avg_word_length": 4.514286638837653,
+    "ttr": 0.1393068634113193,
+    "punctuation_frequency": 9.199754069184221,
+    "first_person_frequency": 1.1034527392162574
+  },
+  "user_433bdef0": {
+    "avg_sentence_length": 14.665501165501166,
+    "avg_word_length": 4.1595009139314945,
+    "ttr": 0.20289279186203607,
+    "punctuation_frequency": 12.008265119605817,
+    "first_person_frequency": 3.1153143129619325
+  },
+  "user_434f3511": {
+    "avg_sentence_length": 8.028154327424401,
+    "avg_word_length": 4.194830497467204,
+    "ttr": 0.2547084036887908,
+    "punctuation_frequency": 18.508897259384334,
+    "first_person_frequency": 4.247304844785036
+  },
+  "user_44567221": {
+    "avg_sentence_length": 9.873983739837398,
+    "avg_word_length": 4.177686290654591,
+    "ttr": 0.1487855084396871,
+    "punctuation_frequency": 15.125566076574723,
+    "first_person_frequency": 4.8085631947303416
+  },
+  "user_454733da": {
+    "avg_sentence_length": 12.563393708293614,
+    "avg_word_length": 4.314287882236892,
+    "ttr": 0.21352151149556112,
+    "punctuation_frequency": 11.723195993626224,
+    "first_person_frequency": 3.0047803323469156
+  },
+  "user_45926b89": {
+    "avg_sentence_length": 10.775613886536833,
+    "avg_word_length": 4.401304416155901,
+    "ttr": 0.2660694640892661,
+    "punctuation_frequency": 17.05956309916706,
+    "first_person_frequency": 2.6481219550526482
+  },
+  "user_45d008d3": {
+    "avg_sentence_length": 51.135313531353134,
+    "avg_word_length": 4.182651348909255,
+    "ttr": 0.178843423260617,
+    "punctuation_frequency": 9.17129211307603,
+    "first_person_frequency": 1.9749580482767524
+  },
+  "user_4607d25d": {
+    "avg_sentence_length": 14.163304514889528,
+    "avg_word_length": 4.199945740640261,
+    "ttr": 0.19784319045035267,
+    "punctuation_frequency": 12.533912099837222,
+    "first_person_frequency": 4.211882799782963
+  },
+  "user_46e2e7ec": {
+    "avg_sentence_length": 10.913769123783032,
+    "avg_word_length": 4.564546960621894,
+    "ttr": 0.2752007136485281,
+    "punctuation_frequency": 12.316808971581496,
+    "first_person_frequency": 1.0067541735695171
+  },
+  "user_476670f9": {
+    "avg_sentence_length": 12.51734539969834,
+    "avg_word_length": 4.557496887175161,
+    "ttr": 0.20440213680363095,
+    "punctuation_frequency": 14.06996826926939,
+    "first_person_frequency": 2.353697232598305
+  },
+  "user_4aaa8404": {
+    "avg_sentence_length": 14.18619934282585,
+    "avg_word_length": 4.0978999382334775,
+    "ttr": 0.1929431747992588,
+    "punctuation_frequency": 10.762816553428042,
+    "first_person_frequency": 3.860407659048796
+  },
+  "user_4ab9d510": {
+    "avg_sentence_length": 15.418083462132921,
+    "avg_word_length": 4.2735702471054084,
+    "ttr": 0.1692145757104907,
+    "punctuation_frequency": 8.545937546990126,
+    "first_person_frequency": 2.6113979249160444
+  },
+  "user_4b139395": {
+    "avg_sentence_length": 14.710477941176471,
+    "avg_word_length": 4.277975632614808,
+    "ttr": 0.2035613870665417,
+    "punctuation_frequency": 11.327710090596689,
+    "first_person_frequency": 2.2305529522024368
+  },
+  "user_4b8335bd": {
+    "avg_sentence_length": 16.674027339642482,
+    "avg_word_length": 4.472346597717096,
+    "ttr": 0.22721826322759664,
+    "punctuation_frequency": 12.833448949990538,
+    "first_person_frequency": 2.636059784322381
+  },
+  "user_4bd9303b": {
+    "avg_sentence_length": 97.43894389438944,
+    "avg_word_length": 4.158650589351036,
+    "ttr": 0.12298469042135211,
+    "punctuation_frequency": 5.087386532990109,
+    "first_person_frequency": 3.475138870071806
+  },
+  "user_4cad4295": {
+    "avg_sentence_length": 8.707692307692307,
+    "avg_word_length": 4.2763022911204835,
+    "ttr": 0.2086515445115696,
+    "punctuation_frequency": 17.02952239826741,
+    "first_person_frequency": 3.9268209278468023
+  },
+  "user_4d4f73a6": {
+    "avg_sentence_length": 12.48817802503477,
+    "avg_word_length": 4.3973716449493265,
+    "ttr": 0.2772023610647065,
+    "punctuation_frequency": 13.197460741730705,
+    "first_person_frequency": 4.432564873593941
+  },
+  "user_4e42bf97": {
+    "avg_sentence_length": 12.353006067291782,
+    "avg_word_length": 4.24745490266119,
+    "ttr": 0.166368994463297,
+    "punctuation_frequency": 11.801214502589747,
+    "first_person_frequency": 3.576531523486337
+  },
+  "user_4e54f3d7": {
+    "avg_sentence_length": 12.951040391676866,
+    "avg_word_length": 4.422455344485399,
+    "ttr": 0.2676495605330309,
+    "punctuation_frequency": 13.02334372932615,
+    "first_person_frequency": 3.307815896418108
+  },
+  "user_4f3b6241": {
+    "avg_sentence_length": 15.858954041204438,
+    "avg_word_length": 4.306335565104427,
+    "ttr": 0.11701808733886279,
+    "punctuation_frequency": 10.834915559108623,
+    "first_person_frequency": 2.1734785650044968
+  },
+  "user_4f8b6987": {
+    "avg_sentence_length": 15.65615763546798,
+    "avg_word_length": 4.263482474356554,
+    "ttr": 0.21225851110691588,
+    "punctuation_frequency": 9.370083695173369,
+    "first_person_frequency": 2.196211692152791
+  },
+  "user_500badda": {
+    "avg_sentence_length": 14.160949868073878,
+    "avg_word_length": 4.22489286379728,
+    "ttr": 0.29047885224520215,
+    "punctuation_frequency": 10.43413452580585,
+    "first_person_frequency": 3.763741382522825
+  },
+  "user_5062c872": {
+    "avg_sentence_length": 14.366839378238343,
+    "avg_word_length": 4.336230525100981,
+    "ttr": 0.17044143104443163,
+    "punctuation_frequency": 12.420657818811309,
+    "first_person_frequency": 2.239613387189844
+  },
+  "user_515ae840": {
+    "avg_sentence_length": 13.480209823557463,
+    "avg_word_length": 4.56282722513089,
+    "ttr": 0.18688976935050233,
+    "punctuation_frequency": 11.956983161171642,
+    "first_person_frequency": 0.8065657280316966
+  },
+  "user_524450e9": {
+    "avg_sentence_length": 13.444191343963553,
+    "avg_word_length": 4.144131932678188,
+    "ttr": 0.17231446967129788,
+    "punctuation_frequency": 10.18298881735005,
+    "first_person_frequency": 4.2019654354456115
+  },
+  "user_529e3009": {
+    "avg_sentence_length": 12.162109375,
+    "avg_word_length": 3.9083025533964992,
+    "ttr": 0.230929821744018,
+    "punctuation_frequency": 12.78304159306247,
+    "first_person_frequency": 6.134575236871688
+  },
+  "user_52d3881c": {
+    "avg_sentence_length": 17.489293361884368,
+    "avg_word_length": 4.537312519130701,
+    "ttr": 0.149709213345577,
+    "punctuation_frequency": 11.108050198959289,
+    "first_person_frequency": 3.593510866238139
+  },
+  "user_53325367": {
+    "avg_sentence_length": 12.923542116630669,
+    "avg_word_length": 4.3944782405241,
+    "ttr": 0.14419413062370479,
+    "punctuation_frequency": 13.36987766561936,
+    "first_person_frequency": 1.798248546025804
+  },
+  "user_54c1ebee": {
+    "avg_sentence_length": 11.68790264853257,
+    "avg_word_length": 4.14171974522293,
+    "ttr": 0.1711170994610485,
+    "punctuation_frequency": 15.654091131798136,
+    "first_person_frequency": 4.507594316511514
+  },
+  "user_56909460": {
+    "avg_sentence_length": 18.62323943661972,
+    "avg_word_length": 4.054452637549631,
+    "ttr": 0.33616940820570995,
+    "punctuation_frequency": 8.224617129892229,
+    "first_person_frequency": 4.102854982038193
+  },
+  "user_56980aa9": {
+    "avg_sentence_length": 10.778899082568808,
+    "avg_word_length": 4.123584985956252,
+    "ttr": 0.21363520299599967,
+    "punctuation_frequency": 13.167078049195677,
+    "first_person_frequency": 4.459954038641587
+  },
+  "user_5738db35": {
+    "avg_sentence_length": 9.414715719063546,
+    "avg_word_length": 4.282060390763766,
+    "ttr": 0.2998223801065719,
+    "punctuation_frequency": 16.080521018354055,
+    "first_person_frequency": 3.208999407933689
+  },
+  "user_582ff5b2": {
+    "avg_sentence_length": 15.255405405405405,
+    "avg_word_length": 4.541795848466059,
+    "ttr": 0.1507662326158207,
+    "punctuation_frequency": 11.68689284554286,
+    "first_person_frequency": 1.4054979773821124
+  },
+  "user_586752e4": {
+    "avg_sentence_length": 13.542979177789642,
+    "avg_word_length": 4.230663092328314,
+    "ttr": 0.15473468422297565,
+    "punctuation_frequency": 11.65733659228889,
+    "first_person_frequency": 2.223448710872822
+  },
+  "user_58892c7c": {
+    "avg_sentence_length": 11.96677471636953,
+    "avg_word_length": 4.378817633913456,
+    "ttr": 0.2414843908715379,
+    "punctuation_frequency": 12.9681045574592,
+    "first_person_frequency": 1.584614342791359
+  },
+  "user_58bfeaad": {
+    "avg_sentence_length": 15.630379746835443,
+    "avg_word_length": 4.478336572724328,
+    "ttr": 0.1733074182053774,
+    "punctuation_frequency": 10.236475542597992,
+    "first_person_frequency": 1.8788467768059605
+  },
+  "user_59d9db83": {
+    "avg_sentence_length": 12.126168224299066,
+    "avg_word_length": 4.184585741811175,
+    "ttr": 0.2770712909441233,
+    "punctuation_frequency": 10.84136159280668,
+    "first_person_frequency": 2.7488760436737314
+  },
+  "user_5a5bee64": {
+    "avg_sentence_length": 14.497080041222947,
+    "avg_word_length": 4.53287836781119,
+    "ttr": 0.1344517902419374,
+    "punctuation_frequency": 11.867017369256653,
+    "first_person_frequency": 0.8862349233430487
+  },
+  "user_5a6c91dd": {
+    "avg_sentence_length": 10.449477351916377,
+    "avg_word_length": 4.349283094364789,
+    "ttr": 0.3549516505501834,
+    "punctuation_frequency": 14.121373791263755,
+    "first_person_frequency": 2.367455818606202
+  },
+  "user_5a6f92a6": {
+    "avg_sentence_length": 16.190626408292022,
+    "avg_word_length": 4.488824560915189,
+    "ttr": 0.15183566676872548,
+    "punctuation_frequency": 13.031981518078325,
+    "first_person_frequency": 1.3777938597712027
+  },
+  "user_5ac1a174": {
+    "avg_sentence_length": 30.934924078091107,
+    "avg_word_length": 4.224318070261552,
+    "ttr": 0.1666082322417783,
+    "punctuation_frequency": 6.107566089334549,
+    "first_person_frequency": 2.3420517495266813
+  },
+  "user_5c09bb3d": {
+    "avg_sentence_length": 15.24040404040404,
+    "avg_word_length": 4.415164369034994,
+    "ttr": 0.29042948038176036,
+    "punctuation_frequency": 17.325026511134674,
+    "first_person_frequency": 1.5509013785790033
+  },
+  "user_5c5a0b40": {
+    "avg_sentence_length": 14.543668122270743,
+    "avg_word_length": 4.436946404443777,
+    "ttr": 0.27976279837862184,
+    "punctuation_frequency": 11.199519591652905,
+    "first_person_frequency": 2.5221438222489114
+  },
+  "user_5c82df31": {
+    "avg_sentence_length": 12.02318145483613,
+    "avg_word_length": 4.151984575493651,
+    "ttr": 0.20523901336347317,
+    "punctuation_frequency": 12.472574961771159,
+    "first_person_frequency": 5.092746492919354
+  },
+  "user_5d1b0daf": {
+    "avg_sentence_length": 14.505167958656331,
+    "avg_word_length": 4.490870223568184,
+    "ttr": 0.24735013806003384,
+    "punctuation_frequency": 9.40589649951011,
+    "first_person_frequency": 1.8081410884474927
+  },
+  "user_5f4ee256": {
+    "avg_sentence_length": 12.490456911509543,
+    "avg_word_length": 4.398221892943138,
+    "ttr": 0.17322652343026487,
+    "punctuation_frequency": 11.423411742915354,
+    "first_person_frequency": 1.4863863678458975
+  },
+  "user_6169d3b8": {
+    "avg_sentence_length": 15.281743050338092,
+    "avg_word_length": 4.26976401179941,
+    "ttr": 0.15973451327433627,
+    "punctuation_frequency": 11.617502458210422,
+    "first_person_frequency": 2.0747295968534907
+  },
+  "user_61f90240": {
+    "avg_sentence_length": 11.126258714175059,
+    "avg_word_length": 4.376287942077416,
+    "ttr": 0.19597605123920914,
+    "punctuation_frequency": 12.336396546922861,
+    "first_person_frequency": 1.8170426065162906
+  },
+  "user_63110023": {
+    "avg_sentence_length": 14.146256817055033,
+    "avg_word_length": 4.542950268110609,
+    "ttr": 0.1357375670276522,
+    "punctuation_frequency": 10.843584621315669,
+    "first_person_frequency": 2.8353134966529985
+  },
+  "user_636d1da4": {
+    "avg_sentence_length": 18.75242718446602,
+    "avg_word_length": 4.34247993787212,
+    "ttr": 0.28009319181982917,
+    "punctuation_frequency": 8.42609370955216,
+    "first_person_frequency": 4.167745275692467
+  },
+  "user_6427334a": {
+    "avg_sentence_length": 18.74405705229794,
+    "avg_word_length": 4.494145001056859,
+    "ttr": 0.1709575142675967,
+    "punctuation_frequency": 11.020925808497147,
+    "first_person_frequency": 0.7102092580849715
+  },
+  "user_6476648d": {
+    "avg_sentence_length": 10.132132132132131,
+    "avg_word_length": 4.24380557202134,
+    "ttr": 0.1978067575577949,
+    "punctuation_frequency": 14.001185536455246,
+    "first_person_frequency": 2.110254890337878
+  },
+  "user_649f4327": {
+    "avg_sentence_length": 9.204983922829582,
+    "avg_word_length": 4.401187669199197,
+    "ttr": 0.2366605536634355,
+    "punctuation_frequency": 16.181992839053358,
+    "first_person_frequency": 2.611125665880709
+  },
+  "user_657c72ca": {
+    "avg_sentence_length": 14.557283142389526,
+    "avg_word_length": 4.600314801281691,
+    "ttr": 0.19815616392152455,
+    "punctuation_frequency": 11.670133228399573,
+    "first_person_frequency": 1.214233515093597
+  },
+  "user_6592f2e4": {
+    "avg_sentence_length": 20.325356842989084,
+    "avg_word_length": 4.27433646597129,
+    "ttr": 0.11333264484147475,
+    "punctuation_frequency": 7.741402457915935,
+    "first_person_frequency": 1.6668387896313128
+  },
+  "user_65d73ac1": {
+    "avg_sentence_length": 11.643116883116884,
+    "avg_word_length": 4.329763976263775,
+    "ttr": 0.17226609556953554,
+    "punctuation_frequency": 13.496631419265606,
+    "first_person_frequency": 1.2626600633560878
+  },
+  "user_68349053": {
+    "avg_sentence_length": 7.815950920245399,
+    "avg_word_length": 4.4597723704866565,
+    "ttr": 0.34870486656200944,
+    "punctuation_frequency": 17.9552590266876,
+    "first_person_frequency": 2.001569858712716
+  },
+  "user_68d19df8": {
+    "avg_sentence_length": 14.84963023829088,
+    "avg_word_length": 4.523572377158034,
+    "ttr": 0.2055112881806109,
+    "punctuation_frequency": 9.141212926073484,
+    "first_person_frequency": 1.588092076139885
+  },
+  "user_69193575": {
+    "avg_sentence_length": 11.292989814260036,
+    "avg_word_length": 4.044726230899831,
+    "ttr": 0.15619694397283532,
+    "punctuation_frequency": 11.470713073005093,
+    "first_person_frequency": 4.700764006791172
+  },
+  "user_69a4dd06": {
+    "avg_sentence_length": 13.513639906469212,
+    "avg_word_length": 4.35471219287115,
+    "ttr": 0.22009458991809897,
+    "punctuation_frequency": 11.050870919367863,
+    "first_person_frequency": 1.661091244664898
+  },
+  "user_69df6330": {
+    "avg_sentence_length": 14.668641557342362,
+    "avg_word_length": 4.4998557498124745,
+    "ttr": 0.147337141538284,
+    "punctuation_frequency": 11.718885234550806,
+    "first_person_frequency": 2.5936183717038834
+  },
+  "user_6ab1739a": {
+    "avg_sentence_length": 12.79795918367347,
+    "avg_word_length": 4.549433902088981,
+    "ttr": 0.2148780098867804,
+    "punctuation_frequency": 12.96443948333599,
+    "first_person_frequency": 2.336150534205071
+  },
+  "user_6ab8f7d4": {
+    "avg_sentence_length": 11.175914994096813,
+    "avg_word_length": 4.248256919501373,
+    "ttr": 0.25153179801394465,
+    "punctuation_frequency": 12.835410944432708,
+    "first_person_frequency": 4.331290935981407
+  },
+  "user_6d071251": {
+    "avg_sentence_length": 11.876933895921237,
+    "avg_word_length": 4.19284741547753,
+    "ttr": 0.2312747942447747,
+    "punctuation_frequency": 13.825566937059625,
+    "first_person_frequency": 4.4940493812540705
+  },
+  "user_6d2cb415": {
+    "avg_sentence_length": 14.13582208101668,
+    "avg_word_length": 4.49710625386301,
+    "ttr": 0.2241388998145755,
+    "punctuation_frequency": 11.631173793335956,
+    "first_person_frequency": 1.6519638141259765
+  },
+  "user_6d421600": {
+    "avg_sentence_length": 13.907272727272728,
+    "avg_word_length": 4.294896936418704,
+    "ttr": 0.18869569006841852,
+    "punctuation_frequency": 11.997210964396217,
+    "first_person_frequency": 2.3009543731206694
+  },
+  "user_6f1b0197": {
+    "avg_sentence_length": 13.811182401466544,
+    "avg_word_length": 4.7039421290151315,
+    "ttr": 0.2256437483408548,
+    "punctuation_frequency": 10.711441465357048,
+    "first_person_frequency": 0.6172020175205734
+  },
+  "user_6fa47d61": {
+    "avg_sentence_length": 14.444102564102565,
+    "avg_word_length": 4.377866931761699,
+    "ttr": 0.16899808279485906,
+    "punctuation_frequency": 10.906767024071575,
+    "first_person_frequency": 1.3313924589931123
+  },
+  "user_6fc85c06": {
+    "avg_sentence_length": 11.15727002967359,
+    "avg_word_length": 4.351396276595745,
+    "ttr": 0.22732712765957447,
+    "punctuation_frequency": 14.049202127659575,
+    "first_person_frequency": 3.3710106382978724
+  },
+  "user_6fccf8b5": {
+    "avg_sentence_length": 12.693221523410203,
+    "avg_word_length": 4.3455186082360715,
+    "ttr": 0.11247522572120679,
+    "punctuation_frequency": 11.060339132349704,
+    "first_person_frequency": 1.5249944946047125
+  },
+  "user_723406a0": {
+    "avg_sentence_length": 12.958020050125313,
+    "avg_word_length": 4.398965233789468,
+    "ttr": 0.16889898941057008,
+    "punctuation_frequency": 11.691891107780087,
+    "first_person_frequency": 1.7407282046322712
+  },
+  "user_72bed676": {
+    "avg_sentence_length": 18.383490971625108,
+    "avg_word_length": 4.394855004677268,
+    "ttr": 0.16796071094480824,
+    "punctuation_frequency": 9.027128157156222,
+    "first_person_frequency": 1.898971000935454
+  },
+  "user_7322f4ef": {
+    "avg_sentence_length": 11.592289719626168,
+    "avg_word_length": 4.114783835533609,
+    "ttr": 0.18542779401390708,
+    "punctuation_frequency": 11.216366018341226,
+    "first_person_frequency": 3.0333568477275015
+  },
+  "user_737d3148": {
+    "avg_sentence_length": 12.914701803051317,
+    "avg_word_length": 4.29345433066638,
+    "ttr": 0.18015357353809805,
+    "punctuation_frequency": 12.613434999731515,
+    "first_person_frequency": 2.008269344359126
+  },
+  "user_73a4377d": {
+    "avg_sentence_length": 16.08,
+    "avg_word_length": 4.319900497512438,
+    "ttr": 0.27611940298507465,
+    "punctuation_frequency": 9.78441127694859,
+    "first_person_frequency": 3.316749585406302
+  },
+  "user_73f34c5d": {
+    "avg_sentence_length": 17.54813863928113,
+    "avg_word_length": 4.20512070226774,
+    "ttr": 0.18039502560351134,
+    "punctuation_frequency": 8.96854425749817,
+    "first_person_frequency": 2.531089978054133
+  },
+  "user_74025dc0": {
+    "avg_sentence_length": 15.86815415821501,
+    "avg_word_length": 4.412927691848822,
+    "ttr": 0.19455451872683113,
+    "punctuation_frequency": 9.224935020665558,
+    "first_person_frequency": 1.8875964037666708
+  },
+  "user_74cfb8ef": {
+    "avg_sentence_length": 15.980544747081712,
+    "avg_word_length": 4.617888158428699,
+    "ttr": 0.2072072072072072,
+    "punctuation_frequency": 10.863566268971676,
+    "first_person_frequency": 1.290479668858047
+  },
+  "user_74e32d78": {
+    "avg_sentence_length": 10.097323600973237,
+    "avg_word_length": 4.426385542168675,
+    "ttr": 0.2979518072289157,
+    "punctuation_frequency": 14.891566265060241,
+    "first_person_frequency": 2.0120481927710845
+  },
+  "user_756e2f00": {
+    "avg_sentence_length": 12.381852551984878,
+    "avg_word_length": 4.375648854961832,
+    "ttr": 0.23061068702290077,
+    "punctuation_frequency": 12.717557251908396,
+    "first_person_frequency": 2.4122137404580153
+  },
+  "user_75905116": {
+    "avg_sentence_length": 17.85552050473186,
+    "avg_word_length": 4.398113140878414,
+    "ttr": 0.1741987915621356,
+    "punctuation_frequency": 10.105649977032613,
+    "first_person_frequency": 2.402741952581181
+  },
+  "user_7709815a": {
+    "avg_sentence_length": 13.333333333333334,
+    "avg_word_length": 4.4929910044977515,
+    "ttr": 0.13834332833583207,
+    "punctuation_frequency": 13.478260869565217,
+    "first_person_frequency": 1.3568215892053972
+  },
+  "user_78eff25f": {
+    "avg_sentence_length": 12.362482369534556,
+    "avg_word_length": 4.092869366799772,
+    "ttr": 0.23513976041072449,
+    "punctuation_frequency": 10.98687963491158,
+    "first_person_frequency": 4.700513405590416
+  },
+  "user_7924afc9": {
+    "avg_sentence_length": 14.174031271244052,
+    "avg_word_length": 4.51947242206235,
+    "ttr": 0.21141486810551557,
+    "punctuation_frequency": 11.961630695443645,
+    "first_person_frequency": 1.4532374100719425
+  },
+  "user_795eb408": {
+    "avg_sentence_length": 11.396521739130435,
+    "avg_word_length": 4.3027620936975435,
+    "ttr": 0.2977262322600336,
+    "punctuation_frequency": 14.237753700595146,
+    "first_person_frequency": 3.8150465435678313
+  },
+  "user_79f04645": {
+    "avg_sentence_length": 14.31572405220634,
+    "avg_word_length": 4.48402361726144,
+    "ttr": 0.17864895372058695,
+    "punctuation_frequency": 10.224016671008075,
+    "first_person_frequency": 1.7756360163236955
+  },
+  "user_7a8f7f3e": {
+    "avg_sentence_length": 14.401349072512648,
+    "avg_word_length": 4.231967213114754,
+    "ttr": 0.2360655737704918,
+    "punctuation_frequency": 11.768149882903982,
+    "first_person_frequency": 2.693208430913349
+  },
+  "user_7b052f32": {
+    "avg_sentence_length": 6.488488488488488,
+    "avg_word_length": 4.12064177722925,
+    "ttr": 0.2224622030237581,
+    "punctuation_frequency": 24.745448935513732,
+    "first_person_frequency": 5.538414069731564
+  },
+  "user_7b2d0be1": {
+    "avg_sentence_length": 12.13843648208469,
+    "avg_word_length": 4.21986672033633,
+    "ttr": 0.15546312446889396,
+    "punctuation_frequency": 16.011449528154213,
+    "first_person_frequency": 0.8318797799543807
+  },
+  "user_7b4c75ab": {
+    "avg_sentence_length": 11.750666666666667,
+    "avg_word_length": 4.338250312039033,
+    "ttr": 0.2597299444003177,
+    "punctuation_frequency": 11.494383297401566,
+    "first_person_frequency": 2.3261091569272665
+  },
+  "user_7c45fa70": {
+    "avg_sentence_length": 8.48268106162843,
+    "avg_word_length": 4.716179668027788,
+    "ttr": 0.10956143607148539,
+    "punctuation_frequency": 13.947075356631489,
+    "first_person_frequency": 0.49848862491382506
+  },
+  "user_7c7220a4": {
+    "avg_sentence_length": 15.42615484710475,
+    "avg_word_length": 4.0831294812315475,
+    "ttr": 0.1322648671446647,
+    "punctuation_frequency": 10.404892450442851,
+    "first_person_frequency": 2.7709827077182623
+  },
+  "user_7f623d19": {
+    "avg_sentence_length": 15.138068635275339,
+    "avg_word_length": 4.3105757064529735,
+    "ttr": 0.16685997469422184,
+    "punctuation_frequency": 10.886756642766764,
+    "first_person_frequency": 1.8768452129902995
+  },
+  "user_7fd91653": {
+    "avg_sentence_length": 8.533333333333333,
+    "avg_word_length": 4.254794034090909,
+    "ttr": 0.32191051136363635,
+    "punctuation_frequency": 12.180397727272728,
+    "first_person_frequency": 3.2315340909090913
+  },
+  "user_7fef9da8": {
+    "avg_sentence_length": 16.650197628458496,
+    "avg_word_length": 4.2979228486646885,
+    "ttr": 0.20409495548961423,
+    "punctuation_frequency": 9.293768545994064,
+    "first_person_frequency": 2.85459940652819
+  },
+  "user_8006727d": {
+    "avg_sentence_length": 10.941644562334217,
+    "avg_word_length": 4.6679272727272725,
+    "ttr": 0.1391030303030303,
+    "punctuation_frequency": 12.610909090909091,
+    "first_person_frequency": 0.8048484848484848
+  },
+  "user_80da26a6": {
+    "avg_sentence_length": 10.641996557659208,
+    "avg_word_length": 4.081028626880156,
+    "ttr": 0.28934174349021513,
+    "punctuation_frequency": 11.790393013100436,
+    "first_person_frequency": 4.043344654698366
+  },
+  "user_80dc757f": {
+    "avg_sentence_length": 9.890776699029127,
+    "avg_word_length": 4.253824130879345,
+    "ttr": 0.2521881390593047,
+    "punctuation_frequency": 15.370143149284255,
+    "first_person_frequency": 2.6503067484662575
+  },
+  "user_81a80789": {
+    "avg_sentence_length": 23.44578313253012,
+    "avg_word_length": 4.2168550873586845,
+    "ttr": 0.1895463221259727,
+    "punctuation_frequency": 8.72118631625312,
+    "first_person_frequency": 3.736602554690941
+  },
+  "user_823846de": {
+    "avg_sentence_length": 16.856242840778922,
+    "avg_word_length": 4.448268832183752,
+    "ttr": 0.15249227005538377,
+    "punctuation_frequency": 11.47769358839319,
+    "first_person_frequency": 1.8314022629200504
+  },
+  "user_8285a696": {
+    "avg_sentence_length": 9.939503932244405,
+    "avg_word_length": 4.261959829580037,
+    "ttr": 0.17973219720024347,
+    "punctuation_frequency": 12.684114424832623,
+    "first_person_frequency": 3.377967133292757
+  },
+  "user_82879210": {
+    "avg_sentence_length": 13.183813443072703,
+    "avg_word_length": 4.579960461970659,
+    "ttr": 0.20981167412340027,
+    "punctuation_frequency": 11.53365934866299,
+    "first_person_frequency": 1.4618666111746956
+  },
+  "user_829844fd": {
+    "avg_sentence_length": 16.49955947136564,
+    "avg_word_length": 4.443744326373685,
+    "ttr": 0.1946921557110055,
+    "punctuation_frequency": 11.347252629892669,
+    "first_person_frequency": 2.3068297111122975
+  },
+  "user_82d93459": {
+    "avg_sentence_length": 9.375868055555555,
+    "avg_word_length": 4.216091102675678,
+    "ttr": 0.2370150911952597,
+    "punctuation_frequency": 17.07249328765855,
+    "first_person_frequency": 2.8145542079437087
+  },
+  "user_83e45cc0": {
+    "avg_sentence_length": 35.397306397306394,
+    "avg_word_length": 4.416389232378959,
+    "ttr": 0.15932654808332541,
+    "punctuation_frequency": 9.179111576143823,
+    "first_person_frequency": 2.4778845239227625
+  },
+  "user_84703a6e": {
+    "avg_sentence_length": 12.47921760391198,
+    "avg_word_length": 4.1869122257053295,
+    "ttr": 0.23207288401253917,
+    "punctuation_frequency": 12.490203761755486,
+    "first_person_frequency": 2.6057993730407523
+  },
+  "user_84c14a6f": {
+    "avg_sentence_length": 10.646953405017921,
+    "avg_word_length": 4.2864276496661615,
+    "ttr": 0.1932334623800707,
+    "punctuation_frequency": 12.32115805419963,
+    "first_person_frequency": 3.675026650956629
+  },
+  "user_84fe1a7a": {
+    "avg_sentence_length": 7.128125,
+    "avg_word_length": 4.223586146427006,
+    "ttr": 0.2503288031565103,
+    "punctuation_frequency": 20.133713283647523,
+    "first_person_frequency": 6.148619026742657
+  },
+  "user_85810097": {
+    "avg_sentence_length": 13.106821787414066,
+    "avg_word_length": 4.5502118216663305,
+    "ttr": 0.1775267298769417,
+    "punctuation_frequency": 11.886221504942505,
+    "first_person_frequency": 2.4853742182771836
+  },
+  "user_8663226a": {
+    "avg_sentence_length": 12.407133811734909,
+    "avg_word_length": 4.575589010802076,
+    "ttr": 0.0795611125287063,
+    "punctuation_frequency": 11.264778429871566,
+    "first_person_frequency": 1.8423067108956366
+  },
+  "user_86685a27": {
+    "avg_sentence_length": 13.145792563600782,
+    "avg_word_length": 4.371641235578712,
+    "ttr": 0.2110904354298474,
+    "punctuation_frequency": 13.985857834015631,
+    "first_person_frequency": 2.7391142538146633
+  },
+  "user_869fcb2b": {
+    "avg_sentence_length": 9.94754539340955,
+    "avg_word_length": 4.300027041644132,
+    "ttr": 0.22890751757706868,
+    "punctuation_frequency": 13.987290427257978,
+    "first_person_frequency": 2.5216333153055706
+  },
+  "user_8713f22a": {
+    "avg_sentence_length": 15.657842488418266,
+    "avg_word_length": 4.262817532440086,
+    "ttr": 0.1434126548036688,
+    "punctuation_frequency": 10.025783000126802,
+    "first_person_frequency": 2.375417388731561
+  },
+  "user_87e5d9b0": {
+    "avg_sentence_length": 10.044378698224852,
+    "avg_word_length": 4.114432989690721,
+    "ttr": 0.21531664212076584,
+    "punctuation_frequency": 14.197349042709867,
+    "first_person_frequency": 2.621502209131075
+  },
+  "user_885e8708": {
+    "avg_sentence_length": 9.584126984126984,
+    "avg_word_length": 4.236502153030805,
+    "ttr": 0.30606160980457103,
+    "punctuation_frequency": 18.052335210334547,
+    "first_person_frequency": 3.2957933090427294
+  },
+  "user_88f46c7b": {
+    "avg_sentence_length": 15.072378138847858,
+    "avg_word_length": 4.287632301058409,
+    "ttr": 0.2471579772638181,
+    "punctuation_frequency": 14.121912975303802,
+    "first_person_frequency": 3.2144257154057234
+  },
+  "user_89f449b4": {
+    "avg_sentence_length": 12.3506151142355,
+    "avg_word_length": 4.451013874066168,
+    "ttr": 0.19352543578797582,
+    "punctuation_frequency": 11.775168979011028,
+    "first_person_frequency": 2.7178939879046604
+  },
+  "user_8a760553": {
+    "avg_sentence_length": 12.198522622345337,
+    "avg_word_length": 4.386571796230414,
+    "ttr": 0.22254182120959806,
+    "punctuation_frequency": 12.73181439709333,
+    "first_person_frequency": 1.2111119521610778
+  },
+  "user_8ae8c359": {
+    "avg_sentence_length": 12.406130268199234,
+    "avg_word_length": 4.413990117356393,
+    "ttr": 0.32581840642371834,
+    "punctuation_frequency": 20.166769610870908,
+    "first_person_frequency": 2.53242742433601
+  },
+  "user_8afa3eba": {
+    "avg_sentence_length": 11.705669481302774,
+    "avg_word_length": 4.248660346248969,
+    "ttr": 0.25113355317394886,
+    "punctuation_frequency": 13.92209398186315,
+    "first_person_frequency": 2.6586974443528444
+  },
+  "user_8c6db6ed": {
+    "avg_sentence_length": 20.09375,
+    "avg_word_length": 4.274883359253499,
+    "ttr": 0.25874805598755835,
+    "punctuation_frequency": 7.0470451010886475,
+    "first_person_frequency": 1.8759720062208398
+  },
+  "user_8d22714e": {
+    "avg_sentence_length": 11.30820399113082,
+    "avg_word_length": 4.298627450980392,
+    "ttr": 0.2607843137254902,
+    "punctuation_frequency": 13.843137254901961,
+    "first_person_frequency": 2.3333333333333335
+  },
+  "user_8d85acb5": {
+    "avg_sentence_length": 17.714853057982527,
+    "avg_word_length": 4.230507106667265,
+    "ttr": 0.13769448056315295,
+    "punctuation_frequency": 11.128547729005067,
+    "first_person_frequency": 0.9729632784827154
+  },
+  "user_8d968cfb": {
+    "avg_sentence_length": 11.987378640776699,
+    "avg_word_length": 4.545557625334089,
+    "ttr": 0.23260711103911882,
+    "punctuation_frequency": 12.456467158014092,
+    "first_person_frequency": 3.64461002672714
+  },
+  "user_8da30894": {
+    "avg_sentence_length": 7.452290076335878,
+    "avg_word_length": 4.224071702944943,
+    "ttr": 0.3047375160051216,
+    "punctuation_frequency": 17.90012804097311,
+    "first_person_frequency": 3.841229193341869
+  },
+  "user_8dd20d7f": {
+    "avg_sentence_length": 11.69738219895288,
+    "avg_word_length": 4.209515710321368,
+    "ttr": 0.1460925610956942,
+    "punctuation_frequency": 14.022916480171874,
+    "first_person_frequency": 5.975293169814699
+  },
+  "user_8e48a3f8": {
+    "avg_sentence_length": 10.852643419572553,
+    "avg_word_length": 4.2277155887230515,
+    "ttr": 0.22958126036484244,
+    "punctuation_frequency": 12.01285240464345,
+    "first_person_frequency": 2.7881426202321724
+  },
+  "user_8e97a154": {
+    "avg_sentence_length": 15.839639639639639,
+    "avg_word_length": 4.202764190649528,
+    "ttr": 0.14981230804231602,
+    "punctuation_frequency": 7.137982027073144,
+    "first_person_frequency": 3.1566374701399154
+  },
+  "user_8eac0a68": {
+    "avg_sentence_length": 14.27076411960133,
+    "avg_word_length": 4.48562449074613,
+    "ttr": 0.2751716913048539,
+    "punctuation_frequency": 10.417879175881737,
+    "first_person_frequency": 1.3269700849726458
+  },
+  "user_8f08aa94": {
+    "avg_sentence_length": 28.53914590747331,
+    "avg_word_length": 4.354199139597232,
+    "ttr": 0.19016148138911404,
+    "punctuation_frequency": 7.045327015399963,
+    "first_person_frequency": 2.4128686327077746
+  },
+  "user_8fe14601": {
+    "avg_sentence_length": 10.398883127243717,
+    "avg_word_length": 4.4423091676256234,
+    "ttr": 0.18354430379746836,
+    "punctuation_frequency": 13.590333716915994,
+    "first_person_frequency": 1.1008822401227465
+  },
+  "user_90202189": {
+    "avg_sentence_length": 9.74123989218329,
+    "avg_word_length": 4.078952222837115,
+    "ttr": 0.22449732521674967,
+    "punctuation_frequency": 16.685113447703376,
+    "first_person_frequency": 3.1451761667589007
+  },
+  "user_902af20f": {
+    "avg_sentence_length": 12.426747311827956,
+    "avg_word_length": 4.521713265913147,
+    "ttr": 0.15429127683738034,
+    "punctuation_frequency": 9.431615380455357,
+    "first_person_frequency": 1.1086474501108647
+  },
+  "user_903329bb": {
+    "avg_sentence_length": 16.540596094552928,
+    "avg_word_length": 4.2157947061016525,
+    "ttr": 0.18628060146638498,
+    "punctuation_frequency": 10.811482540077048,
+    "first_person_frequency": 3.100534360631291
+  },
+  "user_906e2423": {
+    "avg_sentence_length": 12.643760307861463,
+    "avg_word_length": 4.181833992782295,
+    "ttr": 0.16726814209313448,
+    "punctuation_frequency": 10.60915691986608,
+    "first_person_frequency": 2.8001217444236706
+  },
+  "user_916503d6": {
+    "avg_sentence_length": 10.6604086140254,
+    "avg_word_length": 4.541230705480162,
+    "ttr": 0.19139127732311198,
+    "punctuation_frequency": 13.529472702786698,
+    "first_person_frequency": 1.8129079042784626
+  },
+  "user_920c074a": {
+    "avg_sentence_length": 14.136762860727728,
+    "avg_word_length": 4.4112008520457975,
+    "ttr": 0.2711458240880447,
+    "punctuation_frequency": 8.431703204047219,
+    "first_person_frequency": 2.121239016597142
+  },
+  "user_938164a5": {
+    "avg_sentence_length": 14.691774891774891,
+    "avg_word_length": 4.563792798632801,
+    "ttr": 0.2450350639401261,
+    "punctuation_frequency": 10.766692203429784,
+    "first_person_frequency": 1.0548647533737991
+  },
+  "user_943e4045": {
+    "avg_sentence_length": 16.19179600886918,
+    "avg_word_length": 4.306949674768915,
+    "ttr": 0.2064361520027388,
+    "punctuation_frequency": 10.585415953440602,
+    "first_person_frequency": 1.7391304347826086
+  },
+  "user_954805d7": {
+    "avg_sentence_length": 11.639080459770115,
+    "avg_word_length": 4.563960761077095,
+    "ttr": 0.2261505036539601,
+    "punctuation_frequency": 11.330568174336692,
+    "first_person_frequency": 1.6854302455724537
+  },
+  "user_959adfc8": {
+    "avg_sentence_length": 7.957507082152975,
+    "avg_word_length": 4.331612673549306,
+    "ttr": 0.3264506941972232,
+    "punctuation_frequency": 16.21573513705945,
+    "first_person_frequency": 3.186187255250979
+  },
+  "user_95d648bc": {
+    "avg_sentence_length": 11.76489707475623,
+    "avg_word_length": 4.556220646468367,
+    "ttr": 0.2648494336495073,
+    "punctuation_frequency": 14.586978543143935,
+    "first_person_frequency": 2.458789943825398
+  },
+  "user_9600e8bf": {
+    "avg_sentence_length": 11.625544899738449,
+    "avg_word_length": 4.396902771007537,
+    "ttr": 0.16937267989050958,
+    "punctuation_frequency": 13.828789980876675,
+    "first_person_frequency": 2.2273051108028046
+  },
+  "user_96013176": {
+    "avg_sentence_length": 12.230046948356808,
+    "avg_word_length": 4.60637236084453,
+    "ttr": 0.2815355086372361,
+    "punctuation_frequency": 13.45873320537428,
+    "first_person_frequency": 0.8982725527831094
+  },
+  "user_9692f077": {
+    "avg_sentence_length": 13.884267631103073,
+    "avg_word_length": 4.318898150560042,
+    "ttr": 0.20675957280541807,
+    "punctuation_frequency": 9.247199791612399,
+    "first_person_frequency": 3.6923678041156553
+  },
+  "user_96c3cc43": {
+    "avg_sentence_length": 18.325593134780412,
+    "avg_word_length": 4.506156515990414,
+    "ttr": 0.16150180425860122,
+    "punctuation_frequency": 9.778806159270584,
+    "first_person_frequency": 1.7656942952373083
+  },
+  "user_96d9cb9a": {
+    "avg_sentence_length": 19.02276176024279,
+    "avg_word_length": 4.084476707083599,
+    "ttr": 0.2036534779834078,
+    "punctuation_frequency": 7.913209955328654,
+    "first_person_frequency": 5.902999361837907
+  },
+  "user_97330742": {
+    "avg_sentence_length": 10.26078971533517,
+    "avg_word_length": 4.398693395382137,
+    "ttr": 0.24485412564882764,
+    "punctuation_frequency": 14.193663862538033,
+    "first_person_frequency": 1.942008233398962
+  },
+  "user_979ee068": {
+    "avg_sentence_length": 16.11522346368715,
+    "avg_word_length": 4.383152056159813,
+    "ttr": 0.1782727390908697,
+    "punctuation_frequency": 11.179962733457554,
+    "first_person_frequency": 1.889327035576548
+  },
+  "user_9818dcae": {
+    "avg_sentence_length": 12.503428011753183,
+    "avg_word_length": 4.350070499765001,
+    "ttr": 0.21917593608021307,
+    "punctuation_frequency": 12.650791164029455,
+    "first_person_frequency": 2.874823750587498
+  },
+  "user_98a676ce": {
+    "avg_sentence_length": 20.57529610829103,
+    "avg_word_length": 4.3988486842105265,
+    "ttr": 0.240625,
+    "punctuation_frequency": 7.935855263157894,
+    "first_person_frequency": 1.6776315789473684
+  },
+  "user_98ca16a6": {
+    "avg_sentence_length": 12.103909465020577,
+    "avg_word_length": 4.274373140671483,
+    "ttr": 0.25431364215894603,
+    "punctuation_frequency": 13.378665533361666,
+    "first_person_frequency": 2.634934126646834
+  },
+  "user_98f18241": {
+    "avg_sentence_length": 15.17996400719856,
+    "avg_word_length": 4.571507607192254,
+    "ttr": 0.21956135151155898,
+    "punctuation_frequency": 11.515510768622802,
+    "first_person_frequency": 3.0705394190871367
+  },
+  "user_9991e1d8": {
+    "avg_sentence_length": 11.407218517065516,
+    "avg_word_length": 4.192764040306772,
+    "ttr": 0.14427210510025107,
+    "punctuation_frequency": 10.960553014410014,
+    "first_person_frequency": 2.214808955531864
+  },
+  "user_99c67f2f": {
+    "avg_sentence_length": 18.851651059635287,
+    "avg_word_length": 4.685071895424836,
+    "ttr": 0.12776470588235295,
+    "punctuation_frequency": 11.202614379084967,
+    "first_person_frequency": 1.3934640522875816
+  },
+  "user_9a307ebe": {
+    "avg_sentence_length": 23.418096723868956,
+    "avg_word_length": 4.140163879821464,
+    "ttr": 0.18499766837652387,
+    "punctuation_frequency": 10.545599893411499,
+    "first_person_frequency": 4.116980880687496
+  },
+  "user_9a5457b0": {
+    "avg_sentence_length": 14.43372216330859,
+    "avg_word_length": 4.266769524649181,
+    "ttr": 0.20189552567776065,
+    "punctuation_frequency": 12.578061861729484,
+    "first_person_frequency": 2.7477775328778193
+  },
+  "user_9b517815": {
+    "avg_sentence_length": 65.77777777777777,
+    "avg_word_length": 4.167471042471043,
+    "ttr": 0.2233349420849421,
+    "punctuation_frequency": 4.741795366795367,
+    "first_person_frequency": 3.3421814671814674
+  },
+  "user_9b6481e4": {
+    "avg_sentence_length": 13.226456178551986,
+    "avg_word_length": 4.328764868090711,
+    "ttr": 0.11524056467876692,
+    "punctuation_frequency": 8.408445487097174,
+    "first_person_frequency": 1.2141416635798659
+  },
+  "user_9bee2a7c": {
+    "avg_sentence_length": 13.40677966101695,
+    "avg_word_length": 4.1706700379266755,
+    "ttr": 0.22271386430678466,
+    "punctuation_frequency": 13.133867116168002,
+    "first_person_frequency": 3.9471835932012924
+  },
+  "user_9c5cd7fa": {
+    "avg_sentence_length": 12.33015873015873,
+    "avg_word_length": 4.187049433573636,
+    "ttr": 0.19953656024716787,
+    "punctuation_frequency": 14.199279093717818,
+    "first_person_frequency": 3.533728115345005
+  },
+  "user_9c5e4782": {
+    "avg_sentence_length": 6.823602484472049,
+    "avg_word_length": 4.212816311669397,
+    "ttr": 0.287456763153104,
+    "punctuation_frequency": 20.316766794101586,
+    "first_person_frequency": 6.1532860003640995
+  },
+  "user_9c7183c8": {
+    "avg_sentence_length": 11.166531932093775,
+    "avg_word_length": 4.379352783609643,
+    "ttr": 0.24730326504017955,
+    "punctuation_frequency": 13.784116412075582,
+    "first_person_frequency": 2.3673351190907117
+  },
+  "user_9ce96cbf": {
+    "avg_sentence_length": 14.515437392795883,
+    "avg_word_length": 4.05506646971935,
+    "ttr": 0.18463810930576072,
+    "punctuation_frequency": 12.649926144756277,
+    "first_person_frequency": 4.4785819793205315
+  },
+  "user_9d8095fc": {
+    "avg_sentence_length": 13.989260143198091,
+    "avg_word_length": 4.245628252153885,
+    "ttr": 0.1251386163951207,
+    "punctuation_frequency": 11.528618954192613,
+    "first_person_frequency": 3.6424123517870854
+  },
+  "user_9d9fba70": {
+    "avg_sentence_length": 10.950527169505271,
+    "avg_word_length": 4.194860020737669,
+    "ttr": 0.2030069619315657,
+    "punctuation_frequency": 18.797215227373723,
+    "first_person_frequency": 3.229151236853799
+  },
+  "user_9dda4af9": {
+    "avg_sentence_length": 11.39622641509434,
+    "avg_word_length": 4.207947019867549,
+    "ttr": 0.21556291390728477,
+    "punctuation_frequency": 13.923841059602648,
+    "first_person_frequency": 2.16887417218543
+  },
+  "user_9e328c4e": {
+    "avg_sentence_length": 14.624,
+    "avg_word_length": 4.590935869382259,
+    "ttr": 0.15771755596700893,
+    "punctuation_frequency": 10.776805251641138,
+    "first_person_frequency": 1.5864332603938731
+  },
+  "user_9e39a95d": {
+    "avg_sentence_length": 14.951635846372689,
+    "avg_word_length": 4.28731804775949,
+    "ttr": 0.189087622490724,
+    "punctuation_frequency": 12.972124441061744,
+    "first_person_frequency": 3.401198744172771
+  },
+  "user_9f81cfba": {
+    "avg_sentence_length": 11.653370013755158,
+    "avg_word_length": 4.770892351274788,
+    "ttr": 0.23365203021718603,
+    "punctuation_frequency": 13.172804532577903,
+    "first_person_frequency": 0.5488668555240793
+  },
+  "user_9fc3c829": {
+    "avg_sentence_length": 10.24860853432282,
+    "avg_word_length": 4.290188269370022,
+    "ttr": 0.2985155684286749,
+    "punctuation_frequency": 13.106444605358437,
+    "first_person_frequency": 1.7740767559739319
+  },
+  "user_9ff844ba": {
+    "avg_sentence_length": 8.570541259982253,
+    "avg_word_length": 4.211719639714256,
+    "ttr": 0.2559271146081375,
+    "punctuation_frequency": 17.310280567346517,
+    "first_person_frequency": 3.1680298167512166
+  },
+  "user_a01f16ac": {
+    "avg_sentence_length": 8.720250521920669,
+    "avg_word_length": 4.248982523342112,
+    "ttr": 0.26023461814699544,
+    "punctuation_frequency": 15.058654536748865,
+    "first_person_frequency": 4.620541058175724
+  },
+  "user_a0fa40f1": {
+    "avg_sentence_length": 7.508387096774194,
+    "avg_word_length": 4.25846365354872,
+    "ttr": 0.2993641519161368,
+    "punctuation_frequency": 15.191613679326343,
+    "first_person_frequency": 3.1964255026636876
+  },
+  "user_a151ddab": {
+    "avg_sentence_length": 22.89908256880734,
+    "avg_word_length": 4.134114583333333,
+    "ttr": 0.2325721153846154,
+    "punctuation_frequency": 7.03125,
+    "first_person_frequency": 4.707532051282051
+  },
+  "user_a1b097c2": {
+    "avg_sentence_length": 10.257391304347825,
+    "avg_word_length": 4.135978297728044,
+    "ttr": 0.3129874533740251,
+    "punctuation_frequency": 13.496100373007799,
+    "first_person_frequency": 3.4418446931163102
+  },
+  "user_a2825b06": {
+    "avg_sentence_length": 11.164777021919878,
+    "avg_word_length": 4.076636652900954,
+    "ttr": 0.17588518042109538,
+    "punctuation_frequency": 12.145420079886264,
+    "first_person_frequency": 2.748629070475933
+  },
+  "user_a2f8bfd2": {
+    "avg_sentence_length": 13.175338189386057,
+    "avg_word_length": 4.4508549539943925,
+    "ttr": 0.14741539312087826,
+    "punctuation_frequency": 13.292263949768984,
+    "first_person_frequency": 1.544050862851953
+  },
+  "user_a346dfc4": {
+    "avg_sentence_length": 20.537154989384288,
+    "avg_word_length": 4.172593817843482,
+    "ttr": 0.16091181639615423,
+    "punctuation_frequency": 8.994107309004445,
+    "first_person_frequency": 2.3725834797891037
+  },
+  "user_a4893af1": {
+    "avg_sentence_length": 8.003550295857988,
+    "avg_word_length": 4.159840307555818,
+    "ttr": 0.2833062250480556,
+    "punctuation_frequency": 17.935827295578886,
+    "first_person_frequency": 2.203164276208783
+  },
+  "user_a4a77a7d": {
+    "avg_sentence_length": 12.571619812583668,
+    "avg_word_length": 4.446757533808966,
+    "ttr": 0.21653710999893516,
+    "punctuation_frequency": 13.028431476946011,
+    "first_person_frequency": 1.7250559045895004
+  },
+  "user_a4aab257": {
+    "avg_sentence_length": 11.1,
+    "avg_word_length": 4.196996996996997,
+    "ttr": 0.22522522522522523,
+    "punctuation_frequency": 12.232232232232231,
+    "first_person_frequency": 3.3299966633299967
+  },
+  "user_a4ae4e77": {
+    "avg_sentence_length": 11.954278249510125,
+    "avg_word_length": 4.453393071795432,
+    "ttr": 0.22762539613157032,
+    "punctuation_frequency": 12.5177576221178,
+    "first_person_frequency": 2.1254507704076055
+  },
+  "user_a52dd639": {
+    "avg_sentence_length": 20.19645494830133,
+    "avg_word_length": 4.403715351422512,
+    "ttr": 0.19578731807211291,
+    "punctuation_frequency": 8.820302786513567,
+    "first_person_frequency": 1.7772251883273606
+  },
+  "user_a57a04fa": {
+    "avg_sentence_length": 15.869565217391305,
+    "avg_word_length": 4.019178082191781,
+    "ttr": 0.2117579908675799,
+    "punctuation_frequency": 8.082191780821917,
+    "first_person_frequency": 3.002283105022831
+  },
+  "user_a57e47b1": {
+    "avg_sentence_length": 12.324447829398325,
+    "avg_word_length": 4.468977876653072,
+    "ttr": 0.21004820170559882,
+    "punctuation_frequency": 14.268940798417995,
+    "first_person_frequency": 1.9589667531825485
+  },
+  "user_a6a094cf": {
+    "avg_sentence_length": 12.036789297658864,
+    "avg_word_length": 4.1561544873575995,
+    "ttr": 0.3036954709641567,
+    "punctuation_frequency": 13.5037510419561,
+    "first_person_frequency": 2.8341205890525143
+  },
+  "user_a743aff9": {
+    "avg_sentence_length": 19.72159428911362,
+    "avg_word_length": 4.140202702702703,
+    "ttr": 0.12777509652509653,
+    "punctuation_frequency": 8.150337837837837,
+    "first_person_frequency": 2.3829633204633205
+  },
+  "user_a8dc91a3": {
+    "avg_sentence_length": 8.844189682126107,
+    "avg_word_length": 4.4162738628329015,
+    "ttr": 0.21771152486448267,
+    "punctuation_frequency": 18.271270327598398,
+    "first_person_frequency": 2.7869432005656374
+  },
+  "user_a973cf8e": {
+    "avg_sentence_length": 11.005314009661836,
+    "avg_word_length": 4.429261226460647,
+    "ttr": 0.19428471094332997,
+    "punctuation_frequency": 16.75958035204776,
+    "first_person_frequency": 2.9278784952372594
+  },
+  "user_a9ed5193": {
+    "avg_sentence_length": 12.151624548736462,
+    "avg_word_length": 4.423945335710042,
+    "ttr": 0.20157456922162806,
+    "punctuation_frequency": 13.695781342840165,
+    "first_person_frequency": 2.381659734600911
+  },
+  "user_aa4cc34a": {
+    "avg_sentence_length": 12.798076923076923,
+    "avg_word_length": 4.232719759579264,
+    "ttr": 0.3046581517655898,
+    "punctuation_frequency": 10.649887302779865,
+    "first_person_frequency": 2.5169045830202856
+  },
+  "user_aaa1e595": {
+    "avg_sentence_length": 12.93290734824281,
+    "avg_word_length": 4.244647562582345,
+    "ttr": 0.18478260869565216,
+    "punctuation_frequency": 11.470685111989459,
+    "first_person_frequency": 2.4868247694334653
+  },
+  "user_ab434739": {
+    "avg_sentence_length": 14.887686062246278,
+    "avg_word_length": 4.2507725868024,
+    "ttr": 0.19051081621523358,
+    "punctuation_frequency": 11.361570623522995,
+    "first_person_frequency": 2.4813670241774224
+  },
+  "user_ab439a92": {
+    "avg_sentence_length": 17.100506756756758,
+    "avg_word_length": 4.259939744159628,
+    "ttr": 0.17454437694473254,
+    "punctuation_frequency": 12.303057243048352,
+    "first_person_frequency": 1.1754827875734677
+  },
+  "user_ab5592eb": {
+    "avg_sentence_length": 11.763951473136915,
+    "avg_word_length": 4.488700315271516,
+    "ttr": 0.14490703909956099,
+    "punctuation_frequency": 13.09113409352073,
+    "first_person_frequency": 1.532160641150299
+  },
+  "user_ab8e847b": {
+    "avg_sentence_length": 11.012771392081737,
+    "avg_word_length": 4.224051954076308,
+    "ttr": 0.14745448219877072,
+    "punctuation_frequency": 15.563029108199004,
+    "first_person_frequency": 4.105299779659052
+  },
+  "user_abde0618": {
+    "avg_sentence_length": 15.78125,
+    "avg_word_length": 4.249271986022132,
+    "ttr": 0.2794408852649971,
+    "punctuation_frequency": 11.228887594641817,
+    "first_person_frequency": 2.492719860221316
+  },
+  "user_ac6d6bff": {
+    "avg_sentence_length": 15.28159645232816,
+    "avg_word_length": 4.289248403946605,
+    "ttr": 0.1939930354033662,
+    "punctuation_frequency": 9.336912362159024,
+    "first_person_frequency": 3.032501450957632
+  },
+  "user_ac6e9129": {
+    "avg_sentence_length": 14.98859166011015,
+    "avg_word_length": 4.451562951103646,
+    "ttr": 0.10516784336369124,
+    "punctuation_frequency": 9.655914542925382,
+    "first_person_frequency": 1.6141308627070157
+  },
+  "user_acb51eed": {
+    "avg_sentence_length": 11.886726893676164,
+    "avg_word_length": 4.4864659456299325,
+    "ttr": 0.21970184156679334,
+    "punctuation_frequency": 12.32972814966384,
+    "first_person_frequency": 1.929260450160772
+  },
+  "user_acb899e9": {
+    "avg_sentence_length": 11.325301204819278,
+    "avg_word_length": 4.108915906788247,
+    "ttr": 0.16438703140830802,
+    "punctuation_frequency": 15.400202634245188,
+    "first_person_frequency": 4.832826747720365
+  },
+  "user_acd6ddfb": {
+    "avg_sentence_length": 16.201227830832195,
+    "avg_word_length": 4.570544398130605,
+    "ttr": 0.2059281714454128,
+    "punctuation_frequency": 8.698581112374216,
+    "first_person_frequency": 1.5115153046187528
+  },
+  "user_ad15a0a4": {
+    "avg_sentence_length": 14.67228177641654,
+    "avg_word_length": 4.4687402150088715,
+    "ttr": 0.27898966704936856,
+    "punctuation_frequency": 11.11574992172007,
+    "first_person_frequency": 2.2127126604738545
+  },
+  "user_b1c16312": {
+    "avg_sentence_length": 9.914552736982644,
+    "avg_word_length": 4.210342041475895,
+    "ttr": 0.1622677080527875,
+    "punctuation_frequency": 16.08537570697549,
+    "first_person_frequency": 2.942364664691624
+  },
+  "user_b23aa915": {
+    "avg_sentence_length": 10.152658662092625,
+    "avg_word_length": 4.1033958438925495,
+    "ttr": 0.1982598411893901,
+    "punctuation_frequency": 15.188376414934957,
+    "first_person_frequency": 6.394661260348032
+  },
+  "user_b2aba63a": {
+    "avg_sentence_length": 15.279959718026184,
+    "avg_word_length": 4.295590852171621,
+    "ttr": 0.19205167073090357,
+    "punctuation_frequency": 8.956699400250445,
+    "first_person_frequency": 2.8998879588743165
+  },
+  "user_b2dd04c8": {
+    "avg_sentence_length": 10.328451882845188,
+    "avg_word_length": 4.131152521774357,
+    "ttr": 0.22493417054891635,
+    "punctuation_frequency": 13.398825197488353,
+    "first_person_frequency": 4.739720478023091
+  },
+  "user_b2f3c0d2": {
+    "avg_sentence_length": 33.95384615384615,
+    "avg_word_length": 4.115390424407189,
+    "ttr": 0.26672708050143484,
+    "punctuation_frequency": 8.155867693701857,
+    "first_person_frequency": 2.054070382117505
+  },
+  "user_b325310b": {
+    "avg_sentence_length": 17.730529595015575,
+    "avg_word_length": 4.531055082140034,
+    "ttr": 0.15057541948519723,
+    "punctuation_frequency": 11.045711441037804,
+    "first_person_frequency": 1.2738293947114117
+  },
+  "user_b337cb0c": {
+    "avg_sentence_length": 8.65273631840796,
+    "avg_word_length": 4.254829806807727,
+    "ttr": 0.29910303587856485,
+    "punctuation_frequency": 15.972861085556577,
+    "first_person_frequency": 2.6793928242870284
+  },
+  "user_b49274ca": {
+    "avg_sentence_length": 12.55928948631781,
+    "avg_word_length": 4.147891900156722,
+    "ttr": 0.1383356905317075,
+    "punctuation_frequency": 13.436030732770154,
+    "first_person_frequency": 3.1306142731546958
+  },
+  "user_b4d7e69a": {
+    "avg_sentence_length": 12.916083916083917,
+    "avg_word_length": 4.4082837033026525,
+    "ttr": 0.20638873849485653,
+    "punctuation_frequency": 12.988630211153222,
+    "first_person_frequency": 2.041147807255008
+  },
+  "user_b4f295b3": {
+    "avg_sentence_length": 11.835660580021482,
+    "avg_word_length": 4.374716398947273,
+    "ttr": 0.23486704782648155,
+    "punctuation_frequency": 10.282239767674017,
+    "first_person_frequency": 1.887648606951629
+  },
+  "user_b563e90b": {
+    "avg_sentence_length": 16.116402116402117,
+    "avg_word_length": 4.283650689428759,
+    "ttr": 0.29990151017728167,
+    "punctuation_frequency": 8.617859487852922,
+    "first_person_frequency": 1.953381483913329
+  },
+  "user_b5af9db9": {
+    "avg_sentence_length": 15.195696721311476,
+    "avg_word_length": 4.210505023262086,
+    "ttr": 0.21198840267008293,
+    "punctuation_frequency": 10.322972152922933,
+    "first_person_frequency": 2.0227901018137686
+  },
+  "user_b628264a": {
+    "avg_sentence_length": 17.170283806343907,
+    "avg_word_length": 4.268935342732134,
+    "ttr": 0.23364122508507534,
+    "punctuation_frequency": 8.925619834710744,
+    "first_person_frequency": 2.5765678172095283
+  },
+  "user_b6350ec1": {
+    "avg_sentence_length": 14.148125384142594,
+    "avg_word_length": 4.473130891871932,
+    "ttr": 0.1556540249359225,
+    "punctuation_frequency": 12.146487684087058,
+    "first_person_frequency": 1.9766280029540815
+  },
+  "user_b63ea1d4": {
+    "avg_sentence_length": 17.715107161526397,
+    "avg_word_length": 4.584880049573608,
+    "ttr": 0.15639292985924635,
+    "punctuation_frequency": 12.629466788633481,
+    "first_person_frequency": 1.404585558735873
+  },
+  "user_b6b89f00": {
+    "avg_sentence_length": 12.541912246234446,
+    "avg_word_length": 4.502258308748662,
+    "ttr": 0.11690990261859384,
+    "punctuation_frequency": 12.03822154922591,
+    "first_person_frequency": 1.7178811059185963
+  },
+  "user_b7ba6422": {
+    "avg_sentence_length": 11.448868778280543,
+    "avg_word_length": 4.243538060232392,
+    "ttr": 0.20812583985455696,
+    "punctuation_frequency": 15.540273496166309,
+    "first_person_frequency": 4.323768872025926
+  },
+  "user_b888c512": {
+    "avg_sentence_length": 10.558912386706949,
+    "avg_word_length": 4.387639484978541,
+    "ttr": 0.1957653791130186,
+    "punctuation_frequency": 15.959942775393419,
+    "first_person_frequency": 3.565092989985694
+  },
+  "user_b8f24804": {
+    "avg_sentence_length": 14.49525893508388,
+    "avg_word_length": 4.254767775373622,
+    "ttr": 0.18507522769586876,
+    "punctuation_frequency": 11.014944900115735,
+    "first_person_frequency": 3.1147788456700045
+  },
+  "user_b9036662": {
+    "avg_sentence_length": 14.040675844806007,
+    "avg_word_length": 4.350358782368409,
+    "ttr": 0.16178633507153362,
+    "punctuation_frequency": 12.666577528190043,
+    "first_person_frequency": 3.066363595846147
+  },
+  "user_ba010eec": {
+    "avg_sentence_length": 11.293987865416437,
+    "avg_word_length": 4.316028521195546,
+    "ttr": 0.16062707560070327,
+    "punctuation_frequency": 12.746630201211174,
+    "first_person_frequency": 2.471185778472358
+  },
+  "user_ba463257": {
+    "avg_sentence_length": 19.340842311459355,
+    "avg_word_length": 4.537398085785183,
+    "ttr": 0.2130956601002684,
+    "punctuation_frequency": 7.084620448675747,
+    "first_person_frequency": 2.7345925963437483
+  },
+  "user_ba8b1c05": {
+    "avg_sentence_length": 25.882867132867133,
+    "avg_word_length": 4.228368794326241,
+    "ttr": 0.18203309692671396,
+    "punctuation_frequency": 6.923336710570753,
+    "first_person_frequency": 1.8777440054035799
+  },
+  "user_baeb91b3": {
+    "avg_sentence_length": 17.773333333333333,
+    "avg_word_length": 4.246538907454136,
+    "ttr": 0.19082043238082247,
+    "punctuation_frequency": 10.495805769624225,
+    "first_person_frequency": 1.8004501125281318
+  },
+  "user_baf68fe9": {
+    "avg_sentence_length": 7.044959772834832,
+    "avg_word_length": 4.881919252989386,
+    "ttr": 0.0960298266827892,
+    "punctuation_frequency": 17.744860943168078,
+    "first_person_frequency": 0.4450490393658471
+  },
+  "user_bb8be7e3": {
+    "avg_sentence_length": 13.436559139784947,
+    "avg_word_length": 4.243629961587708,
+    "ttr": 0.11670934699103713,
+    "punctuation_frequency": 11.891805377720871,
+    "first_person_frequency": 2.7304737516005124
+  },
+  "user_bbcbf015": {
+    "avg_sentence_length": 19.716666666666665,
+    "avg_word_length": 4.374154691462384,
+    "ttr": 0.21946322907861368,
+    "punctuation_frequency": 6.920963651732882,
+    "first_person_frequency": 1.7857142857142856
+  },
+  "user_bbe73426": {
+    "avg_sentence_length": 12.873864783047427,
+    "avg_word_length": 4.351857657940116,
+    "ttr": 0.24870669383915975,
+    "punctuation_frequency": 14.069603386110677,
+    "first_person_frequency": 4.122903276375608
+  },
+  "user_bd19a016": {
+    "avg_sentence_length": 12.97827661115134,
+    "avg_word_length": 4.3123361044468,
+    "ttr": 0.20030128884673326,
+    "punctuation_frequency": 12.944261563354347,
+    "first_person_frequency": 2.6781230820733137
+  },
+  "user_bd47000f": {
+    "avg_sentence_length": 9.159309021113243,
+    "avg_word_length": 4.056580050293378,
+    "ttr": 0.2845766974015088,
+    "punctuation_frequency": 25.230511316010055,
+    "first_person_frequency": 4.42162615255658
+  },
+  "user_bdcc6e7d": {
+    "avg_sentence_length": 13.805445761967501,
+    "avg_word_length": 4.386320979799587,
+    "ttr": 0.1248926355972642,
+    "punctuation_frequency": 10.071576268490535,
+    "first_person_frequency": 2.373150946397328
+  },
+  "user_be06391b": {
+    "avg_sentence_length": 8.244559585492228,
+    "avg_word_length": 4.14291101055807,
+    "ttr": 0.24912016088486677,
+    "punctuation_frequency": 15.372046254399196,
+    "first_person_frequency": 3.6701860231272
+  },
+  "user_beca29a3": {
+    "avg_sentence_length": 13.578574799433696,
+    "avg_word_length": 4.353630139366768,
+    "ttr": 0.11166718798873944,
+    "punctuation_frequency": 13.42925659472422,
+    "first_person_frequency": 3.075800229381712
+  },
+  "user_bf30f80d": {
+    "avg_sentence_length": 19.232675771370765,
+    "avg_word_length": 4.448912500328748,
+    "ttr": 0.12239960024195881,
+    "punctuation_frequency": 8.563238040133603,
+    "first_person_frequency": 1.7910212239960026
+  },
+  "user_c008345b": {
+    "avg_sentence_length": 11.790476190476191,
+    "avg_word_length": 4.197989588942739,
+    "ttr": 0.2222222222222222,
+    "punctuation_frequency": 12.79842039131215,
+    "first_person_frequency": 2.432238377311075
+  },
+  "user_c0392523": {
+    "avg_sentence_length": 12.471578947368421,
+    "avg_word_length": 4.2187711006076976,
+    "ttr": 0.2461174881836597,
+    "punctuation_frequency": 11.419648885887913,
+    "first_person_frequency": 4.296083727211344
+  },
+  "user_c06d9b71": {
+    "avg_sentence_length": 12.24056603773585,
+    "avg_word_length": 4.378420038535645,
+    "ttr": 0.24770712909441234,
+    "punctuation_frequency": 11.791907514450866,
+    "first_person_frequency": 2.5125240847784203
+  },
+  "user_c0eba9f2": {
+    "avg_sentence_length": 10.794871794871796,
+    "avg_word_length": 4.229528691086386,
+    "ttr": 0.29791223902987873,
+    "punctuation_frequency": 11.501437679709964,
+    "first_person_frequency": 2.687835979497437
+  },
+  "user_c130412b": {
+    "avg_sentence_length": 18.013085052843483,
+    "avg_word_length": 4.30981783638802,
+    "ttr": 0.10982901206973625,
+    "punctuation_frequency": 7.607845328565042,
+    "first_person_frequency": 1.8886902101028162
+  },
+  "user_c154e834": {
+    "avg_sentence_length": 13.52824184566428,
+    "avg_word_length": 4.1706556895030875,
+    "ttr": 0.19952955013231402,
+    "punctuation_frequency": 13.249044398706264,
+    "first_person_frequency": 2.381652455160247
+  },
+  "user_c157ca97": {
+    "avg_sentence_length": 14.216494845360824,
+    "avg_word_length": 4.487083031182016,
+    "ttr": 0.17290609137055837,
+    "punctuation_frequency": 12.504532269760697,
+    "first_person_frequency": 3.394670050761421
+  },
+  "user_c204a1dd": {
+    "avg_sentence_length": 65.12631578947368,
+    "avg_word_length": 4.298690803297236,
+    "ttr": 0.30822692742847907,
+    "punctuation_frequency": 2.5052529497333116,
+    "first_person_frequency": 3.329561984806853
+  },
+  "user_c2f18cf7": {
+    "avg_sentence_length": 12.580193756727665,
+    "avg_word_length": 4.368015743989048,
+    "ttr": 0.2235817575083426,
+    "punctuation_frequency": 10.918114143920596,
+    "first_person_frequency": 2.0877898519722766
+  },
+  "user_c3040c7c": {
+    "avg_sentence_length": 9.752293577981652,
+    "avg_word_length": 4.190733772342427,
+    "ttr": 0.25658513640639696,
+    "punctuation_frequency": 12.558795860771403,
+    "first_person_frequency": 3.3984007525870177
+  },
+  "user_c39d41d7": {
+    "avg_sentence_length": 11.23812351543943,
+    "avg_word_length": 4.37220607661823,
+    "ttr": 0.17997357992073976,
+    "punctuation_frequency": 12.92998678996037,
+    "first_person_frequency": 1.2311756935270806
+  },
+  "user_c41de62b": {
+    "avg_sentence_length": 12.550925925925926,
+    "avg_word_length": 4.418148284765769,
+    "ttr": 0.20199188491331613,
+    "punctuation_frequency": 11.02176318701586,
+    "first_person_frequency": 1.2984138694208778
+  },
+  "user_c4c70447": {
+    "avg_sentence_length": 11.918176139912555,
+    "avg_word_length": 4.532204811068603,
+    "ttr": 0.19909857973900738,
+    "punctuation_frequency": 11.666055238195062,
+    "first_person_frequency": 1.5879670876788428
+  },
+  "user_c50a487d": {
+    "avg_sentence_length": 14.946346280447663,
+    "avg_word_length": 4.411720659810161,
+    "ttr": 0.11808751954544454,
+    "punctuation_frequency": 11.87041645561257,
+    "first_person_frequency": 2.18028057347986
+  },
+  "user_c536b01d": {
+    "avg_sentence_length": 13.309451219512194,
+    "avg_word_length": 4.1582865651128165,
+    "ttr": 0.12590195853854083,
+    "punctuation_frequency": 14.786393311190013,
+    "first_person_frequency": 3.1525598442331924
+  },
+  "user_c59ebe9c": {
+    "avg_sentence_length": 16.460069444444443,
+    "avg_word_length": 4.322117920050627,
+    "ttr": 0.22276131209787997,
+    "punctuation_frequency": 9.081320535808459,
+    "first_person_frequency": 2.7634215800021096
+  },
+  "user_c5c57a9d": {
+    "avg_sentence_length": 11.406374501992032,
+    "avg_word_length": 4.263651181744091,
+    "ttr": 0.19577366398882293,
+    "punctuation_frequency": 15.56060076842473,
+    "first_person_frequency": 4.092443823495168
+  },
+  "user_c5f32c0d": {
+    "avg_sentence_length": 7.094300518134715,
+    "avg_word_length": 4.197195442594215,
+    "ttr": 0.2608822670172363,
+    "punctuation_frequency": 17.7621969033012,
+    "first_person_frequency": 4.732690622261174
+  },
+  "user_c60d65b5": {
+    "avg_sentence_length": 14.314453125,
+    "avg_word_length": 4.385546004457179,
+    "ttr": 0.1738754718697412,
+    "punctuation_frequency": 10.378860235593761,
+    "first_person_frequency": 2.1967526265520534
+  },
+  "user_c67f26cc": {
+    "avg_sentence_length": 22.633431085043988,
+    "avg_word_length": 4.304353459445452,
+    "ttr": 0.20484581497797358,
+    "punctuation_frequency": 9.458408914226483,
+    "first_person_frequency": 4.042498056491319
+  },
+  "user_c709e252": {
+    "avg_sentence_length": 13.46111111111111,
+    "avg_word_length": 4.366900536524969,
+    "ttr": 0.25315724308708215,
+    "punctuation_frequency": 13.00041271151465,
+    "first_person_frequency": 2.756912917870409
+  },
+  "user_c809e3d2": {
+    "avg_sentence_length": 10.640038498556304,
+    "avg_word_length": 4.107553143374039,
+    "ttr": 0.2308457711442786,
+    "punctuation_frequency": 13.215739484396199,
+    "first_person_frequency": 4.703753957485301
+  },
+  "user_c81fae29": {
+    "avg_sentence_length": 18.93069306930693,
+    "avg_word_length": 4.1487970711297075,
+    "ttr": 0.2186192468619247,
+    "punctuation_frequency": 8.394351464435147,
+    "first_person_frequency": 2.092050209205021
+  },
+  "user_c883258f": {
+    "avg_sentence_length": 30.06382978723404,
+    "avg_word_length": 4.310969568294409,
+    "ttr": 0.2645435244161359,
+    "punctuation_frequency": 6.029723991507431,
+    "first_person_frequency": 1.1606510969568293
+  },
+  "user_c8e749e2": {
+    "avg_sentence_length": 10.730532786885245,
+    "avg_word_length": 4.186765969636207,
+    "ttr": 0.2741334861071326,
+    "punctuation_frequency": 15.89802348897164,
+    "first_person_frequency": 3.0077341735892293
+  },
+  "user_c903d3bb": {
+    "avg_sentence_length": 12.241750358680058,
+    "avg_word_length": 4.305361851743334,
+    "ttr": 0.18658072077351304,
+    "punctuation_frequency": 12.341048930559625,
+    "first_person_frequency": 2.601816583650747
+  },
+  "user_c96b90fe": {
+    "avg_sentence_length": 13.169590643274853,
+    "avg_word_length": 4.56197665567115,
+    "ttr": 0.2225323521948744,
+    "punctuation_frequency": 11.856127886323268,
+    "first_person_frequency": 0.8436944937833037
+  },
+  "user_c994138f": {
+    "avg_sentence_length": 11.769814502529512,
+    "avg_word_length": 4.301382620531557,
+    "ttr": 0.22394154309047926,
+    "punctuation_frequency": 13.503832652768825,
+    "first_person_frequency": 3.9544379969911883
+  },
+  "user_caa6a7b6": {
+    "avg_sentence_length": 12.919418758256274,
+    "avg_word_length": 4.1067484662576685,
+    "ttr": 0.21134969325153374,
+    "punctuation_frequency": 10.480572597137014,
+    "first_person_frequency": 4.130879345603272
+  },
+  "user_caebed72": {
+    "avg_sentence_length": 12.018808777429467,
+    "avg_word_length": 4.540688575899844,
+    "ttr": 0.23408972352634325,
+    "punctuation_frequency": 11.489306207616066,
+    "first_person_frequency": 0.9846113719353156
+  },
+  "user_cb2fe204": {
+    "avg_sentence_length": 11.479823106688778,
+    "avg_word_length": 4.1420522945057066,
+    "ttr": 0.177204218230847,
+    "punctuation_frequency": 11.118601627582223,
+    "first_person_frequency": 4.184523522896904
+  },
+  "user_cb8245f7": {
+    "avg_sentence_length": 10.953942777390091,
+    "avg_word_length": 4.320252277505256,
+    "ttr": 0.20628145505510606,
+    "punctuation_frequency": 14.779894247308404,
+    "first_person_frequency": 1.8602280690577815
+  },
+  "user_cdd86523": {
+    "avg_sentence_length": 14.653504091070793,
+    "avg_word_length": 4.299094462382559,
+    "ttr": 0.1446918016071472,
+    "punctuation_frequency": 10.558131630696026,
+    "first_person_frequency": 2.7069019931538443
+  },
+  "user_cf393213": {
+    "avg_sentence_length": 9.300524934383201,
+    "avg_word_length": 4.000987724001694,
+    "ttr": 0.22117962466487937,
+    "punctuation_frequency": 13.531818823197403,
+    "first_person_frequency": 4.261323550162269
+  },
+  "user_d023a78e": {
+    "avg_sentence_length": 9.936960276338514,
+    "avg_word_length": 4.449552446337012,
+    "ttr": 0.25792995567915183,
+    "punctuation_frequency": 13.539584600677848,
+    "first_person_frequency": 2.1899713218041192
+  },
+  "user_d036c911": {
+    "avg_sentence_length": 15.82680412371134,
+    "avg_word_length": 4.434015112037519,
+    "ttr": 0.18798853569567484,
+    "punctuation_frequency": 7.87519541427827,
+    "first_person_frequency": 2.084418968212611
+  },
+  "user_d074356a": {
+    "avg_sentence_length": 12.43039126478617,
+    "avg_word_length": 4.106727179562258,
+    "ttr": 0.2006441695337091,
+    "punctuation_frequency": 13.490959666203059,
+    "first_person_frequency": 3.1330063684942537
+  },
+  "user_d10d1f24": {
+    "avg_sentence_length": 8.920143027413587,
+    "avg_word_length": 4.27605558524853,
+    "ttr": 0.3003741314804917,
+    "punctuation_frequency": 16.702298236237308,
+    "first_person_frequency": 3.9016568679850345
+  },
+  "user_d14b7d7b": {
+    "avg_sentence_length": 12.299418604651162,
+    "avg_word_length": 4.0921767903568895,
+    "ttr": 0.21590640510517609,
+    "punctuation_frequency": 12.242968565350981,
+    "first_person_frequency": 5.1051760813046565
+  },
+  "user_d1d16d30": {
+    "avg_sentence_length": 13.029835651074588,
+    "avg_word_length": 4.323443230551297,
+    "ttr": 0.09997477344614131,
+    "punctuation_frequency": 13.42828866939631,
+    "first_person_frequency": 1.7445132245357344
+  },
+  "user_d2c97c8e": {
+    "avg_sentence_length": 13.882447665056361,
+    "avg_word_length": 4.1886672079805125,
+    "ttr": 0.19788887600046398,
+    "punctuation_frequency": 11.274794107412134,
+    "first_person_frequency": 3.688667207980513
+  },
+  "user_d4b7e22e": {
+    "avg_sentence_length": 12.034602076124568,
+    "avg_word_length": 4.201073413839372,
+    "ttr": 0.2098907418056354,
+    "punctuation_frequency": 12.727621238259538,
+    "first_person_frequency": 2.415181138585394
+  },
+  "user_d50d7985": {
+    "avg_sentence_length": 11.326011560693642,
+    "avg_word_length": 4.2851893436766355,
+    "ttr": 0.24191078901704605,
+    "punctuation_frequency": 14.269674390119425,
+    "first_person_frequency": 2.664080841073798
+  },
+  "user_d5d4fc6e": {
+    "avg_sentence_length": 11.37620103473762,
+    "avg_word_length": 4.297232328482329,
+    "ttr": 0.21673596673596673,
+    "punctuation_frequency": 11.044698544698544,
+    "first_person_frequency": 2.332380457380457
+  },
+  "user_d761140c": {
+    "avg_sentence_length": 9.596055514974434,
+    "avg_word_length": 4.198675496688741,
+    "ttr": 0.20956078252264596,
+    "punctuation_frequency": 11.204993529725202,
+    "first_person_frequency": 1.7355560630280886
+  },
+  "user_d849ac6e": {
+    "avg_sentence_length": 11.35501567398119,
+    "avg_word_length": 4.4983090620470705,
+    "ttr": 0.22575747118503692,
+    "punctuation_frequency": 13.06508385671889,
+    "first_person_frequency": 2.1188487818344948
+  },
+  "user_d955d7e2": {
+    "avg_sentence_length": 22.445983379501385,
+    "avg_word_length": 4.489448352462051,
+    "ttr": 0.283598667160311,
+    "punctuation_frequency": 8.009379242255953,
+    "first_person_frequency": 2.196717265210416
+  },
+  "user_da51dede": {
+    "avg_sentence_length": 15.514657980456025,
+    "avg_word_length": 4.495066134788998,
+    "ttr": 0.27713625866050806,
+    "punctuation_frequency": 9.82574007978165,
+    "first_person_frequency": 1.7111064455175309
+  },
+  "user_dac2c359": {
+    "avg_sentence_length": 16.575091575091577,
+    "avg_word_length": 4.381657458563536,
+    "ttr": 0.24640883977900552,
+    "punctuation_frequency": 10.67403314917127,
+    "first_person_frequency": 3.259668508287293
+  },
+  "user_daf37424": {
+    "avg_sentence_length": 17.55226480836237,
+    "avg_word_length": 4.35166253101737,
+    "ttr": 0.10011579818031431,
+    "punctuation_frequency": 12.345740281224153,
+    "first_person_frequency": 1.814722911497105
+  },
+  "user_db4c3fb9": {
+    "avg_sentence_length": 13.465979381443299,
+    "avg_word_length": 4.257387842596846,
+    "ttr": 0.3177155106415557,
+    "punctuation_frequency": 13.826366559485532,
+    "first_person_frequency": 2.4192313581381106
+  },
+  "user_dbbf562e": {
+    "avg_sentence_length": 11.194260485651213,
+    "avg_word_length": 3.9705186353776374,
+    "ttr": 0.21839873792151449,
+    "punctuation_frequency": 16.850719779136263,
+    "first_person_frequency": 3.5002957996450403
+  },
+  "user_dc326993": {
+    "avg_sentence_length": 12.79029304029304,
+    "avg_word_length": 4.113624973150999,
+    "ttr": 0.22452924751199255,
+    "punctuation_frequency": 13.123791794945227,
+    "first_person_frequency": 4.847139686403666
+  },
+  "user_dc32d458": {
+    "avg_sentence_length": 22.927710843373493,
+    "avg_word_length": 4.378481345244351,
+    "ttr": 0.26852338413032056,
+    "punctuation_frequency": 6.6473988439306355,
+    "first_person_frequency": 2.2595901208617972
+  },
+  "user_dca78fea": {
+    "avg_sentence_length": 11.179941002949853,
+    "avg_word_length": 4.296218117854002,
+    "ttr": 0.2264731750219877,
+    "punctuation_frequency": 12.005277044854882,
+    "first_person_frequency": 2.8847845206684255
+  },
+  "user_dd0bd02d": {
+    "avg_sentence_length": 12.59576901086335,
+    "avg_word_length": 4.4494779845665,
+    "ttr": 0.17212891511575124,
+    "punctuation_frequency": 11.457103949160235,
+    "first_person_frequency": 1.7839310031774853
+  },
+  "user_df8dc9bb": {
+    "avg_sentence_length": 15.14119922630561,
+    "avg_word_length": 4.224578436382218,
+    "ttr": 0.2715891670924885,
+    "punctuation_frequency": 8.712314767501278,
+    "first_person_frequency": 2.874297393970363
+  },
+  "user_dffc0da5": {
+    "avg_sentence_length": 29.439873417721518,
+    "avg_word_length": 4.006234547995271,
+    "ttr": 0.26421584435128453,
+    "punctuation_frequency": 6.965495001612383,
+    "first_person_frequency": 3.7192303557992044
+  },
+  "user_e0c65725": {
+    "avg_sentence_length": 14.340425531914894,
+    "avg_word_length": 4.349311420528037,
+    "ttr": 0.17796545689720764,
+    "punctuation_frequency": 11.728676862208019,
+    "first_person_frequency": 1.723350833143118
+  },
+  "user_e10c98bb": {
+    "avg_sentence_length": 9.77265625,
+    "avg_word_length": 4.315292989047886,
+    "ttr": 0.1419777760012791,
+    "punctuation_frequency": 14.597489807338714,
+    "first_person_frequency": 6.323447118074986
+  },
+  "user_e14b88a8": {
+    "avg_sentence_length": 15.669186046511628,
+    "avg_word_length": 4.272680048977774,
+    "ttr": 0.13383547920299804,
+    "punctuation_frequency": 9.75102964639531,
+    "first_person_frequency": 2.719750658602649
+  },
+  "user_e1730a9c": {
+    "avg_sentence_length": 12.1651376146789,
+    "avg_word_length": 4.428704025989094,
+    "ttr": 0.18140155470472213,
+    "punctuation_frequency": 11.294813783501565,
+    "first_person_frequency": 2.245040027845458
+  },
+  "user_e409a56d": {
+    "avg_sentence_length": 11.577551020408164,
+    "avg_word_length": 4.307068570421293,
+    "ttr": 0.19442975497972853,
+    "punctuation_frequency": 13.032493095951583,
+    "first_person_frequency": 1.445443328045126
+  },
+  "user_e4ab67b6": {
+    "avg_sentence_length": 23.366666666666667,
+    "avg_word_length": 4.139621968616263,
+    "ttr": 0.16577508321445553,
+    "punctuation_frequency": 9.432952924393723,
+    "first_person_frequency": 2.8649548264384213
+  },
+  "user_e4f8ab0c": {
+    "avg_sentence_length": 15.051732101616627,
+    "avg_word_length": 4.474023383557861,
+    "ttr": 0.17129530180746924,
+    "punctuation_frequency": 11.866695307944886,
+    "first_person_frequency": 1.5128732316567957
+  },
+  "user_e51692a6": {
+    "avg_sentence_length": 14.008620689655173,
+    "avg_word_length": 4.1513846153846155,
+    "ttr": 0.32353846153846155,
+    "punctuation_frequency": 11.815384615384614,
+    "first_person_frequency": 3.4769230769230766
+  },
+  "user_e59c000f": {
+    "avg_sentence_length": 11.900087642418931,
+    "avg_word_length": 4.250405067020179,
+    "ttr": 0.2076152599793784,
+    "punctuation_frequency": 12.225659154514656,
+    "first_person_frequency": 3.417292679334217
+  },
+  "user_e5f67397": {
+    "avg_sentence_length": 19.950071326676177,
+    "avg_word_length": 4.337289953521631,
+    "ttr": 0.19699678226671433,
+    "punctuation_frequency": 10.275294958884519,
+    "first_person_frequency": 1.63031819806936
+  },
+  "user_e64d80ba": {
+    "avg_sentence_length": 10.83838383838384,
+    "avg_word_length": 4.139701770736253,
+    "ttr": 0.2615097856477167,
+    "punctuation_frequency": 15.1071761416589,
+    "first_person_frequency": 3.401677539608574
+  },
+  "user_e6dd44b0": {
+    "avg_sentence_length": 12.418039215686274,
+    "avg_word_length": 4.765047685214426,
+    "ttr": 0.20570959388618706,
+    "punctuation_frequency": 11.760247584159666,
+    "first_person_frequency": 2.842165098212594
+  },
+  "user_e7a55eac": {
+    "avg_sentence_length": 12.985751295336788,
+    "avg_word_length": 4.186733167082294,
+    "ttr": 0.25296758104738154,
+    "punctuation_frequency": 13.087281795511222,
+    "first_person_frequency": 3.4912718204488775
+  },
+  "user_e802076d": {
+    "avg_sentence_length": 13.214117647058824,
+    "avg_word_length": 4.46025641025641,
+    "ttr": 0.1787749287749288,
+    "punctuation_frequency": 15.594729344729345,
+    "first_person_frequency": 1.6987179487179487
+  },
+  "user_e838707b": {
+    "avg_sentence_length": 15.674418604651162,
+    "avg_word_length": 4.200034910106476,
+    "ttr": 0.1893000523651597,
+    "punctuation_frequency": 9.495548961424333,
+    "first_person_frequency": 6.004538313841857
+  },
+  "user_e8613813": {
+    "avg_sentence_length": 15.598615916955017,
+    "avg_word_length": 4.303599157054126,
+    "ttr": 0.13706188997338065,
+    "punctuation_frequency": 10.825199645075422,
+    "first_person_frequency": 3.086180124223602
+  },
+  "user_e88c308b": {
+    "avg_sentence_length": 12.944353518821604,
+    "avg_word_length": 4.439941838411936,
+    "ttr": 0.19591604501201162,
+    "punctuation_frequency": 15.760525983057278,
+    "first_person_frequency": 1.3781767606524213
+  },
+  "user_e8a7be73": {
+    "avg_sentence_length": 10.035509736540664,
+    "avg_word_length": 4.152265723090971,
+    "ttr": 0.24323707339344824,
+    "punctuation_frequency": 15.443442529391621,
+    "first_person_frequency": 3.629722634402466
+  },
+  "user_e8e9acac": {
+    "avg_sentence_length": 13.790214477211796,
+    "avg_word_length": 4.279659781287971,
+    "ttr": 0.16962332928311058,
+    "punctuation_frequency": 10.605103280680437,
+    "first_person_frequency": 2.5419198055893077
+  },
+  "user_e9d1886c": {
+    "avg_sentence_length": 13.926857142857143,
+    "avg_word_length": 4.323157721976038,
+    "ttr": 0.22123748563925816,
+    "punctuation_frequency": 13.458066633842114,
+    "first_person_frequency": 3.7502051534547847
+  },
+  "user_ea67f9c6": {
+    "avg_sentence_length": 12.144039735099337,
+    "avg_word_length": 4.3896387184730745,
+    "ttr": 0.3008861622358555,
+    "punctuation_frequency": 11.23381049761418,
+    "first_person_frequency": 2.39945466939332
+  },
+  "user_ebe17c78": {
+    "avg_sentence_length": 10.948692152917506,
+    "avg_word_length": 4.412478176973261,
+    "ttr": 0.2303592759349444,
+    "punctuation_frequency": 14.306716897914178,
+    "first_person_frequency": 1.2588440687310485
+  },
+  "user_ec574395": {
+    "avg_sentence_length": 9.980306345733041,
+    "avg_word_length": 4.291968135642769,
+    "ttr": 0.19980998319082072,
+    "punctuation_frequency": 17.07227947087627,
+    "first_person_frequency": 2.8356354600599283
+  },
+  "user_ecba8131": {
+    "avg_sentence_length": 10.568776371308017,
+    "avg_word_length": 4.256228042159055,
+    "ttr": 0.2421750239540083,
+    "punctuation_frequency": 13.909294155221975,
+    "first_person_frequency": 3.9124880229958476
+  },
+  "user_ecc1ca0a": {
+    "avg_sentence_length": 12.101234567901235,
+    "avg_word_length": 4.1632319934707205,
+    "ttr": 0.3166700673331973,
+    "punctuation_frequency": 13.691083452356661,
+    "first_person_frequency": 2.1628239134870433
+  },
+  "user_ed1aaed8": {
+    "avg_sentence_length": 16.04132901134522,
+    "avg_word_length": 4.415508966910836,
+    "ttr": 0.18555190704723415,
+    "punctuation_frequency": 10.527911088658753,
+    "first_person_frequency": 2.6168224299065423
+  },
+  "user_ee05ee55": {
+    "avg_sentence_length": 14.494002181025081,
+    "avg_word_length": 4.397712737942969,
+    "ttr": 0.19832969678729967,
+    "punctuation_frequency": 11.42878639680987,
+    "first_person_frequency": 2.392596493868031
+  },
+  "user_ee14f818": {
+    "avg_sentence_length": 10.804428044280442,
+    "avg_word_length": 4.261475409836065,
+    "ttr": 0.20703551912568305,
+    "punctuation_frequency": 15.040983606557376,
+    "first_person_frequency": 3.3196721311475406
+  },
+  "user_ee8d5ec5": {
+    "avg_sentence_length": 10.431332655137334,
+    "avg_word_length": 4.276477472205968,
+    "ttr": 0.2392237175736298,
+    "punctuation_frequency": 15.22332748195826,
+    "first_person_frequency": 5.3832650672908136
+  },
+  "user_ef954c6e": {
+    "avg_sentence_length": 11.171774768353528,
+    "avg_word_length": 4.384139339032793,
+    "ttr": 0.2268087278295266,
+    "punctuation_frequency": 14.846242184509379,
+    "first_person_frequency": 2.960316447620263
+  },
+  "user_efcacf59": {
+    "avg_sentence_length": 14.179358237547893,
+    "avg_word_length": 4.271680205360309,
+    "ttr": 0.0964315268606556,
+    "punctuation_frequency": 12.595207133568643,
+    "first_person_frequency": 1.204127472007836
+  },
+  "user_f030b951": {
+    "avg_sentence_length": 19.336184210526316,
+    "avg_word_length": 4.454662992072403,
+    "ttr": 0.16831683168316833,
+    "punctuation_frequency": 10.091524616379163,
+    "first_person_frequency": 1.265693579667245
+  },
+  "user_f070eee7": {
+    "avg_sentence_length": 15.285433070866143,
+    "avg_word_length": 3.996780424983902,
+    "ttr": 0.2464906632324533,
+    "punctuation_frequency": 13.47070186735351,
+    "first_person_frequency": 4.198325820991629
+  },
+  "user_f0b144fc": {
+    "avg_sentence_length": 11.161576354679802,
+    "avg_word_length": 4.234133639332686,
+    "ttr": 0.1414511430841204,
+    "punctuation_frequency": 12.114926295348221,
+    "first_person_frequency": 2.701032747815341
+  },
+  "user_f0cf195f": {
+    "avg_sentence_length": 14.246153846153845,
+    "avg_word_length": 3.826268898488121,
+    "ttr": 0.20612850971922247,
+    "punctuation_frequency": 9.78671706263499,
+    "first_person_frequency": 3.6852051835853135
+  },
+  "user_f107081e": {
+    "avg_sentence_length": 11.420371412492965,
+    "avg_word_length": 4.090125160145856,
+    "ttr": 0.16398935646003746,
+    "punctuation_frequency": 12.929930028579875,
+    "first_person_frequency": 1.7295752439144576
+  },
+  "user_f27da10a": {
+    "avg_sentence_length": 13.081395348837209,
+    "avg_word_length": 4.315619047619047,
+    "ttr": 0.18126984126984128,
+    "punctuation_frequency": 10.406349206349207,
+    "first_person_frequency": 3.0476190476190474
+  },
+  "user_f3377028": {
+    "avg_sentence_length": 11.679824561403509,
+    "avg_word_length": 4.361354004613486,
+    "ttr": 0.19274717021619012,
+    "punctuation_frequency": 13.282549219462474,
+    "first_person_frequency": 2.1619011855587145
+  },
+  "user_f368b9da": {
+    "avg_sentence_length": 11.918186843559978,
+    "avg_word_length": 4.44443413729128,
+    "ttr": 0.18608534322820036,
+    "punctuation_frequency": 10.728200371057515,
+    "first_person_frequency": 1.855287569573284
+  },
+  "user_f43d6008": {
+    "avg_sentence_length": 10.70189925681255,
+    "avg_word_length": 4.199537037037037,
+    "ttr": 0.22183641975308643,
+    "punctuation_frequency": 12.61574074074074,
+    "first_person_frequency": 2.4691358024691357
+  },
+  "user_f4f9490d": {
+    "avg_sentence_length": 21.418823529411764,
+    "avg_word_length": 4.294847852356366,
+    "ttr": 0.24859936284741294,
+    "punctuation_frequency": 9.535318027024058,
+    "first_person_frequency": 3.1528067669998903
+  },
+  "user_f5138e15": {
+    "avg_sentence_length": 14.682282003710576,
+    "avg_word_length": 4.287695466750908,
+    "ttr": 0.11224135207708102,
+    "punctuation_frequency": 12.231874901279419,
+    "first_person_frequency": 1.5416205970620755
+  },
+  "user_f52ced02": {
+    "avg_sentence_length": 12.94018817204301,
+    "avg_word_length": 4.233913269280706,
+    "ttr": 0.16920280446637237,
+    "punctuation_frequency": 12.152687613606854,
+    "first_person_frequency": 2.804466372370813
+  },
+  "user_f54058d0": {
+    "avg_sentence_length": 13.11340206185567,
+    "avg_word_length": 4.28552854378326,
+    "ttr": 0.1233974358974359,
+    "punctuation_frequency": 11.411465892597967,
+    "first_person_frequency": 1.599540396710208
+  },
+  "user_f5e2976e": {
+    "avg_sentence_length": 13.582677165354331,
+    "avg_word_length": 4.66499194847021,
+    "ttr": 0.23954911433172302,
+    "punctuation_frequency": 13.349436392914654,
+    "first_person_frequency": 1.0821256038647344
+  },
+  "user_f5fea76f": {
+    "avg_sentence_length": 30.60655737704918,
+    "avg_word_length": 3.9873236921978217,
+    "ttr": 0.2719157293340475,
+    "punctuation_frequency": 14.265309766113193,
+    "first_person_frequency": 3.7850383860025
+  },
+  "user_f60a09b3": {
+    "avg_sentence_length": 12.332931242460797,
+    "avg_word_length": 4.163830203442879,
+    "ttr": 0.26604068857589985,
+    "punctuation_frequency": 17.429577464788732,
+    "first_person_frequency": 3.697183098591549
+  },
+  "user_f7538815": {
+    "avg_sentence_length": 12.105809128630705,
+    "avg_word_length": 4.5231876606683805,
+    "ttr": 0.1249357326478149,
+    "punctuation_frequency": 10.975149957155098,
+    "first_person_frequency": 0.9254498714652957
+  },
+  "user_f75c71f0": {
+    "avg_sentence_length": 8.615746180963573,
+    "avg_word_length": 4.2660938352427715,
+    "ttr": 0.31983087834151663,
+    "punctuation_frequency": 15.548281505728315,
+    "first_person_frequency": 3.0687397708674307
+  },
+  "user_f7bb8af1": {
+    "avg_sentence_length": 17.484154929577464,
+    "avg_word_length": 4.567515859430068,
+    "ttr": 0.3000704863558554,
+    "punctuation_frequency": 9.576074916926796,
+    "first_person_frequency": 1.7520894169771422
+  },
+  "user_f7fd2885": {
+    "avg_sentence_length": 13.180186170212766,
+    "avg_word_length": 4.398678302981385,
+    "ttr": 0.1829188316601927,
+    "punctuation_frequency": 11.305049689754327,
+    "first_person_frequency": 2.0279473339050598
+  },
+  "user_f827c7dd": {
+    "avg_sentence_length": 11.679343773303504,
+    "avg_word_length": 4.279913165623803,
+    "ttr": 0.21159494317456262,
+    "punctuation_frequency": 13.203933086451283,
+    "first_person_frequency": 2.6561103307368152
+  },
+  "user_f8e2246f": {
+    "avg_sentence_length": 14.014948859166012,
+    "avg_word_length": 4.39038904171111,
+    "ttr": 0.21495536967383372,
+    "punctuation_frequency": 11.53651827317128,
+    "first_person_frequency": 2.6665918149665973
+  },
+  "user_f930e37f": {
+    "avg_sentence_length": 17.71620325982742,
+    "avg_word_length": 4.483980950319299,
+    "ttr": 0.22188548544214742,
+    "punctuation_frequency": 8.76177075441065,
+    "first_person_frequency": 2.467799545405347
+  },
+  "user_f959eee4": {
+    "avg_sentence_length": 14.151841359773371,
+    "avg_word_length": 4.367002962607094,
+    "ttr": 0.12444951557370486,
+    "punctuation_frequency": 13.60597325646569,
+    "first_person_frequency": 0.762671150612539
+  },
+  "user_fa60616d": {
+    "avg_sentence_length": 12.404454865181712,
+    "avg_word_length": 4.080001890180513,
+    "ttr": 0.16335885077024856,
+    "punctuation_frequency": 11.615159247708156,
+    "first_person_frequency": 3.9079482090539646
+  },
+  "user_fa69a385": {
+    "avg_sentence_length": 13.095492742551565,
+    "avg_word_length": 4.527884727569711,
+    "ttr": 0.22290281180725702,
+    "punctuation_frequency": 11.912262279780656,
+    "first_person_frequency": 1.289231128223078
+  },
+  "user_fb427339": {
+    "avg_sentence_length": 15.11448275862069,
+    "avg_word_length": 4.343037050556671,
+    "ttr": 0.25679868589158605,
+    "punctuation_frequency": 9.509034495345867,
+    "first_person_frequency": 2.0259171381638983
+  },
+  "user_fb64cb55": {
+    "avg_sentence_length": 13.843181818181819,
+    "avg_word_length": 4.1811689377770485,
+    "ttr": 0.2069446724675751,
+    "punctuation_frequency": 11.352815629617469,
+    "first_person_frequency": 2.7417501231324906
+  },
+  "user_fb8f46c8": {
+    "avg_sentence_length": 14.997389033942559,
+    "avg_word_length": 4.290738161559888,
+    "ttr": 0.19904828226555246,
+    "punctuation_frequency": 11.699164345403899,
+    "first_person_frequency": 2.01949860724234
+  },
+  "user_fbed237d": {
+    "avg_sentence_length": 14.804295942720763,
+    "avg_word_length": 4.262453651458971,
+    "ttr": 0.28857004675157183,
+    "punctuation_frequency": 13.30001612123166,
+    "first_person_frequency": 2.3536998226664516
+  },
+  "user_fc1cfe0b": {
+    "avg_sentence_length": 16.325248070562292,
+    "avg_word_length": 4.07854393192409,
+    "ttr": 0.17653812386033632,
+    "punctuation_frequency": 12.777740257986087,
+    "first_person_frequency": 2.235429188897143
+  },
+  "user_fca58a87": {
+    "avg_sentence_length": 11.613899613899614,
+    "avg_word_length": 4.092198581560283,
+    "ttr": 0.2657358156028369,
+    "punctuation_frequency": 11.679964539007093,
+    "first_person_frequency": 3.202570921985816
+  },
+  "user_fcf93ee8": {
+    "avg_sentence_length": 14.69094304388422,
+    "avg_word_length": 4.289881784670141,
+    "ttr": 0.20509724164230328,
+    "punctuation_frequency": 10.118215329858904,
+    "first_person_frequency": 2.2880386424304056
+  },
+  "user_fdc08e26": {
+    "avg_sentence_length": 11.40673436664885,
+    "avg_word_length": 4.318667416362103,
+    "ttr": 0.18798613063442976,
+    "punctuation_frequency": 13.953706306812858,
+    "first_person_frequency": 2.024177677818386
+  },
+  "user_fdcaaf41": {
+    "avg_sentence_length": 14.15053003533569,
+    "avg_word_length": 4.371622633970934,
+    "ttr": 0.15996603905508666,
+    "punctuation_frequency": 10.57284123258253,
+    "first_person_frequency": 1.2735354342506118
+  },
+  "user_fde2d265": {
+    "avg_sentence_length": 12.27803099361896,
+    "avg_word_length": 4.1113668423787955,
+    "ttr": 0.21323038087460094,
+    "punctuation_frequency": 13.683272700274705,
+    "first_person_frequency": 2.858415621055758
+  },
+  "user_fe922ad0": {
+    "avg_sentence_length": 17.221606648199447,
+    "avg_word_length": 4.195753578896574,
+    "ttr": 0.20548496059192536,
+    "punctuation_frequency": 11.557021071256234,
+    "first_person_frequency": 3.7397458581309313
+  },
+  "user_ff39b6cf": {
+    "avg_sentence_length": 14.131578947368421,
+    "avg_word_length": 4.260707635009311,
+    "ttr": 0.24635776098148757,
+    "punctuation_frequency": 11.622302552305838,
+    "first_person_frequency": 2.782341987074159
+  },
+  "user_ff591131": {
+    "avg_sentence_length": 5.5592672413793105,
+    "avg_word_length": 3.9821670866446985,
+    "ttr": 0.2845512696258965,
+    "punctuation_frequency": 24.7916262841636,
+    "first_person_frequency": 6.2996704787749565
+  }
+}

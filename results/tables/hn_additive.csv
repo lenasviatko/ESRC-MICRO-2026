@@ -1,0 +1,7 @@
+step,profile,recall@90,rank1_acc,frac_of_full
+1,GEO,0.0,0.0,0.0
+2,GEO+PROF,0.0,0.0,0.0
+3,GEO+PROF+DEMO,0.0,0.0,0.0
+4,GEO+PROF+DEMO+INT,0.0,0.0,0.0
+5,GEO+PROF+DEMO+INT+VAL,0.0,0.0,0.0
+6,GEO+PROF+DEMO+INT+VAL+STYLE,0.0,0.0,0.0

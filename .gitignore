@@ -1,0 +1,32 @@
+# --- Secrets ---
+.env
+.env.*
+*.key
+
+# --- Python venv / caches ---
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# --- OS junk ---
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+
+# --- Large research data pools (kept local) ---
+POOL-EN/
+POOL-HN/
+POOL-XLING-ES/
+POOL-XLING-PT/
+
+# --- Editor ---
+.idea/
+.vscode/
+*.swp
