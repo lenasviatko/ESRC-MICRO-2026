@@ -1,0 +1,634 @@
+{
+  "gpt-4o-mini:user_058c1800:12334bd9f990c6550d2e14f2bcb2ceda": [
+    1,
+    0.85
+  ],
+  "gpt-4o-mini:user_0168255c:04d18ac94f552e713be32c7c1ff34a29": [
+    2,
+    0.8
+  ],
+  "gpt-4o-mini:user_07cb458d:514f4956ddcec0440a91c5f7fb9eb0fa": [
+    6,
+    0.85
+  ],
+  "gpt-4o-mini:user_04d8419e:c1b7b1c143c5a9184d82724359439dcd": [
+    9,
+    0.8
+  ],
+  "gpt-4o-mini:user_043ea160:266c32e14613d07c23fa5b71bc429bd1": [
+    1,
+    0.85
+  ],
+  "gpt-4o-mini:user_0697c470:8c719e71767e53a704bcee599e61ad23": [
+    12,
+    0.85
+  ],
+  "gpt-4o-mini:user_0a245f61:031a62ee168f13864739d648efbb7248": [
+    1,
+    0.75
+  ],
+  "gpt-4o-mini:user_0cd29f02:5991cba8f32e3bf3b7a87d6f8ae82630": [
+    9,
+    0.85
+  ],
+  "gpt-4o-mini:user_0c578ab5:a12137239a0a521fc9f26bb4a90b308b": [
+    4,
+    0.85
+  ],
+  "gpt-4o-mini:user_0cc626ee:6a8ad3a168878a01e4fb5f02c6b39689": [
+    14,
+    0.85
+  ],
+  "gpt-4o-mini:user_126670d7:55e8c0ee9c1aef6c601368c93e0d1576": [
+    8,
+    0.85
+  ],
+  "gpt-4o-mini:user_08e9ce6e:ca6c1fb3e54cc872056e790b089aafd0": [
+    13,
+    0.85
+  ],
+  "gpt-4o-mini:user_0a0bcaa6:a02804240918b7b6e7d6bb06fe340626": [
+    3,
+    0.8
+  ],
+  "gpt-4o-mini:user_18c333c6:ac98418f83efeca8ff5847fdcbb14a2e": [
+    2,
+    0.8
+  ],
+  "gpt-4o-mini:user_164057cc:5136867b09a5cc90f625e100fccc91fb": [
+    1,
+    0.85
+  ],
+  "gpt-4o-mini:user_164fe4b8:7f459bacfb0c5e95e2b6ba6bb4854ced": [
+    1,
+    0.8
+  ],
+  "gpt-4o-mini:user_183b3783:36702fd4713dafacdd8a5fa12a9b4ef0": [
+    10,
+    0.85
+  ],
+  "gpt-4o-mini:user_13f8ee07:7939d5430ad4fce36e188ee872528f69": [
+    15,
+    0.85
+  ],
+  "gpt-4o-mini:user_1a2755b3:f5f0cbc01ca40c0d3899f8182a7583e4": [
+    4,
+    0.85
+  ],
+  "gpt-4o-mini:user_17607ebc:65e9f5b1324e09a9d1af7c79d2d36676": [
+    15,
+    0.8
+  ],
+  "gpt-4o-mini:user_1dc24686:45c0ef8d19d4c04aa41dfc8ceac99d23": [
+    0,
+    0.0
+  ],
+  "gpt-4o-mini:user_1f1dc5e0:d0a14feb1d0382dceadcfb24f15f93d2": [
+    7,
+    0.85
+  ],
+  "gpt-4o-mini:user_1e302679:3dd42c5190aea46d837ce419b06e238f": [
+    1,
+    0.85
+  ],
+  "gpt-4o-mini:user_1a4bec69:ff8a87e6335a667fee1ac72639de3a5e": [
+    13,
+    0.9
+  ],
+  "gpt-4o-mini:user_245fd42f:c3c0bdca0680327cf7b1a09d8cbcf92e": [
+    1,
+    0.8
+  ],
+  "gpt-4o-mini:user_21b4fa31:28833795967602dd77f791152789ef9b": [
+    1,
+    0.85
+  ],
+  "gpt-4o-mini:user_2373103d:d9e64723ea53977ef9b921946518dd9e": [
+    8,
+    0.85
+  ],
+  "gpt-4o-mini:user_27a3fa64:ffc3d951bdf4c5c1317f1ab96db7c74c": [
+    2,
+    0.8
+  ],
+  "gpt-4o-mini:user_26fa9d90:8b7d11cae4763ed05da8678ed3346609": [
+    2,
+    0.8
+  ],
+  "gpt-4o-mini:user_29cd4556:609f90c8207d1449d4940392aee4d442": [
+    15,
+    0.85
+  ],
+  "gpt-4o-mini:user_2eaaa117:d117d430eccc86dd762391cdd27f921b": [
+    14,
+    0.85
+  ],
+  "gpt-4o-mini:user_2a94c885:6cf8c340f740c1653b5774d6ec40cd2e": [
+    2,
+    0.7
+  ],
+  "gpt-4o-mini:user_2dd189e3:1ad6cf4b89bd0da88748c28bde1581db": [
+    10,
+    0.8
+  ],
+  "gpt-4o-mini:user_08c32973:4f16866fa8e44067d8f07fa580cd1f73": [
+    2,
+    0.75
+  ],
+  "gpt-4o-mini:user_2efde048:7d5ddd6edf5ddf06e6f46dc74331ed5b": [
+    1,
+    0.85
+  ],
+  "gpt-4o-mini:user_30802254:6442fab46d1371242ef2404b2e689ba8": [
+    5,
+    0.8
+  ],
+  "gpt-4o-mini:user_32ae32f9:c89d07031f7ba30bca8c235e50a07783": [
+    14,
+    0.75
+  ],
+  "gpt-4o-mini:user_39939c54:70b835783ef9080c0b2c5d4883e836a9": [
+    7,
+    0.85
+  ],
+  "gpt-4o-mini:user_34b1fb84:cb4da8d320c586cba17410447161ba85": [
+    15,
+    0.85
+  ],
+  "gpt-4o-mini:user_378003e3:bab5a5a914d7cf152b760706518538aa": [
+    8,
+    0.85
+  ],
+  "gpt-4o-mini:user_454733da:80106b02cd96243bf0a4fe9704119810": [
+    1,
+    0.85
+  ],
+  "gpt-4o-mini:user_40a0bad3:81ba0f688e54c0ab3f6b1d4ad7836b92": [
+    1,
+    0.85
+  ],
+  "gpt-4o-mini:user_4ab9d510:13862af5f4d2e48233bf4925eaf4d88c": [
+    1,
+    0.85
+  ],
+  "gpt-4o-mini:user_3ff3188b:819ebd10f67a130c1825711204222b76": [
+    9,
+    0.85
+  ],
+  "gpt-4o-mini:user_3e284ba5:69d2b7eba7a1724800119156e20c9a22": [
+    6,
+    0.75
+  ],
+  "gpt-4o-mini:user_4cad4295:84b4581274213e82969e06d7bb4fbc1f": [
+    5,
+    0.85
+  ],
+  "gpt-4o-mini:user_3f1d04a6:1afa714a8777d1530d70ece1e3dd3e97": [
+    11,
+    0.85
+  ],
+  "gpt-4o-mini:user_52d3881c:b159c7e56e76ce68988cb1382becf468": [
+    1,
+    0.85
+  ],
+  "gpt-4o-mini:user_56980aa9:c000c7021563efb750d2f09dcbb2b288": [
+    7,
+    0.85
+  ],
+  "gpt-4o-mini:user_515ae840:c35781861617f085d20b0d4f10a10646": [
+    11,
+    0.85
+  ],
+  "gpt-4o-mini:user_53325367:5aad0ce6235df5155f12470077533d79": [
+    12,
+    0.8
+  ],
+  "gpt-4o-mini:user_4f8b6987:44b4e3318cc4f317383ff5f8f503c2a7": [
+    4,
+    0.85
+  ],
+  "gpt-4o-mini:user_4e42bf97:8673333194b9e6fbe7133cde55c76b48": [
+    0,
+    0.0
+  ],
+  "gpt-4o-mini:user_4e54f3d7:bff213bb1bb4bec7652c4997391fab06": [
+    1,
+    0.75
+  ],
+  "gpt-4o-mini:user_5a6f92a6:7b970d6ae371b71610e63b89ff07bc4c": [
+    11,
+    0.8
+  ],
+  "gpt-4o-mini:user_63110023:2fa23ce93a22b39573f8ab754f9c4ad7": [
+    5,
+    0.8
+  ],
+  "gpt-4o-mini:user_58892c7c:911b527a3904a11dc1af9bfd6181cd64": [
+    15,
+    0.8
+  ],
+  "gpt-4o-mini:user_6476648d:1076c579c9ac8d89bfa69185d8d6df6b": [
+    3,
+    0.85
+  ],
+  "gpt-4o-mini:user_5d1b0daf:daf6b1ecbece27f177cfd5b8cf1aa95b": [
+    2,
+    0.8
+  ],
+  "gpt-4o-mini:user_5a6c91dd:a4a52f15d4028d45c32672452d4bb63a": [
+    0,
+    0.0
+  ],
+  "gpt-4o-mini:user_5a5bee64:892b8ddb1afed3cc428779bf9b26e0d2": [
+    1,
+    0.85
+  ],
+  "gpt-4o-mini:user_657c72ca:80194ffe4cf32c9cc1f6aa50f3891427": [
+    2,
+    0.85
+  ],
+  "gpt-4o-mini:user_69193575:48a841275130eae9d88d66b71064f009": [
+    3,
+    0.85
+  ],
+  "gpt-4o-mini:user_586752e4:9549df87964310c4b4a530df766632f4": [
+    1,
+    0.85
+  ],
+  "gpt-4o-mini:user_69df6330:645f5045f4dbc1ec1032bbe854ffd65b": [
+    5,
+    0.75
+  ],
+  "gpt-4o-mini:user_68d19df8:67c68faaead4e7a5a140ffeb958767fc": [
+    10,
+    0.85
+  ],
+  "gpt-4o-mini:user_6d071251:460dd9464052b9e7a33524d049de2b30": [
+    5,
+    0.85
+  ],
+  "gpt-4o-mini:user_69a4dd06:6a4bfdeecb6aeda4882340ac1f8fadfa": [
+    1,
+    0.85
+  ],
+  "gpt-4o-mini:user_6fa47d61:7cf6d02909c58fdb5da41abd2c4e3ad4": [
+    4,
+    0.8
+  ],
+  "gpt-4o-mini:user_6d421600:db6591c1637c5ce8ecba448ff4db3e88": [
+    14,
+    0.85
+  ],
+  "gpt-4o-mini:user_74025dc0:b72ad8a5ced03ed555a848d00ae51c5d": [
+    6,
+    0.85
+  ],
+  "gpt-4o-mini:user_6d2cb415:a7682139f61239798a477a5bf90c7292": [
+    3,
+    0.85
+  ],
+  "gpt-4o-mini:user_649f4327:256618571ca63ea4ca0edf9c2045b43f": [
+    2,
+    0.85
+  ],
+  "gpt-4o-mini:user_723406a0:2c663d98d9acf4d6deabb723b063010f": [
+    4,
+    0.75
+  ],
+  "gpt-4o-mini:user_75905116:8a68524f63c5bf410f51168cb9e9a6ed": [
+    2,
+    0.85
+  ],
+  "gpt-4o-mini:user_65d73ac1:674a1133e6b310603326e64c5bca4b62": [
+    12,
+    0.85
+  ],
+  "gpt-4o-mini:user_7709815a:43631fea7f13723e552950849b99de68": [
+    1,
+    0.75
+  ],
+  "gpt-4o-mini:user_7c7220a4:8ff4325b3ae96cdd28198d1ad2d7e143": [
+    1,
+    0.75
+  ],
+  "gpt-4o-mini:user_79f04645:dcc03f0b5658f962ee685294895a623d": [
+    5,
+    0.8
+  ],
+  "gpt-4o-mini:user_7924afc9:12a0c209c3431242cd85c3ceab638638": [
+    5,
+    0.8
+  ],
+  "gpt-4o-mini:user_84c14a6f:0663a6ac1db6a1186044754999c2e113": [
+    2,
+    0.8
+  ],
+  "gpt-4o-mini:user_8d85acb5:bb4678e9ad2abdcf2518d66c2e80b5b4": [
+    1,
+    0.85
+  ],
+  "gpt-4o-mini:user_8d968cfb:ff5aae5d191e0ed3a6f1a8f4abad9a75": [
+    1,
+    0.85
+  ],
+  "gpt-4o-mini:user_7c45fa70:a79b71b2af0885e3d6645eb4a9dccfda": [
+    5,
+    0.85
+  ],
+  "gpt-4o-mini:user_84fe1a7a:d4d04c1f493e473255080054ff6f62e5": [
+    6,
+    0.8
+  ],
+  "gpt-4o-mini:user_96c3cc43:08c98decdac77fdaa562badf8c84ac53": [
+    6,
+    0.85
+  ],
+  "gpt-4o-mini:user_98f18241:231aa9093ec748d35a8fe9b36d57c3e0": [
+    9,
+    0.85
+  ],
+  "gpt-4o-mini:user_979ee068:6cdb7dbae4e7123b06362d5b5aa7a51c": [
+    1,
+    0.85
+  ],
+  "gpt-4o-mini:user_9c5cd7fa:ab4eed7727570c801607014e7aab60f3": [
+    14,
+    0.85
+  ],
+  "gpt-4o-mini:user_80dc757f:fd9c8cf2c03175394874220de4ceee87": [
+    2,
+    0.8
+  ],
+  "gpt-4o-mini:user_9991e1d8:ba71372124e0c75a487b41a9fc38d9ec": [
+    1,
+    0.85
+  ],
+  "gpt-4o-mini:user_95d648bc:9388b2c2ccab690753ecba2e2a7e437f": [
+    7,
+    0.85
+  ],
+  "gpt-4o-mini:user_7f623d19:12a35b7b64efd5fb2b7c8de1b049927f": [
+    1,
+    0.85
+  ],
+  "gpt-4o-mini:user_9bee2a7c:441afe8276c82d354e44f51a37a03fd1": [
+    5,
+    0.85
+  ],
+  "gpt-4o-mini:user_9c7183c8:ac9fb50327637098a902306c802eea07": [
+    11,
+    0.85
+  ],
+  "gpt-4o-mini:user_9c5e4782:9d0f4d8b92dc3fc6284ddfeb3ab820f5": [
+    12,
+    0.75
+  ],
+  "gpt-4o-mini:user_9ce96cbf:eb1954033a0b18e488cf77f84d362bc0": [
+    6,
+    0.8
+  ],
+  "gpt-4o-mini:user_a0fa40f1:efdc375bf8694ba21250b043542c7754": [
+    15,
+    0.8
+  ],
+  "gpt-4o-mini:user_a4a77a7d:f91bde0c2b5bb8f8b8a9e4b70400b27f": [
+    12,
+    0.85
+  ],
+  "gpt-4o-mini:user_9dda4af9:e46d30225e4d6489c0400d4079e246d6": [
+    11,
+    0.85
+  ],
+  "gpt-4o-mini:user_a2825b06:81960488d5ee355611c23b819a0f77c2": [
+    2,
+    0.8
+  ],
+  "gpt-4o-mini:user_a4ae4e77:bb4658da4070ab2205490fcaf6d9d42c": [
+    9,
+    0.8
+  ],
+  "gpt-4o-mini:user_a973cf8e:9330b442df3fc677a51fe087b284603e": [
+    5,
+    0.8
+  ],
+  "gpt-4o-mini:user_a57e47b1:40aef8758f48ca07f725fe1c0eb697d0": [
+    1,
+    0.85
+  ],
+  "gpt-4o-mini:user_b2f3c0d2:2d0da1abe859073c340d41f09f6a961c": [
+    1,
+    0.85
+  ],
+  "gpt-4o-mini:user_a743aff9:2a87d510ed131b3e79ecf17db9e8bd63": [
+    9,
+    0.85
+  ],
+  "gpt-4o-mini:user_a8dc91a3:1bde9795cd0862c80b45eb352a1e7b2e": [
+    6,
+    0.85
+  ],
+  "gpt-4o-mini:user_acb51eed:a75c6a5337396d6080996dd6b96d4fef": [
+    0,
+    0.0
+  ],
+  "gpt-4o-mini:user_b23aa915:ae29e7413caa23cfc7a26eeefde3aacd": [
+    3,
+    0.85
+  ],
+  "gpt-4o-mini:user_b325310b:782ab87e0d87b69a0735ffda32d97932": [
+    15,
+    0.9
+  ],
+  "gpt-4o-mini:user_b6b89f00:e230e1b735b396e5e6739bbb000310e0": [
+    5,
+    0.85
+  ],
+  "gpt-4o-mini:user_ba463257:e4b7a7994e71e1fcdd6b85ae3ae72227": [
+    1,
+    0.85
+  ],
+  "gpt-4o-mini:user_b49274ca:c20be9bff18818cbb59d7167671f0f7d": [
+    4,
+    0.8
+  ],
+  "gpt-4o-mini:user_bdcc6e7d:747b7df6f50119ed9de654290cf35fa8": [
+    4,
+    0.85
+  ],
+  "gpt-4o-mini:user_beca29a3:de2dd25a6b576ca814a1685bf1e56298": [
+    1,
+    0.85
+  ],
+  "gpt-4o-mini:user_b563e90b:4b3d6dfcdd77a5a72f2d9fa76bb2a09b": [
+    9,
+    0.85
+  ],
+  "gpt-4o-mini:user_bf30f80d:3015d0c27711a96044502f07f1656520": [
+    4,
+    0.85
+  ],
+  "gpt-4o-mini:user_bbe73426:ba725213cb20d291ab8831bb48ccbbb7": [
+    5,
+    0.85
+  ],
+  "gpt-4o-mini:user_c154e834:649eabdfd605877f469bc281b104d838": [
+    4,
+    0.75
+  ],
+  "gpt-4o-mini:user_be06391b:ddcbcc2724ac78389b75e8f4f13d8653": [
+    9,
+    0.85
+  ],
+  "gpt-4o-mini:user_c536b01d:a2781c3a14b30bdd6bf9330fcdf66393": [
+    1,
+    0.8
+  ],
+  "gpt-4o-mini:user_c50a487d:dcfb6cc6a6fb03bc7cf061d454033a1d": [
+    0,
+    0.0
+  ],
+  "gpt-4o-mini:user_c41de62b:09699fb559a9146908621f24a3b2f4c7": [
+    2,
+    0.8
+  ],
+  "gpt-4o-mini:user_d10d1f24:6c1d1bf123f545e1031d5fdf7509fdb1": [
+    14,
+    0.85
+  ],
+  "gpt-4o-mini:user_c67f26cc:85b683d6aff88148cc90d8a1fccf5010": [
+    3,
+    0.7
+  ],
+  "gpt-4o-mini:user_c994138f:2872bbf1f2702d3de47fddb5100c140f": [
+    5,
+    0.8
+  ],
+  "gpt-4o-mini:user_c60d65b5:fa570c19e535e331d9b6c668e677eb78": [
+    12,
+    0.85
+  ],
+  "gpt-4o-mini:user_d023a78e:067d0954a047738a9987314b189b550d": [
+    2,
+    0.85
+  ],
+  "gpt-4o-mini:user_c8e749e2:3cc825e697bf241fffda45cddf819707": [
+    15,
+    0.8
+  ],
+  "gpt-4o-mini:user_dffc0da5:cabd8034e0b1612d97f56cfa7082911b": [
+    5,
+    0.8
+  ],
+  "gpt-4o-mini:user_cb8245f7:41de754ca622dcc1469e8b0f078f1186": [
+    2,
+    0.8
+  ],
+  "gpt-4o-mini:user_da51dede:7b9f0f40c1c75b91becc2583a5464f66": [
+    15,
+    0.8
+  ],
+  "gpt-4o-mini:user_cf393213:8d09ca33a411f5a0950a7b59b117c6d1": [
+    1,
+    0.75
+  ],
+  "gpt-4o-mini:user_daf37424:cf14082e114e10b4983c89716306415e": [
+    7,
+    0.85
+  ],
+  "gpt-4o-mini:user_d1d16d30:42f08b5184089d1c10b06e4a603275de": [
+    11,
+    0.8
+  ],
+  "gpt-4o-mini:user_d14b7d7b:9188094de19cde6c27f7f8b5a18df1a6": [
+    15,
+    0.7
+  ],
+  "gpt-4o-mini:user_e6dd44b0:cbe39fc9e61afe80898a1dda779c32f6": [
+    11,
+    0.7
+  ],
+  "gpt-4o-mini:user_d849ac6e:bcece741508cf2f50ab802334e773682": [
+    3,
+    0.85
+  ],
+  "gpt-4o-mini:user_ee8d5ec5:20adc5db58f0b5a518dd67a27da0b739": [
+    4,
+    0.7
+  ],
+  "gpt-4o-mini:user_e5f67397:3795c75d4dc2365fd0ed46520f3f8a81": [
+    7,
+    0.85
+  ],
+  "gpt-4o-mini:user_e88c308b:121071b7ac0e97ac6641316bca7a00ab": [
+    13,
+    0.85
+  ],
+  "gpt-4o-mini:user_e1730a9c:2df0aaac958a6dba88ac2b1286b29b7f": [
+    10,
+    0.8
+  ],
+  "gpt-4o-mini:user_e14b88a8:11b8dc5085fdee61eadf5c9ccb9e70ed": [
+    2,
+    0.9
+  ],
+  "gpt-4o-mini:user_e838707b:2aec26aec75e33bc06155227480a9386": [
+    6,
+    0.85
+  ],
+  "gpt-4o-mini:user_efcacf59:8028c0625f54e57fceacc8ede7858f77": [
+    2,
+    0.85
+  ],
+  "gpt-4o-mini:user_f60a09b3:39367339933d7e6746dc139937064f9e": [
+    3,
+    0.75
+  ],
+  "gpt-4o-mini:user_f75c71f0:dde16b70cf47bb62f78464a3b085f184": [
+    9,
+    0.85
+  ],
+  "gpt-4o-mini:user_f030b951:907627aa400b06dfb3124898659671f6": [
+    10,
+    0.85
+  ],
+  "gpt-4o-mini:user_f7bb8af1:98ece57ceb49c402abba627ed698a35b": [
+    0,
+    0.0
+  ],
+  "gpt-4o-mini:user_f368b9da:e8ffd53dcc6d45acd144c9049e08de80": [
+    1,
+    0.85
+  ],
+  "gpt-4o-mini:user_f930e37f:aa37398319631c319b207d6221c37a7f": [
+    9,
+    0.85
+  ],
+  "gpt-4o-mini:user_f8e2246f:07d7aa706676b718a009ad6d6c11e7a6": [
+    15,
+    0.85
+  ],
+  "gpt-4o-mini:user_f0b144fc:fed7565b3fe578d955d39e718dcd0ff1": [
+    7,
+    0.85
+  ],
+  "gpt-4o-mini:user_f7fd2885:042075a02da849b7a1effc31bf9854b0": [
+    2,
+    0.75
+  ],
+  "gpt-4o-mini:user_fde2d265:2c699836f15b731cfb63f35bafb13f14": [
+    4,
+    0.8
+  ],
+  "gpt-4o-mini:user_fcf93ee8:dfa89cec1f02d9cc104143d7b35ba31b": [
+    2,
+    0.85
+  ],
+  "gpt-4o-mini:user_fc1cfe0b:ea01a3ffdafce4e86e86e5cee3f47bbb": [
+    0,
+    0.0
+  ],
+  "gpt-4o-mini:user_fb64cb55:605617da2f5aed471813ab0bcbe08bc7": [
+    13,
+    0.85
+  ]
+}

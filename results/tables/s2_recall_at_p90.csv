@@ -1,0 +1,7 @@
+pool,score,recall@90%P,CI_lo,CI_hi
+POOL-EN,llm_confidence,0.0,0.0,0.0
+POOL-EN,style_sim_top1,0.1139,0.038,0.259
+POOL-EN,style_gap_top1_top2,0.057,0.013,0.329
+POOL-HN,llm_confidence,0.0,0.0,0.0
+POOL-HN,style_sim_top1,0.101,0.051,0.323
+POOL-HN,style_gap_top1_top2,0.0,0.0,0.03

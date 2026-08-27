@@ -1,0 +1,163 @@
+{
+  "pool": "POOL-EN",
+  "n": 158,
+  "model": "gpt-4o-mini",
+  "representation": "5-section summary, ablation by [masked]",
+  "style_sentence": "identical in all conditions",
+  "truncation": "first 100 comments per period",
+  "rank1_full": 0.2468,
+  "loo": [
+    {
+      "condition": "FULL",
+      "rank1_acc": 0.2468,
+      "rank1_CI": [
+        0.177,
+        0.316
+      ],
+      "recall@90": 0.0,
+      "retrieved@15": 0.424
+    },
+    {
+      "condition": "NO_GEO",
+      "rank1_acc": 0.2342,
+      "rank1_CI": [
+        0.171,
+        0.304
+      ],
+      "recall@90": 0.0,
+      "retrieved@15": 0.405,
+      "SIS_rank1": 5.1,
+      "t_pvalue": 0.5946,
+      "cohens_d": 0.042,
+      "mcnemar_p": 0.7905
+    },
+    {
+      "condition": "NO_PROF",
+      "rank1_acc": 0.2975,
+      "rank1_CI": [
+        0.228,
+        0.367
+      ],
+      "recall@90": 0.019,
+      "retrieved@15": 0.418,
+      "SIS_rank1": -20.5,
+      "t_pvalue": 0.1708,
+      "cohens_d": -0.109,
+      "mcnemar_p": 0.2295
+    },
+    {
+      "condition": "NO_DEMO",
+      "rank1_acc": 0.2848,
+      "rank1_CI": [
+        0.215,
+        0.354
+      ],
+      "recall@90": 0.019,
+      "retrieved@15": 0.418,
+      "SIS_rank1": -15.4,
+      "t_pvalue": 0.158,
+      "cohens_d": -0.113,
+      "mcnemar_p": 0.2379
+    },
+    {
+      "condition": "NO_INT",
+      "rank1_acc": 0.2468,
+      "rank1_CI": [
+        0.177,
+        0.316
+      ],
+      "recall@90": 0.0253,
+      "retrieved@15": 0.405,
+      "SIS_rank1": 0.0,
+      "t_pvalue": 1.0,
+      "cohens_d": 0.0,
+      "mcnemar_p": 1.0
+    },
+    {
+      "condition": "NO_VAL",
+      "rank1_acc": 0.2342,
+      "rank1_CI": [
+        0.171,
+        0.304
+      ],
+      "recall@90": 0.0127,
+      "retrieved@15": 0.405,
+      "SIS_rank1": 5.1,
+      "t_pvalue": 0.6186,
+      "cohens_d": 0.04,
+      "mcnemar_p": 0.8036
+    }
+  ],
+  "sis_order": [
+    "GEO",
+    "VAL",
+    "INT",
+    "DEMO",
+    "PROF"
+  ],
+  "additive": [
+    {
+      "step": 1,
+      "profile": "GEO",
+      "rank1_acc": 0.1013,
+      "rank1_CI": [
+        0.057,
+        0.152
+      ],
+      "frac_of_full": 0.41
+    },
+    {
+      "step": 2,
+      "profile": "GEO+VAL",
+      "rank1_acc": 0.2025,
+      "rank1_CI": [
+        0.139,
+        0.266
+      ],
+      "frac_of_full": 0.821,
+      "drop_vs_prev": -0.1012,
+      "mcnemar_p_vs_prev": 0.007
+    },
+    {
+      "step": 3,
+      "profile": "GEO+VAL+INT",
+      "rank1_acc": 0.2848,
+      "rank1_CI": [
+        0.215,
+        0.354
+      ],
+      "frac_of_full": 1.154,
+      "drop_vs_prev": -0.0823,
+      "mcnemar_p_vs_prev": 0.0192
+    },
+    {
+      "step": 4,
+      "profile": "GEO+VAL+INT+DEMO",
+      "rank1_acc": 0.2975,
+      "rank1_CI": [
+        0.228,
+        0.367
+      ],
+      "frac_of_full": 1.205,
+      "drop_vs_prev": -0.0127,
+      "mcnemar_p_vs_prev": 0.8238
+    },
+    {
+      "step": 5,
+      "profile": "GEO+VAL+INT+DEMO+PROF",
+      "rank1_acc": 0.2468,
+      "rank1_CI": [
+        0.177,
+        0.316
+      ],
+      "frac_of_full": 1.0,
+      "drop_vs_prev": 0.0507,
+      "mcnemar_p_vs_prev": 0.2295
+    }
+  ],
+  "monotonicity": "non-monotone within noise",
+  "tokens_spent": {
+    "prompt_tokens": 6657547,
+    "completion_tokens": 72814
+  }
+}

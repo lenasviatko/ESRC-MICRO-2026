@@ -1,0 +1,3 @@
+pool,n,style_rank1,llm_rank1,b_style_only_right,c_llm_only_right,chi2,p_raw,p_bonferroni_k2
+POOL-EN,158,0.4494,0.1899,58,17,21.333,3.860e-06,7.719e-06
+POOL-HN,99,0.3939,0.101,34,5,20.103,7.340e-06,1.468e-05

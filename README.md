@@ -57,3 +57,49 @@ Knobs: `MODEL=gpt-4o` for the final reported runs; `MAX_USERS=N` for a quick
 subset; `MIN_CATS=5` (default) keeps users with all five content categories.
 Reason answers are cached in `results/cache/`, so re-runs are free and an
 interrupted run resumes from where it stopped.
+
+## Study 2 — style vs. content (S1–S3)
+
+A self-contained follow-up study: classical authorship attribution vs. the
+LLM pipeline, on the same users and the same candidate pools (158 rich EN,
+99 rich HN). The earlier ablation (BSP4) enters as prior work.
+
+```
+src/
+  s1_style_attack.py   S1 — style-only attack, no LLM: 5 feature groups
+                       (function words, char 3-4-grams, punctuation rates,
+                       sentence/word length stats, POS distribution), each
+                       L2-normalised, cosine top-15 on the same pools.
+                       Profiles truncated to first 100 comments per period;
+                       hard test fails on any query/candidate vector leak.
+  s2_check_cache.py    verifies every per-user LLM decision is
+                       reconstructible from results/cache (no API calls).
+  s2_confidence.py     S2 — score separability of the two attacks:
+                       Recall@90%Precision (tie-aware) for LLM confidence vs
+                       style sim vs top1-top2 gap; LLM reliability table;
+                       accuracy per decile bin; McNemar style vs LLM with
+                       Bonferroni correction. No API calls.
+  s3_masked_ablation.py S3 — masked ablation on 5-section summaries
+                       (Extract, cached): a category is ablated by replacing
+                       its section with [masked], so every condition has the
+                       same shape; LOO + additive with monotonicity check.
+                       Pilot-first token measurement, sliding-window TPM
+                       throttle, token ledger with a hard stop in code.
+experiments/           s1_style_{en,hn}.json (summary + per-user records:
+                       pred, rank of true user, sim top1/top2, gap)
+                       s2_confidence_{en,hn}.json, s3_masked_en.json
+results/tables/        s1_style_only.csv, s2_recall_at_p90.csv,
+                       s2_reliability_llm.csv, s2_accuracy_by_bin.csv,
+                       s2_mcnemar.csv, s3_loo.csv, s3_additive.csv
+```
+
+```bash
+cd src && python s1_style_attack.py all       # zero cost, no API key needed
+cd src && python s2_check_cache.py            # cache-coverage check for S2
+cd src && MODEL=gpt-4o python s2_confidence.py  # against the final gpt-4o run
+cd src && python s3_masked_ablation.py        # pilot, extract, LOO + additive
+```
+
+The reason cache holds two complete generations per pool (gpt-4o-mini dev
+run and the final gpt-4o run); `MODEL=` selects which one S2 reconstructs.
+The reported tables use gpt-4o (matches `experiments/{en,hn}_loo.json`).
